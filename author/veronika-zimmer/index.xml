@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronika Zimmer | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/veronika-zimmer/</link>
+      <atom:link href="https://compai-lab.io/author/veronika-zimmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronika Zimmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/veronika-zimmer/avatar_hu7d3339efd454f84887db003b20ae29f7_22328_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Veronika Zimmer</title>
+      <link>https://compai-lab.io/author/veronika-zimmer/</link>
+    </image>
+    
+    <item>
+      <title>AtrialJSQnet: A New framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information</title>
+      <link>https://compai-lab.io/publication/li-2022-atrialjsqnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/li-2022-atrialjsqnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topological loss function for deep-learning based image segmentation using persistent homology</title>
+      <link>https://compai-lab.io/fpublications/clough-2019-topological/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/clough-2019-topological/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

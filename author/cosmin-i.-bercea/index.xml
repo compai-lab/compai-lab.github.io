@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmin I. Bercea | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
+      <atom:link href="https://compai-lab.io/author/cosmin-i.-bercea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cosmin I. Bercea</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/cosmin-i.-bercea/avatar_huaceb441613c93d7089e0928e58184d6d_563288_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cosmin I. Bercea</title>
+      <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
+    </image>
+    
+    <item>
+      <title>What do we learn? Debunking the Myth of Unsupervised Outlier Detection</title>
+      <link>https://compai-lab.io/publication/bercea-2022-we/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/bercea-2022-we/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

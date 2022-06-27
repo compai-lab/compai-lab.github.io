@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Di Folco | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/maxime-di-folco/</link>
+      <atom:link href="https://compai-lab.io/author/maxime-di-folco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime Di Folco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/maxime-di-folco/avatar_hu515229dd456e091782d07049ca80f8b3_4888220_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maxime Di Folco</title>
+      <link>https://compai-lab.io/author/maxime-di-folco/</link>
+    </image>
+    
+  </channel>
+</rss>

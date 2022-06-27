@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summer | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/summer/</link>
+      <atom:link href="https://compai-lab.io/tag/summer/index.xml" rel="self" type="application/rss+xml" />
+    <description>summer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>summer</title>
+      <link>https://compai-lab.io/tag/summer/</link>
+    </image>
+    
+    <item>
+      <title>Medical Image Registation I (IN2107)</title>
+      <link>https://compai-lab.io/teaching/master_seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/master_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950627128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image registration is the process of aligning two or more images, and crucial for many image analysis pipelines. This seminar will cover selected material of image registration for medical imaging. Basic problem formulations to recent advances in the field will be discussed. This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning and non-learning based image registration&lt;/li&gt;
+&lt;li&gt;Optimization techniques&lt;/li&gt;
+&lt;li&gt;Image registration for multi-modal data&lt;/li&gt;
+&lt;li&gt;Multi-resolution and regularization strategies&lt;/li&gt;
+&lt;li&gt;Linear and non-linear deformations&lt;/li&gt;
+&lt;li&gt;Supervised and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

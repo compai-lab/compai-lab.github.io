@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Positions | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/vacancies/</link>
+      <atom:link href="https://compai-lab.io/vacancies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Positions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Open Positions</title>
+      <link>https://compai-lab.io/vacancies/</link>
+    </image>
+    
+    <item>
+      <title>Multi-object and multi-modal image segmentation in dental MRI and CT using limited data  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/master-thesis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/master-thesis/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning methods have revolutionized the ﬁeld of medical imaging, in particular image segmentation. Supervised methods, often based on the popular U-Net architecture, show state-of-the-art results in many medical applications. But a large annotated database for training is not always available. The objective of this project is to explore and develop methods for learning segmentations using limited data, e.g., using transfer [1], self-supervised [2,3] or meta learning [4–6].&lt;/p&gt;
+&lt;p&gt;The clinical application is the identiﬁcation of periodontal lesions in magnetic resonance (MR) and computed tomography (CT) images. Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam CT. Recent studies report the successful use of MR imaging in the application of periodontitis diagnosis [7]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of the mandibular bone and periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The prospective student will explore existing deep-learning-based segmentation methods for training with limited data, and develop a multi-object and multi-modality framework to segment the mandibular bone and periodontal lesions in MR sequences and CT images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD AI-enabled medical imaging (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/phd-job/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/phd-job/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
