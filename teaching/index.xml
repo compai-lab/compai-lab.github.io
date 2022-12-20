@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Positions | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/teaching/</link>
+      <atom:link href="https://compai-lab.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Positions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Open Positions</title>
+      <link>https://compai-lab.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Deep Medical Anomaly Segmentation</title>
+      <link>https://compai-lab.io/teaching/anomaly_seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/anomaly_seminar/</guid>
+      <description>&lt;p&gt;Anomaly detection aims to identify patterns that do not conform to the expected normal distribution. Despite its importance for clinical applications, the detection of outliers is still a very challenging task due to the rarity, unknownness, diversity and heterogeneity of anomalies. Basic problem formulations to recent advances in the field will be discussed.&lt;/p&gt;
+&lt;p&gt;This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconstruction-based anomaly segmentation&lt;/li&gt;
+&lt;li&gt;Probabilistic models, i.e., anomaly likelihood estimation&lt;/li&gt;
+&lt;li&gt;Generative models&lt;/li&gt;
+&lt;li&gt;Self-supervised-, contrastive methods&lt;/li&gt;
+&lt;li&gt;Unsupervised methods&lt;/li&gt;
+&lt;li&gt;Clinical Applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical Image Registation I (IN2107)</title>
+      <link>https://compai-lab.io/teaching/master_seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/master_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950627128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image registration is the process of aligning two or more images, and crucial for many image analysis pipelines. This seminar will cover selected material of image registration for medical imaging. Basic problem formulations to recent advances in the field will be discussed. This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning and non-learning based image registration&lt;/li&gt;
+&lt;li&gt;Optimization techniques&lt;/li&gt;
+&lt;li&gt;Image registration for multi-modal data&lt;/li&gt;
+&lt;li&gt;Multi-resolution and regularization strategies&lt;/li&gt;
+&lt;li&gt;Linear and non-linear deformations&lt;/li&gt;
+&lt;li&gt;Supervised and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Medicine (IN2403)</title>
+      <link>https://compai-lab.io/teaching/aim_lecture/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/aim_lecture/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950596772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ph.tum.de/academics/org/cc/mh/IN2403/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of the module students should be able to recall the important topics in the area of artificial intelligence in medicine, understand the relations between the topics, apply their knowledge to own deep learning projects, analyse and evaluate social and ethical implications and develop own strategies to apply the learned concepts to their own work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction: Clinical motivation, clinical data, clinical workflows&lt;/li&gt;
+&lt;li&gt;ML for medical imaging• Data curation for medical applications&lt;/li&gt;
+&lt;li&gt;Domain shift in medical applications: Adversarial learning and Transfer learning&lt;/li&gt;
+&lt;li&gt;Self-supervised learning and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Learning from sparse and noisy data&lt;/li&gt;
+&lt;li&gt;ML for unstructured and multi-modal clinical data&lt;/li&gt;
+&lt;li&gt;NLP for clinical data• Bayesian approaches to deep learning and uncertainty&lt;/li&gt;
+&lt;li&gt;Interpretability and explainability&lt;/li&gt;
+&lt;li&gt;Federated learning, privacy-preserving ML and ethics&lt;/li&gt;
+&lt;li&gt;ML for time-to-event modeling, survival models&lt;/li&gt;
+&lt;li&gt;ML for differential diagnosis and stratification• Clinical applications in pathology/radiology/omics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Medicine II (IN2408)</title>
+      <link>https://compai-lab.io/teaching/aim_lecture_2/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/aim_lecture_2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950636169&amp;amp;pSpracheNr=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Details&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ph.tum.de/academics/org/cc/course/950636169/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Information&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Introduction and examples of advanced prediction and classification problems in medicine; ML for prognostic and diagnostic tasks; risk scores, time-to-event modeling, survival models, differential diagnosis &amp;amp; population stratification, geometric deep learning: point clouds &amp;amp; meshes, mesh-based segmentation, shape analysis, trustworthy AI in medicine: bias and fairness, generalizability, AI for affordable healthcare, clinical deployment and evaluation, data harmonization, causal inference, transformers, reinforcement learning in medicine, ML for neuro: structural neuroimaging, functional neuroimaging, diffusion imaging, ML for CVD: EEG analysis&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning Outcome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of the module students should be able to recall advanced topics in the area of artificial intelligence in medicine, understand the relations between the topics, apply their knowledge to own AI projects, analyse and evaluate social and ethical implications and develop own strategies to apply the learned concepts to their own work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preconditions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IN2403 Artificial Intelligence in Medicine&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

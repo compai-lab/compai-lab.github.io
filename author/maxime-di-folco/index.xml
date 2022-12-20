@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Di Folco | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/maxime-di-folco/</link>
+      <atom:link href="https://compai-lab.io/author/maxime-di-folco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime Di Folco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/maxime-di-folco/avatar_hu515229dd456e091782d07049ca80f8b3_4888220_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maxime Di Folco</title>
+      <link>https://compai-lab.io/author/maxime-di-folco/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation of sparse annotated data: application to cardiac imaging (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_maxime_seg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_maxime_seg/</guid>
+      <description>&lt;p&gt;If you are interested in this project please &lt;a href=&#34;mailto:iml.office@helmholtz-munich.de?Subject=Master%20Thesis%20IML%20%28DiFolco%29&#34;&gt;get in touch&lt;/a&gt; and attach a motivation letter, transcript of academic records and CV.&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In Cardiac Magnetic Resonance imaging (CMR), segmenting the left ventricle, the right ventricle and the myocardium is a common task in clinical routine. Several state of the art deep learning algorithms are able to achieve reliable and great performances for this task. Nevertheless, it is often performed in a supervised way, i.e. annotated data are needed. Because these annotations are time-consuming for the clinician to make, recent works focus on being able to limit the needs of annotation and still provide robust and reliable segmentation. Different strategies exist to overcome this limitation such as transfer learning or self-supervised learning that are learning a priori knowledge respectively on a similar annotated dataset or without any annotation.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to be able to provide robust and reliable segmentation of a sparse annotated CMR dataset. The prospective student will develop a segmentation network based on recent strategies for sparsed annotated data and compare them to state of the art deep-learning segmentation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

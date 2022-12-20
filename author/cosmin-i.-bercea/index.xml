@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmin I. Bercea | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
+      <atom:link href="https://compai-lab.io/author/cosmin-i.-bercea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cosmin I. Bercea</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/cosmin-i.-bercea/avatar_huc30509e39f40f5e42a3e593aaa26fe4e_5750588_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cosmin I. Bercea</title>
+      <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection for Medical Imaging  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_uad/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_uad/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Unsupervised anomaly detection methods aim to detect irregular and rare data instances that deviate from the normal, expected distribution.&lt;/p&gt;
+&lt;p&gt;Although much work has been done on the use of auto-encoders (AE) to detect anomalies, it has been shown that learning the healthy distribution is stil cumbersome, with AEs being able to reconstruct some types of anomalies even better than samples from the trained distribution. Strategies to constrain the latent manifold of AE include adversarial training, probabilistic modeling, or deformable auto-encoders. However, synthesizing healthy reconstructions from pathological input scans still remains a challenging task.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to develop novel unsupervised anomaly detection methods to detect and segment pathology on challenging medical imaging datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication at Nature Machine Intelligence</title>
+      <link>https://compai-lab.io/post/bercea_nature/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_nature/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Federated disentangled representation learning for unsupervised brain anomaly detection&lt;/em&gt; by Cosmin I. Bercea et al. has been published at Nature Machine Intelligence.&lt;/p&gt;
+&lt;p&gt;In this work, a federated algorithm was trained on more than 1,500 MR scans of healthy study participants from four institutions while maintaining data privacy with the goal to detect diseases such as multiple sclerosis, vascular disease, and various forms of brain tumors that the algorithm had never seen before.&lt;/p&gt;
+&lt;p&gt;Check the &lt;a href=&#34;https://ci.bercea.net/project/feddis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project site&lt;/a&gt; for more information.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What do we learn? Debunking the Myth of Unsupervised Outlier Detection</title>
+      <link>https://compai-lab.io/publication/bercea-2022-we/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/bercea-2022-we/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Guided Registration of Normal Variability for Unsupervised Anomaly Detection  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/x-morph/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/x-morph/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning methods have revolutionized the ﬁeld of medical imaging, in particular image segmentation. Supervised methods, often based on the popular U-Net architecture, show state-of-the-art results in many medical applications. But a large annotated database for training is not always available. The objective of this project is to explore and develop methods for learning segmentations using limited data, e.g., using transfer [1], self-supervised [2,3] or meta learning [4–6].&lt;/p&gt;
+&lt;p&gt;The clinical application is the identiﬁcation of periodontal lesions in magnetic resonance (MR) and computed tomography (CT) images. Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam CT. Recent studies report the successful use of MR imaging in the application of periodontitis diagnosis [7]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of the mandibular bone and periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The prospective student will explore existing deep-learning-based segmentation methods for training with limited data, and develop a multi-object and multi-modality framework to segment the mandibular bone and periodontal lesions in MR sequences and CT images.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James R. Clough | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/james-r.-clough/</link>
+      <atom:link href="https://compai-lab.io/author/james-r.-clough/index.xml" rel="self" type="application/rss+xml" />
+    <description>James R. Clough</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>James R. Clough</title>
+      <link>https://compai-lab.io/author/james-r.-clough/</link>
+    </image>
+    
+    <item>
+      <title>Automatic CNN-based detection of cardiac MR motion artefacts using k-space data augmentation and curriculum learning</title>
+      <link>https://compai-lab.io/fpublications/oksuz-2019136/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/oksuz-2019136/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

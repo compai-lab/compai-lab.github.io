@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/post/</link>
+      <atom:link href="https://compai-lab.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://compai-lab.io/post/</link>
+    </image>
+    
+    <item>
+      <title>New publication at Nature Machine Intelligence</title>
+      <link>https://compai-lab.io/post/bercea_nature/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_nature/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Federated disentangled representation learning for unsupervised brain anomaly detection&lt;/em&gt; by Cosmin I. Bercea et al. has been published at Nature Machine Intelligence.&lt;/p&gt;
+&lt;p&gt;In this work, a federated algorithm was trained on more than 1,500 MR scans of healthy study participants from four institutions while maintaining data privacy with the goal to detect diseases such as multiple sclerosis, vascular disease, and various forms of brain tumors that the algorithm had never seen before.&lt;/p&gt;
+&lt;p&gt;Check the &lt;a href=&#34;https://ci.bercea.net/project/feddis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project site&lt;/a&gt; for more information.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Veronika Spieker wins the 1st place MedtecLIVE Talent Award 2022</title>
+      <link>https://compai-lab.io/post/spieker_award/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_award/</guid>
+      <description>&lt;p&gt;The MedtecLIVE Talent Award 2022 is given to bachelor&amp;rsquo;s and master&amp;rsquo;s theses that relate to an innovation, improvement, or new application in medical technology along with its entire value chain.&lt;/p&gt;
+&lt;p&gt;After a first screening of her thesis abstract, Veronika was invited to the live finale in Stuttgart to present her thesis in an 8-minute pitch. The extensiveness of her work, her drive to clinical translation as well as visual and interactive presentation convinced the jury to award her the first prize.&lt;/p&gt;
+&lt;p&gt;As part of her M.Sc. in Medical Technologies at TUM, Veronika conducted her master thesis at the Munich Institute of Robotics and Machine Intelligence (MIRMI) and published her results in Sensors (&lt;a href=&#34;https://www.mdpi.com/1424-8220/21/21/7404%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.mdpi.com/1424-8220/21/21/7404)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are happy, that she is now pursuing her PhD at our lab at Helmholtz Munich!&lt;/p&gt;
+&lt;p&gt;More information on the finale can be found here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medizin-und-technik.industrie.de/medizintechnik-studium/talent-award-zur-medtec-live-with-t4m-jetzt-ist-der-nachwuchs-dran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medizin-und-technik.industrie.de/medizintechnik-studium/talent-award-zur-medtec-live-with-t4m-jetzt-ist-der-nachwuchs-dran/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mirmi.tum.de/mirmi/news/article/veronika-spieker-is-honored-with-the-1st-place-medteclive-talent-award-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mirmi.tum.de/mirmi/news/article/veronika-spieker-is-honored-with-the-1st-place-medteclive-talent-award-2022/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

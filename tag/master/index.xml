@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>master | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/master/</link>
+      <atom:link href="https://compai-lab.io/tag/master/index.xml" rel="self" type="application/rss+xml" />
+    <description>master</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>master</title>
+      <link>https://compai-lab.io/tag/master/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for 3D Curve Extraction from the Inner ear Surface  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_curve3d/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_curve3d/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes [1] which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying curves and surfaces have become an important tool in biology and medical imaging. Often, the extraction of appropriate data representations, such as curves, is done manually by an expert, which is time consuming and challenging from low quality image data and surfaces.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. In this project, we aim to develop a new set of automatic methods that can segment curves from a boundary 3D surface.
+The goal of this project is to understand the-state-of-the-art methods (e.g., [2]) and to propose solutions in the context of extracting a 3D curve from a surface. We are interested in learning from a dataset of surfaces and their corresponding extracted 3D curves to make the extraction automatic and accurate for a previously unseen but similar surface. The application will be the extraction of a 3D curve from the cochlea and inner ear surface, whose shapes can then be analyzed [1] subsequently for population studies [3, 4].
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify curves such as in [3, 4].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Smooth Surface and Normal Fields Reconstruction  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_surface/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_surface/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying the shape of surfaces have become an important tool in biology and medical imaging. The extraction of appropriate data representations, such as triangulated surfaces, is crucial for the subsequent analysis. These surfaces are for example obtained from binary segmentations or 3D point clouds. Using standard methods, such surfaces are often not very accurate and require several post-processing steps, such as smoothing and simplifications.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. we aim to develop a new set of automatic methods that can compute a triangulation and a normal field from a 3D dataset (binary image and/or 3D point cloud).
+The goal of this project is to understand the-state-of-the-art methods (e.g., [?]) and to propose solutions in the context of constructing a mesh from 3D images/point sets. We are interested in learn- ing from a dataset of smooth surfaces and their corresponding 3D datasets to make the triangulation or resampling accurate. The application will be the extraction of a smooth surfaces from μ-CT and CT data of the cochlea and inner ear, whose shapes can then be analyzed subsequently for population studies.
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify surfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection for Medical Imaging  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_uad/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_uad/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Unsupervised anomaly detection methods aim to detect irregular and rare data instances that deviate from the normal, expected distribution.&lt;/p&gt;
+&lt;p&gt;Although much work has been done on the use of auto-encoders (AE) to detect anomalies, it has been shown that learning the healthy distribution is stil cumbersome, with AEs being able to reconstruct some types of anomalies even better than samples from the trained distribution. Strategies to constrain the latent manifold of AE include adversarial training, probabilistic modeling, or deformable auto-encoders. However, synthesizing healthy reconstructions from pathological input scans still remains a challenging task.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to develop novel unsupervised anomaly detection methods to detect and segment pathology on challenging medical imaging datasets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-object and multi-modal image segmentation in dental MRI and CT using limited data  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/master-thesis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/master-thesis/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning methods have revolutionized the ﬁeld of medical imaging, in particular image segmentation. Supervised methods, often based on the popular U-Net architecture, show state-of-the-art results in many medical applications. But a large annotated database for training is not always available. The objective of this project is to explore and develop methods for learning segmentations using limited data, e.g., using transfer [1], self-supervised [2,3] or meta learning [4–6].&lt;/p&gt;
+&lt;p&gt;The clinical application is the identiﬁcation of periodontal lesions in magnetic resonance (MR) and computed tomography (CT) images. Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam CT. Recent studies report the successful use of MR imaging in the application of periodontitis diagnosis [7]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of the mandibular bone and periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The prospective student will explore existing deep-learning-based segmentation methods for training with limited data, and develop a multi-object and multi-modality framework to segment the mandibular bone and periodontal lesions in MR sequences and CT images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmentation of sparse annotated data: application to cardiac imaging (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_maxime_seg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_maxime_seg/</guid>
+      <description>&lt;p&gt;If you are interested in this project please &lt;a href=&#34;mailto:iml.office@helmholtz-munich.de?Subject=Master%20Thesis%20IML%20%28DiFolco%29&#34;&gt;get in touch&lt;/a&gt; and attach a motivation letter, transcript of academic records and CV.&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In Cardiac Magnetic Resonance imaging (CMR), segmenting the left ventricle, the right ventricle and the myocardium is a common task in clinical routine. Several state of the art deep learning algorithms are able to achieve reliable and great performances for this task. Nevertheless, it is often performed in a supervised way, i.e. annotated data are needed. Because these annotations are time-consuming for the clinician to make, recent works focus on being able to limit the needs of annotation and still provide robust and reliable segmentation. Different strategies exist to overcome this limitation such as transfer learning or self-supervised learning that are learning a priori knowledge respectively on a similar annotated dataset or without any annotation.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to be able to provide robust and reliable segmentation of a sparse annotated CMR dataset. The prospective student will develop a segmentation network based on recent strategies for sparsed annotated data and compare them to state of the art deep-learning segmentation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Guided Registration of Normal Variability for Unsupervised Anomaly Detection  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/x-morph/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/x-morph/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning methods have revolutionized the ﬁeld of medical imaging, in particular image segmentation. Supervised methods, often based on the popular U-Net architecture, show state-of-the-art results in many medical applications. But a large annotated database for training is not always available. The objective of this project is to explore and develop methods for learning segmentations using limited data, e.g., using transfer [1], self-supervised [2,3] or meta learning [4–6].&lt;/p&gt;
+&lt;p&gt;The clinical application is the identiﬁcation of periodontal lesions in magnetic resonance (MR) and computed tomography (CT) images. Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam CT. Recent studies report the successful use of MR imaging in the application of periodontitis diagnosis [7]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of the mandibular bone and periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The prospective student will explore existing deep-learning-based segmentation methods for training with limited data, and develop a multi-object and multi-modality framework to segment the mandibular bone and periodontal lesions in MR sequences and CT images.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
