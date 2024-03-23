@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://compai-lab.io/sitemap.xml

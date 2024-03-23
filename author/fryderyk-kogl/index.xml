@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fryderyk Kögl | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/fryderyk-kogl/</link>
+      <atom:link href="https://compai-lab.io/author/fryderyk-kogl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fryderyk Kögl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/fryderyk-kogl/avatar_hud2a3dd6e2d1bc63c3ea6e1af5c8037be_4177857_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fryderyk Kögl</title>
+      <link>https://compai-lab.io/author/fryderyk-kogl/</link>
+    </image>
+    
+  </channel>
+</rss>

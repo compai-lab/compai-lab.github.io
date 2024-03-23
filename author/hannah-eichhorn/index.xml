@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Eichhorn | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/hannah-eichhorn/</link>
+      <atom:link href="https://compai-lab.io/author/hannah-eichhorn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah Eichhorn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/hannah-eichhorn/avatar_hu9531ded0c7e72b6a4aaaeb59428f1070_698566_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hannah Eichhorn</title>
+      <link>https://compai-lab.io/author/hannah-eichhorn/</link>
+    </image>
+    
+    <item>
+      <title>Two abstracts accepted at 2024 ISMRM &amp; ISMRT Annual Meeting (oral talks)</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as orals at the 2024 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;PHIMO: Physics-Informed Motion Correction of GRE MRI for T2&lt;/em&gt; Quantification*&amp;rdquo; on Tuesday, 07 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/PHIMO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work &amp;ldquo;&lt;em&gt;DE-NIK: Leveraging Dual-Echo Data for Respiratory-Resolved Abdominal MR Reconstructions Using Neural Implicit k-Space Representations&lt;/em&gt;&amp;rdquo; on Monday, 06 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/vjspi/DE-NIK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review paper accepted at IEEE Transactions on Medical Imaging</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_tmi/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_tmi/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review&lt;/em&gt; by Veronika Spieker and Hannah Eichhorn et al. has been accepted for publication at IEEE Transactions on Medical Imaging.&lt;/p&gt;
+&lt;p&gt;Motion remains a major challenge in MRI and various deep learning solutions have been proposed – but what are common challenges and potentials? Check out &lt;a href=&#34;https://ieeexplore.ieee.org/document/10285512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this review&lt;/a&gt;, which identifies differences and synergies of recent methods and bridges the gap between AI and MR physics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review</title>
+      <link>https://compai-lab.io/publication/spiekereichhorn-2023-review/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/spiekereichhorn-2023-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five papers accepted at MICCAI 2023 workshops</title>
+      <link>https://compai-lab.io/post/iml_miccai_workshops/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/iml_miccai_workshops/</guid>
+      <description>&lt;p&gt;Five papers have been accepted for publication at workshops associated with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;Interested to hear more about our work? Then join us at the following workshops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Veronika Spieker will be at the &lt;a href=&#34;https://dgm4miccai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DGM4&lt;/a&gt; workshop to talk about &lt;a href=&#34;https://arxiv.org/abs/2308.08830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Implicit Representations for Abdominal MR Reconstruction&lt;/a&gt; on October 8, at 10:25.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn presents her work on physics-aware motion simulation for T2*-weighted MRI at the &lt;a href=&#34;https://2023.sashimi-workshop.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI&lt;/a&gt; workshop on October 8, at 14:40. Check out the &lt;a href=&#34;https://arxiv.org/abs/2303.10987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; for more information!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxime Di Folco presents at the &lt;a href=&#34;https://stacom.github.io/stacom2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STACOM&lt;/a&gt; workshop on October 12, at 11:15 the work of Josh Stein on &amp;ldquo;Sparse annotation strategies for segmentation of short axis cardiac MRI&amp;rdquo;  (&lt;a href=&#34;https://arxiv.org/abs/2307.12619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cosmin Bercea will talk about &lt;a href=&#34;https://arxiv.org/pdf/2308.13861.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bias in Unsupervised Anomaly Detection&lt;/a&gt; at the &lt;a href=&#34;https://faimi-workshop.github.io/2023-miccai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIMI&lt;/a&gt; workshop on October 12, at 2:50 PDT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Lang will talk about &lt;a href=&#34;https://arxiv.org/abs/2303.05861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection in Non-Contrast Enhanced Breast MRI&lt;/a&gt; at the &lt;a href=&#34;https://caption-workshop.github.io/miccai2023/#Workshop%20sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaPTion&lt;/a&gt; workshop on October 12.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Abstracts accepted at 2023 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as digital posters at the 2023 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work on &amp;ldquo;&lt;em&gt;Patient-specific respiratory liver motion analysis for individual motion-resolved reconstruction&lt;/em&gt;&amp;rdquo; on Monday, 05 June 2023 at 1:45 pm EDT.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work on &amp;ldquo;&lt;em&gt;Investigating the Impact of Motion and Associated B0 Changes on Oxygenation Sensitive MRI through Realistic Simulations&lt;/em&gt;&amp;rdquo; on Tuesday, 06 June 2023 at 4:45 pm EDT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/T2starRealisticMotionSimulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sameer Ambekar | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/sameer-ambekar/</link>
+      <atom:link href="https://compai-lab.io/author/sameer-ambekar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sameer Ambekar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/sameer-ambekar/avatar_huf06922ba297c55dd6030e91aa17955db_98458_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Sameer Ambekar</title>
+      <link>https://compai-lab.io/author/sameer-ambekar/</link>
+    </image>
+    
+  </channel>
+</rss>

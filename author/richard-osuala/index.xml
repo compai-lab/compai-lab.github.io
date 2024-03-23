@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Osuala | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/richard-osuala/</link>
+      <atom:link href="https://compai-lab.io/author/richard-osuala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Osuala</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/richard-osuala/avatar_hubb48c8398d49cf4dc99ba05407721c27_370988_270x270_fill_lanczos_center_3.png</url>
+      <title>Richard Osuala</title>
+      <link>https://compai-lab.io/author/richard-osuala/</link>
+    </image>
+    
+  </channel>
+</rss>
