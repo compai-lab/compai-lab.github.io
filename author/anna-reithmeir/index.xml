@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Reithmeir | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/anna-reithmeir/</link>
+      <atom:link href="https://compai-lab.io/author/anna-reithmeir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Reithmeir</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/anna-reithmeir/avatar_hua2d592eef98e1fa5362a62d72665a4f3_289115_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anna Reithmeir</title>
+      <link>https://compai-lab.io/author/anna-reithmeir/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted at SPIE Medical Imaging 2024 and Finalist of Best Student Paper Award</title>
+      <link>https://compai-lab.io/post/reithmeir_spie_24/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_spie_24/</guid>
+      <description>&lt;p&gt;Anna Reithmeir&amp;rsquo;s paper &amp;lsquo;Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks&amp;rsquo; was accepted at SPIE Medical Imaging 2024 which was held 18-22 Feb. 2024 in San Diego, US.&lt;/p&gt;
+&lt;p&gt;The paper is among the finalists for the best student paper award.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anneliese Riess | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/anneliese-riess/</link>
+      <atom:link href="https://compai-lab.io/author/anneliese-riess/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anneliese Riess</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/anneliese-riess/avatar_hue46f792cd9d495822491a6b835623762_1149743_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Anneliese Riess</title>
+      <link>https://compai-lab.io/author/anneliese-riess/</link>
+    </image>
+    
+  </channel>
+</rss>
