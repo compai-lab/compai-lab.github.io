@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Positions | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/vacancies/</link>
+      <atom:link href="https://compai-lab.io/vacancies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Positions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Open Positions</title>
+      <link>https://compai-lab.io/vacancies/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Landmark Tracking on Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_tracking/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_tracking/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Even though various learning-based computer vision methods have been developed for pixel tracking, motion estimation in video data depicts a challenging task. Part of the problem arises from the 3D-to-2D projection process that can lead to out-of-plane motion, which impedes long-range pixel trajectory estimation. In the medical domain, video data, i.e. fast magnetic resonance imaging (MRI) sequences, can be used for guidance during treatment. Specifically, in radiation therapy, contouring algorithms are used for tracking of the target volume supposed to receive the main radiation dose during treatment. Delineation can, for example, be performed with a U-Net architecture. However, such an approach only allows for identification of larger structures, while irregular movement can be subtle and localized. Landmark detection models are able to identify such localized regions between different representations of the same object. Furthermore, they are faster than semantic segmentation models, and therefore, allow for computer aided intervention during treatment. In this thesis, different state-of-the-art landmark and pixel tracking algorithms will be tested and further enhanced to identify movement on temporal imaging data of the lungs, i.e. 4D CT. Furthermore, ability of such landmarks to identify movement differing from a normal state, i.e. allowing for identification of anomalies, will be studied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Smooth Surface and Normal Fields Reconstruction  (f/m/x)</title>
+      <link>https://compai-lab.io/vacancies/msc_surface/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_surface/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying the shape of surfaces have become an important tool in biology and medical imaging. The extraction of appropriate data representations, such as triangulated surfaces, is crucial for the subsequent analysis. These surfaces are for example obtained from binary segmentations or 3D point clouds. Using standard methods, such surfaces are often not very accurate and require several post-processing steps, such as smoothing and simplifications.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. we aim to develop a new set of automatic methods that can compute a triangulation and a normal field from a 3D dataset (binary image and/or 3D point cloud).
+The goal of this project is to understand the-state-of-the-art methods (e.g., [?]) and to propose solutions in the context of constructing a mesh from 3D images/point sets. We are interested in learn- ing from a dataset of smooth surfaces and their corresponding 3D datasets to make the triangulation or resampling accurate. The application will be the extraction of a smooth surfaces from μ-CT and CT data of the cochlea and inner ear, whose shapes can then be analyzed subsequently for population studies.
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify surfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

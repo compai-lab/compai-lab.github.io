@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Reithmeir | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/anna-reithmeir/</link>
+      <atom:link href="https://compai-lab.io/author/anna-reithmeir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Reithmeir</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/anna-reithmeir/avatar_hua2d592eef98e1fa5362a62d72665a4f3_289115_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anna Reithmeir</title>
+      <link>https://compai-lab.io/author/anna-reithmeir/</link>
+    </image>
+    
+    <item>
+      <title>Master Seminar - Medical Image Registration (IN2107, IN4462)</title>
+      <link>https://compai-lab.io/teaching/registration_seminar_ws24/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/registration_seminar_ws24/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Wednesday 10-12 a.m.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Garching (in-person)&lt;/p&gt;
+&lt;p&gt;Image registration is the process of aligning two or more images, and crucial for many image analysis pipelines. This seminar will cover selected material of image registration for medical imaging. Basic problem formulations to recent advances in the field will be discussed. This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning and non-learning based image registration&lt;/li&gt;
+&lt;li&gt;Optimization techniques&lt;/li&gt;
+&lt;li&gt;Image registration for multi-modal data&lt;/li&gt;
+&lt;li&gt;Multi-resolution and regularization strategies&lt;/li&gt;
+&lt;li&gt;Linear and non-linear deformations&lt;/li&gt;
+&lt;li&gt;Supervised and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning&lt;/li&gt;
+&lt;li&gt;Interest in medical image analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Goal and organization:&lt;/p&gt;
+&lt;p&gt;The participating students will learn the fundamental concepts of image registration. They will acquire the skills to analyze critically state-of-the-art research work and to define own research questions. Basic concepts will be introduced with an overview of different research topics.
+The participants will select a research paper (suggestions given by the lecturers) and independently work on it with a final oral presentation and a written report.
+Presentations of members of international research groups will provide the students with insights into state-of-the-art research in the field.&lt;/p&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt; or write an email to &lt;a href=&#34;mailto:anna.reithmeir@tum.de&#34;&gt;anna.reithmeir@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The seminar will take place Wednesdays from 10 a.m. to 12.a.m. in Garching.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleven papers accepted at MICCAI Workshops 2024</title>
+      <link>https://compai-lab.io/post/miccai_workshops_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_workshops_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Julia Schnabel, and Cosmin I. Bercea. &lt;br&gt;
+[link will be available soon]&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI&lt;/strong&gt;&lt;br&gt;
+Malek Ben Alaya, Daniel M. Lang, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15270&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Analysis of Alzheimer’s Disease Signatures using 3D Deformable Autoencoders&lt;/strong&gt;&lt;br&gt;
+Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.03863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.03863&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Deniz Daum; Richard Osuala; Anneliese Riess; Georgios Kaissis; Julia A. Schnabel; Maxime Di Folco&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.16405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.16405&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Graph Neural Networks: A suitable alternative to MLPs in latent 3D medical image classification?&lt;/strong&gt;&lt;br&gt;
+Johannes Kiechle, Daniel M. Lang, Stefan M. Fischer, Lina Felsner, Jan C. Peeken, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2407.17219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2407.17219&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Vision Encoder Features as Guidance in Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A Schnabel, Veronika A Zimmer&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.13311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.13311&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Language Models Meet Anomaly Detection for Better Interpretability and Generalizability&lt;/strong&gt;&lt;br&gt;
+Jun Li, Su Hwan Kim, Philip Müller, Lina Felsner, Daniel Rueckert, Benedikt Wiestler, Julia A.Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2404.07622v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2404.07622v2&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer&lt;/strong&gt;&lt;br&gt;
+Inês P. Machado, Anna Reithmeir, Fryderyk Kogl, Leonardo Rundo, Gabriel Funingana, Marika Reinius, Gift Mungmeeprued, Zeyu Gao, Cathal McCague, Eric Kerfoot, Ramona Woitek, Evis Sala, Yangming Ou, James Brenton, Julia Schnabel, Mireia Crispin&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.17114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.17114&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound&lt;/strong&gt;&lt;br&gt;
+Hanna Mykula, Lisa Gasser, Silvia Lobmaier, Julia A. Schnabel, Veronika Zimmer, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15119&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.12669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.12669&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complex-valued Federated Learning with Differential Privacy and MRI Applications&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Alexander Ziller, Stefan Kolek, Daniel Rueckert, Julia Schnabel, Georgios Kaissis &lt;br&gt;
+([link will be available soon])&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seven papers accepted at MICCAI 2024</title>
+      <link>https://compai-lab.io/post/miccai_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models with Implicit Guidance for Medical Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08464&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Physics-Informed Deep Learning for Motion-Corrected Reconstruction of Quantitative Brain MRI&lt;/strong&gt;&lt;br&gt;
+Hannah Eichhorn, Veronika Spieker, Kerstin Hammernik, Elisa Saks, Kilian Weiss, Christine Preibisch, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08298&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks&lt;/strong&gt;&lt;br&gt;
+Stefan M. Fischer, Lina Felsner, Daniel M. Lang, Richard Osuala, Johannes Kiechle, Jan C. Peeken, Julia A. Schnabel&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interpretable Representation Learning of Cardiac MRI via Attribute Regularization&lt;/strong&gt;&lt;br&gt;
+Maxime Di Folco, Cosmin I. Bercea, Emily Chan, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2406.08282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.08282&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, and Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.13890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.13890&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Anna Reithmeir, Lina Felsner, Rickmer Braren, Julia A. Schnabel, Veronika A. Zimmer&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation&lt;/strong&gt;&lt;br&gt;
+Veronika Spieker, Hannah Eichhorn, Jonathan K. Stelter, Wenqi Huang, Rickmer F. Braren, Daniel Rückert, Francisco Sahli Costabal, Kerstin Hammernik, Claudia Prieto, Dimitrios C. Karampinos, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2404.08350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2404.08350&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at SPIE Medical Imaging 2024 and Finalist of Best Student Paper Award</title>
+      <link>https://compai-lab.io/post/reithmeir_spie_24/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_spie_24/</guid>
+      <description>&lt;p&gt;Anna Reithmeir&amp;rsquo;s paper &amp;lsquo;Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks&amp;rsquo; was accepted at SPIE Medical Imaging 2024 which was held 18-22 Feb. 2024 in San Diego, US.&lt;/p&gt;
+&lt;p&gt;The paper is among the finalists for the best student paper award.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simona Bottani | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/simona-bottani/</link>
+      <atom:link href="https://compai-lab.io/author/simona-bottani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simona Bottani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/simona-bottani/avatar_huac6ea744cb389d41095e273856ed987c_167029_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Simona Bottani</title>
+      <link>https://compai-lab.io/author/simona-bottani/</link>
+    </image>
+    
+  </channel>
+</rss>
