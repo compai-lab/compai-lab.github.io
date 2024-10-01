@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel M. Lang | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/daniel-m.-lang/</link>
+      <atom:link href="https://compai-lab.io/author/daniel-m.-lang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel M. Lang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/daniel-m.-lang/avatar_hu30628bf96a1bbbf825de70e7e388d37a_614916_270x270_fill_lanczos_center_3.png</url>
+      <title>Daniel M. Lang</title>
+      <link>https://compai-lab.io/author/daniel-m.-lang/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Landmark Tracking on Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_tracking/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_tracking/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Even though various learning-based computer vision methods have been developed for pixel tracking, motion estimation in video data depicts a challenging task. Part of the problem arises from the 3D-to-2D projection process that can lead to out-of-plane motion, which impedes long-range pixel trajectory estimation. In the medical domain, video data, i.e. fast magnetic resonance imaging (MRI) sequences, can be used for guidance during treatment. Specifically, in radiation therapy, contouring algorithms are used for tracking of the target volume supposed to receive the main radiation dose during treatment. Delineation can, for example, be performed with a U-Net architecture. However, such an approach only allows for identification of larger structures, while irregular movement can be subtle and localized. Landmark detection models are able to identify such localized regions between different representations of the same object. Furthermore, they are faster than semantic segmentation models, and therefore, allow for computer aided intervention during treatment. In this thesis, different state-of-the-art landmark and pixel tracking algorithms will be tested and further enhanced to identify movement on temporal imaging data of the lungs, i.e. 4D CT. Furthermore, ability of such landmarks to identify movement differing from a normal state, i.e. allowing for identification of anomalies, will be studied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleven papers accepted at MICCAI Workshops 2024</title>
+      <link>https://compai-lab.io/post/miccai_workshops_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_workshops_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Julia Schnabel, and Cosmin I. Bercea. &lt;br&gt;
+[link will be available soon]&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI&lt;/strong&gt;&lt;br&gt;
+Malek Ben Alaya, Daniel M. Lang, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15270&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Analysis of Alzheimer’s Disease Signatures using 3D Deformable Autoencoders&lt;/strong&gt;&lt;br&gt;
+Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.03863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.03863&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Deniz Daum; Richard Osuala; Anneliese Riess; Georgios Kaissis; Julia A. Schnabel; Maxime Di Folco&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.16405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.16405&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Graph Neural Networks: A suitable alternative to MLPs in latent 3D medical image classification?&lt;/strong&gt;&lt;br&gt;
+Johannes Kiechle, Daniel M. Lang, Stefan M. Fischer, Lina Felsner, Jan C. Peeken, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2407.17219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2407.17219&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Vision Encoder Features as Guidance in Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A Schnabel, Veronika A Zimmer&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.13311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.13311&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Language Models Meet Anomaly Detection for Better Interpretability and Generalizability&lt;/strong&gt;&lt;br&gt;
+Jun Li, Su Hwan Kim, Philip Müller, Lina Felsner, Daniel Rueckert, Benedikt Wiestler, Julia A.Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2404.07622v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2404.07622v2&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer&lt;/strong&gt;&lt;br&gt;
+Inês P. Machado, Anna Reithmeir, Fryderyk Kogl, Leonardo Rundo, Gabriel Funingana, Marika Reinius, Gift Mungmeeprued, Zeyu Gao, Cathal McCague, Eric Kerfoot, Ramona Woitek, Evis Sala, Yangming Ou, James Brenton, Julia Schnabel, Mireia Crispin&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.17114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.17114&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound&lt;/strong&gt;&lt;br&gt;
+Hanna Mykula, Lisa Gasser, Silvia Lobmaier, Julia A. Schnabel, Veronika Zimmer, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15119&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.12669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.12669&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complex-valued Federated Learning with Differential Privacy and MRI Applications&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Alexander Ziller, Stefan Kolek, Daniel Rueckert, Julia Schnabel, Georgios Kaissis &lt;br&gt;
+([link will be available soon])&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted at MELBA Journal</title>
+      <link>https://compai-lab.io/post/fischer_melba_24/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/fischer_melba_24/</guid>
+      <description>&lt;p&gt;Stefan M. Fischer&amp;rsquo;s submission to the MICCAI2023 Lymph Node Quantification Challenge won the 3rd price.&lt;br&gt;
+Therefore, the challenge team was invited for a presentation at MICCAI 2023 and to a Special Issue Submission at the MELBA Journal.
+The journal submission &amp;ldquo;&lt;em&gt;Mask the Unknown: Assessing Different Strategies to Handle Weak Annotations in the MICCAI2023 Mediastinal Lymph Node Quantification Challenge&lt;/em&gt;&amp;rdquo; is now available at MELBA.&lt;br&gt;
+The paper is available &lt;a href=&#34;https://www.melba-journal.org/papers/2024:008.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Five papers accepted at MICCAI 2023 workshops</title>
+      <link>https://compai-lab.io/post/iml_miccai_workshops/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/iml_miccai_workshops/</guid>
+      <description>&lt;p&gt;Five papers have been accepted for publication at workshops associated with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;Interested to hear more about our work? Then join us at the following workshops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Veronika Spieker will be at the &lt;a href=&#34;https://dgm4miccai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DGM4&lt;/a&gt; workshop to talk about &lt;a href=&#34;https://arxiv.org/abs/2308.08830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Implicit Representations for Abdominal MR Reconstruction&lt;/a&gt; on October 8, at 10:25.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn presents her work on physics-aware motion simulation for T2*-weighted MRI at the &lt;a href=&#34;https://2023.sashimi-workshop.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI&lt;/a&gt; workshop on October 8, at 14:40. Check out the &lt;a href=&#34;https://arxiv.org/abs/2303.10987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; for more information!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxime Di Folco presents at the &lt;a href=&#34;https://stacom.github.io/stacom2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STACOM&lt;/a&gt; workshop on October 12, at 11:15 the work of Josh Stein on &amp;ldquo;Sparse annotation strategies for segmentation of short axis cardiac MRI&amp;rdquo;  (&lt;a href=&#34;https://arxiv.org/abs/2307.12619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cosmin Bercea will talk about &lt;a href=&#34;https://arxiv.org/pdf/2308.13861.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bias in Unsupervised Anomaly Detection&lt;/a&gt; at the &lt;a href=&#34;https://faimi-workshop.github.io/2023-miccai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIMI&lt;/a&gt; workshop on October 12, at 2:50 PDT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Lang will talk about &lt;a href=&#34;https://arxiv.org/abs/2303.05861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection in Non-Contrast Enhanced Breast MRI&lt;/a&gt; at the &lt;a href=&#34;https://caption-workshop.github.io/miccai2023/#Workshop%20sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaPTion&lt;/a&gt; workshop on October 12.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
