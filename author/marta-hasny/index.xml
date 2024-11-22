@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Hasny | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/marta-hasny/</link>
+      <atom:link href="https://compai-lab.io/author/marta-hasny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta Hasny</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/marta-hasny/avatar_hu2df0a6597d356c4bfb79b06a76edc68f_455157_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Marta Hasny</title>
+      <link>https://compai-lab.io/author/marta-hasny/</link>
+    </image>
+    
+  </channel>
+</rss>

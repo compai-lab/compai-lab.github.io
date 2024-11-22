@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ha Young Kim | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/ha-young-kim/</link>
+      <atom:link href="https://compai-lab.io/author/ha-young-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ha Young Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/ha-young-kim/avatar_huf9e14263d504df0501347eacdbd4fdc6_301176_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ha Young Kim</title>
+      <link>https://compai-lab.io/author/ha-young-kim/</link>
+    </image>
+    
+  </channel>
+</rss>
