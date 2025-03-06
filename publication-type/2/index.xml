@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/publication-type/2/</link>
+      <atom:link href="https://compai-lab.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://compai-lab.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review</title>
+      <link>https://compai-lab.io/publication/spiekereichhorn-2023-review/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/spiekereichhorn-2023-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning-based Integrated Framework for Quality-aware Undersampled Cine Cardiac MRI Reconstruction and Analysis</title>
+      <link>https://compai-lab.io/publication/machado-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/machado-2022-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AtrialJSQnet: A New framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information</title>
+      <link>https://compai-lab.io/publication/li-2022-atrialjsqnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/li-2022-atrialjsqnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved 3D tumour definition and quantification of uptake in simulated lung tumours using deep learning</title>
+      <link>https://compai-lab.io/publication/dal-2022-improved/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/dal-2022-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Detection and Correction of Cardiac MR Motion Artefacts During Reconstruction for High-Quality Segmentation</title>
+      <link>https://compai-lab.io/fpublications/pmid-32746141/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/pmid-32746141/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
+      <link>https://compai-lab.io/fpublications/8867900/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/8867900/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topological loss function for deep-learning based image segmentation using persistent homology</title>
+      <link>https://compai-lab.io/fpublications/clough-2019-topological/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/clough-2019-topological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic CNN-based detection of cardiac MR motion artefacts using k-space data augmentation and curriculum learning</title>
+      <link>https://compai-lab.io/fpublications/oksuz-2019136/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/oksuz-2019136/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances and Challenges in Deformable Image Registration: From Image Fusion to Complex Motion Modelling</title>
+      <link>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIND: Modality independent neighbourhood descriptor for multi-modal deformable registration</title>
+      <link>https://compai-lab.io/fpublications/heinrich-2012-mind/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/heinrich-2012-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic construction of 3-D statistical deformation models of the brain using nonrigid registration</title>
+      <link>https://compai-lab.io/fpublications/rueckert-2003-automatic/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/rueckert-2003-automatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
