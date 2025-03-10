@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Hasny | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/marta-hasny/</link>
+      <atom:link href="https://compai-lab.io/author/marta-hasny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta Hasny</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/marta-hasny/avatar_hu2df0a6597d356c4bfb79b06a76edc68f_455157_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Marta Hasny</title>
+      <link>https://compai-lab.io/author/marta-hasny/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive Learning Strategies for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Self-Supervised Learning (SSL) overcomes the limitations of most learning methods, which require high-quality labelled data. Contrastive learning is a popular technique of SSL, where a model learns to distinguish between similar and dissimilar examples by bringing similar data points closer and dissimilar ones farther apart in the feature space. A key element of contrastive learning is defining the positive and negative pairs, as the model learns by comparing these pairs to adjust its representation. Proper pair selection is crucial for the effectiveness of the learned embeddings.&lt;/p&gt;
+&lt;p&gt;This project aims to compare different strategies for defining pairs in contrastive learning for medical applications. The first part of the project will involve identifying and comparing state-of-the-art strategies on medical tasks. The second part will focus on evaluating and proposing new strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

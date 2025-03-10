@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Li | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/lei-li/</link>
+      <atom:link href="https://compai-lab.io/author/lei-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Lei Li</title>
+      <link>https://compai-lab.io/author/lei-li/</link>
+    </image>
+    
+    <item>
+      <title>AtrialJSQnet: A New framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information</title>
+      <link>https://compai-lab.io/publication/li-2022-atrialjsqnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/li-2022-atrialjsqnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
