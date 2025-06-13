@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Kiechle | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/johannes-kiechle/</link>
+      <atom:link href="https://compai-lab.io/author/johannes-kiechle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Kiechle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Johannes Kiechle</title>
+      <link>https://compai-lab.io/author/johannes-kiechle/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted at ISBI 2024</title>
+      <link>https://compai-lab.io/post/kiechle_isbi_24/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/kiechle_isbi_24/</guid>
+      <description>&lt;p&gt;Johannes Kiechle&amp;rsquo;s paper has been accepted to be presented at International Symposium on Biomedical Imaging 2024 Annual Meeting in Athens.&lt;/p&gt;
+&lt;p&gt;Johannes Kiechle will present his work &amp;ldquo;&lt;em&gt;Unifying Local and Global Shape Descriptors to Grade Soft-Tissue Sarcomas using Graph Convolutional Networks&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract accepted at ESTRO 2024 (oral talk)</title>
+      <link>https://compai-lab.io/post/kiechle_estro_24/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/kiechle_estro_24/</guid>
+      <description>&lt;p&gt;Johannes Kiechle&amp;rsquo;s abstract has been accepted to be presented as an oral at The European SocieTy for Radiotherapy and Oncology (ESTRO) 2024 Annual Meeting in Glasgow.&lt;/p&gt;
+&lt;p&gt;Johannes Kiechle will present his work &amp;ldquo;&lt;em&gt;Investigating the role of morphology in deep learning-based liposarcoma grading&lt;/em&gt;&amp;rdquo; on Monday, 06 May 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

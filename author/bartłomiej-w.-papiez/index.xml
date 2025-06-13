@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bartłomiej W. Papież | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/bart%C5%82omiej-w.-papiez/</link>
+      <atom:link href="https://compai-lab.io/author/bart%C5%82omiej-w.-papiez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bartłomiej W. Papież</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Bartłomiej W. Papież</title>
+      <link>https://compai-lab.io/author/bart%C5%82omiej-w.-papiez/</link>
+    </image>
+    
+    <item>
+      <title>Advances and Challenges in Deformable Image Registration: From Image Fusion to Complex Motion Modelling</title>
+      <link>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
