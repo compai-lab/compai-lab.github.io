@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Eichhorn | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/hannah-eichhorn/</link>
+      <atom:link href="https://compai-lab.io/author/hannah-eichhorn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah Eichhorn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/hannah-eichhorn/avatar_hu9531ded0c7e72b6a4aaaeb59428f1070_698566_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hannah Eichhorn</title>
+      <link>https://compai-lab.io/author/hannah-eichhorn/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning-Based Segmentation of Perfusion MRI</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_hannah/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_hannah/</guid>
+      <description>&lt;p&gt;Jointly supervised with Gabriel Hoffmann and Christine Preibisch (TUM Universitätsklinikum).&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This project aims to develop and validate deep learning models for the automatic segmentation of perfusion territories in super-selective arterial spin labeling (ss-ASL) data and for the segmentation of individual watershed areas from contrast-agent-based time-to-peak (TTP) maps. The project will leverage the nnUNET framework, which is known for its robustness and flexibility in medical image segmentation tasks. Currently, expert segmentations are highly time-consuming and labor-intensive. Automating these segmentations with a reliable deep learning model will significantly enhance research efficiency and accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Inverse Problems in Medical Imaging​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/inv_seminar/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/inv_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/InvPr_seminar.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
+This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to inverse problems in medical imaging&lt;/li&gt;
+&lt;li&gt;Deep learning approaches for solving inverse problems&lt;/li&gt;
+&lt;li&gt;Applications in various medical imaging modalities (e.g., MRI, CT, PET)&lt;/li&gt;
+&lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
+&lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/InvPr_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four abstracts accepted at 2025 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/ismrm25/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/ismrm25/</guid>
+      <description>&lt;p&gt;Four abstracts from our group have been accepted at the &lt;strong&gt;2025 ISMRM &amp;amp; ISMRT Annual Meeting&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;Leveraging Acquisition Knowledge to Enhance Robustness of Physics-Informed Motion Correction for T2* Quantification&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will additionally present her work &amp;ldquo;&lt;em&gt;Assessing the Influence of Preprocessing on the Agreement of Image Quality Metrics with Radiological Evaluation in the Presence of Motion&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;. Hannah&amp;rsquo;s abstract received a MAGNA CUM LAUDE Merit Award.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Natascha Niessen will present her work &amp;ldquo;&lt;em&gt;Probing the sparsity of the MPnRAGE sequence through subspace compression&lt;/em&gt;&amp;rdquo; as a digital poster on Thursday, &lt;strong&gt;15 May 2025 at 2:15 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ha Young Kim will present her work &amp;ldquo;&lt;em&gt;Deep learning enabled fast free-breathing stack-of-stars multiparameter mapping for fully quantitative analysis of prostate carcinoma&lt;/em&gt;&amp;rdquo; as a digital poster on Monday, &lt;strong&gt;12 May 2025 at 5 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seven papers accepted at MICCAI 2024</title>
+      <link>https://compai-lab.io/post/miccai_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models with Implicit Guidance for Medical Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08464&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Physics-Informed Deep Learning for Motion-Corrected Reconstruction of Quantitative Brain MRI&lt;/strong&gt;&lt;br&gt;
+Hannah Eichhorn, Veronika Spieker, Kerstin Hammernik, Elisa Saks, Kilian Weiss, Christine Preibisch, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08298&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks&lt;/strong&gt;&lt;br&gt;
+Stefan M. Fischer, Lina Felsner, Daniel M. Lang, Richard Osuala, Johannes Kiechle, Jan C. Peeken, Julia A. Schnabel&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interpretable Representation Learning of Cardiac MRI via Attribute Regularization&lt;/strong&gt;&lt;br&gt;
+Maxime Di Folco, Cosmin I. Bercea, Emily Chan, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2406.08282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.08282&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, and Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.13890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.13890&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Anna Reithmeir, Lina Felsner, Rickmer Braren, Julia A. Schnabel, Veronika A. Zimmer&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation&lt;/strong&gt;&lt;br&gt;
+Veronika Spieker, Hannah Eichhorn, Jonathan K. Stelter, Wenqi Huang, Rickmer F. Braren, Daniel Rückert, Francisco Sahli Costabal, Kerstin Hammernik, Claudia Prieto, Dimitrios C. Karampinos, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2404.08350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2404.08350&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hannah Eichhorn elected as ISMRM Study Group Trainee Representative</title>
+      <link>https://compai-lab.io/post/eichhorn_study_group_5_24/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/eichhorn_study_group_5_24/</guid>
+      <description>&lt;p&gt;Hannah Eichhorn has been elected as Trainee Representative of the ISMRM Motion Detection &amp;amp; Correction Study Group. She started her term at the ISMRM Annual Meeting in Singapore in the beginning of May.&lt;/p&gt;
+&lt;p&gt;The Study Group&amp;rsquo;s mission is to investigate how various forms of motion can affect MR data, how motion can be detected, how to deal best with motion-corrupted data, and what can be done to prevent MR data from getting corrupted by motion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two abstracts accepted at 2024 ISMRM &amp; ISMRT Annual Meeting (oral talks)</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as orals at the 2024 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;PHIMO: Physics-Informed Motion Correction of GRE MRI for T2&lt;/em&gt; Quantification*&amp;rdquo; on Tuesday, 07 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/PHIMO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work &amp;ldquo;&lt;em&gt;DE-NIK: Leveraging Dual-Echo Data for Respiratory-Resolved Abdominal MR Reconstructions Using Neural Implicit k-Space Representations&lt;/em&gt;&amp;rdquo; on Monday, 06 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/vjspi/DE-NIK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review paper accepted at IEEE Transactions on Medical Imaging</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_tmi/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_tmi/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review&lt;/em&gt; by Veronika Spieker and Hannah Eichhorn et al. has been accepted for publication at IEEE Transactions on Medical Imaging.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img&#34; srcset=&#34;
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_e1ff7f723fc5ed308be173642a5f92f5.webp 400w,
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_59a22aa363f30bc9c49ab63c04f6c200.webp 760w,
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://compai-lab.io/post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_e1ff7f723fc5ed308be173642a5f92f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;713&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Motion remains a major challenge in MRI and various deep learning solutions have been proposed – but what are common challenges and potentials? Check out &lt;a href=&#34;https://ieeexplore.ieee.org/document/10285512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this review&lt;/a&gt;, which identifies differences and synergies of recent methods and bridges the gap between AI and MR physics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review</title>
+      <link>https://compai-lab.io/publication/spiekereichhorn-2023-review/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/spiekereichhorn-2023-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five papers accepted at MICCAI 2023 workshops</title>
+      <link>https://compai-lab.io/post/iml_miccai_workshops/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/iml_miccai_workshops/</guid>
+      <description>&lt;p&gt;Five papers have been accepted for publication at workshops associated with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;Interested to hear more about our work? Then join us at the following workshops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Veronika Spieker will be at the &lt;a href=&#34;https://dgm4miccai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DGM4&lt;/a&gt; workshop to talk about &lt;a href=&#34;https://arxiv.org/abs/2308.08830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Implicit Representations for Abdominal MR Reconstruction&lt;/a&gt; on October 8, at 10:25.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn presents her work on physics-aware motion simulation for T2*-weighted MRI at the &lt;a href=&#34;https://2023.sashimi-workshop.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI&lt;/a&gt; workshop on October 8, at 14:40. Check out the &lt;a href=&#34;https://arxiv.org/abs/2303.10987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; for more information!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxime Di Folco presents at the &lt;a href=&#34;https://stacom.github.io/stacom2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STACOM&lt;/a&gt; workshop on October 12, at 11:15 the work of Josh Stein on &amp;ldquo;Sparse annotation strategies for segmentation of short axis cardiac MRI&amp;rdquo;  (&lt;a href=&#34;https://arxiv.org/abs/2307.12619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cosmin Bercea will talk about &lt;a href=&#34;https://arxiv.org/pdf/2308.13861.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bias in Unsupervised Anomaly Detection&lt;/a&gt; at the &lt;a href=&#34;https://faimi-workshop.github.io/2023-miccai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIMI&lt;/a&gt; workshop on October 12, at 2:50 PDT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Lang will talk about &lt;a href=&#34;https://arxiv.org/abs/2303.05861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection in Non-Contrast Enhanced Breast MRI&lt;/a&gt; at the &lt;a href=&#34;https://caption-workshop.github.io/miccai2023/#Workshop%20sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaPTion&lt;/a&gt; workshop on October 12.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Abstracts accepted at 2023 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as digital posters at the 2023 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work on &amp;ldquo;&lt;em&gt;Patient-specific respiratory liver motion analysis for individual motion-resolved reconstruction&lt;/em&gt;&amp;rdquo; on Monday, 05 June 2023 at 1:45 pm EDT.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work on &amp;ldquo;&lt;em&gt;Investigating the Impact of Motion and Associated B0 Changes on Oxygenation Sensitive MRI through Realistic Simulations&lt;/em&gt;&amp;rdquo; on Tuesday, 06 June 2023 at 4:45 pm EDT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/T2starRealisticMotionSimulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
