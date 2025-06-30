@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ws24 | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/ws24/</link>
+      <atom:link href="https://compai-lab.io/tag/ws24/index.xml" rel="self" type="application/rss+xml" />
+    <description>ws24</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>ws24</title>
+      <link>https://compai-lab.io/tag/ws24/</link>
+    </image>
+    
+    <item>
+      <title>AI for Vision-Language Models in Medical Imaging (IN2107)</title>
+      <link>https://compai-lab.io/teaching/vlm_seminar/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/vlm_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/vlm_teaser.gif&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Wednesday 14-16.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: - Garching (in-person): FMI, 5610.01.11 &lt;a href=&#34;https://nav.tum.de/room/5610.01.011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nav.tum.de/room/5610.01.011&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;some invited talks on Zoom: &lt;a href=&#34;https://tum-conf.zoom-x.de/my/cibercea?pwd=WlMvanU1NUcveUtjVTJrWHAzWFp1dz09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/my/cibercea?pwd=WlMvanU1NUcveUtjVTJrWHAzWFp1dz09&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vision-language models (VLMs) in medical imaging leverage the integration of visual data and textual information to enhance representation learning. These models can be pre-trained to improve representations, enabling a wide range of downstream applications. This seminar will explore foundational concepts, current methodologies, and recent advancements in applying vision-language models to diverse tasks in medical imaging, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Synthetic image synthesis&lt;/li&gt;
+&lt;li&gt;Anomaly detection&lt;/li&gt;
+&lt;li&gt;Clinical report generation&lt;/li&gt;
+&lt;li&gt;Visual-question answering&lt;/li&gt;
+&lt;li&gt;Classification&lt;/li&gt;
+&lt;li&gt;Segmentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:cosmin.bercea@tum.de&#34;&gt;cosmin.bercea@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/VLM_seminar.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/VLM_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

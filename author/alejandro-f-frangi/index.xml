@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro F Frangi | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/alejandro-f-frangi/</link>
+      <atom:link href="https://compai-lab.io/author/alejandro-f-frangi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro F Frangi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Alejandro F Frangi</title>
+      <link>https://compai-lab.io/author/alejandro-f-frangi/</link>
+    </image>
+    
+    <item>
+      <title>Automatic construction of 3-D statistical deformation models of the brain using nonrigid registration</title>
+      <link>https://compai-lab.io/fpublications/rueckert-2003-automatic/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/rueckert-2003-automatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

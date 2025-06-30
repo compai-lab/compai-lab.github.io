@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natascha Niessen | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/natascha-niessen/</link>
+      <atom:link href="https://compai-lab.io/author/natascha-niessen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natascha Niessen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/natascha-niessen/avatar_hu9af5966520882a14db9b53f5642a7350_123885_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Natascha Niessen</title>
+      <link>https://compai-lab.io/author/natascha-niessen/</link>
+    </image>
+    
+    <item>
+      <title>Four abstracts accepted at 2025 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/ismrm25/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/ismrm25/</guid>
+      <description>&lt;p&gt;Four abstracts from our group have been accepted at the &lt;strong&gt;2025 ISMRM &amp;amp; ISMRT Annual Meeting&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;Leveraging Acquisition Knowledge to Enhance Robustness of Physics-Informed Motion Correction for T2* Quantification&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will additionally present her work &amp;ldquo;&lt;em&gt;Assessing the Influence of Preprocessing on the Agreement of Image Quality Metrics with Radiological Evaluation in the Presence of Motion&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;. Hannah&amp;rsquo;s abstract received a MAGNA CUM LAUDE Merit Award.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Natascha Niessen will present her work &amp;ldquo;&lt;em&gt;Probing the sparsity of the MPnRAGE sequence through subspace compression&lt;/em&gt;&amp;rdquo; as a digital poster on Thursday, &lt;strong&gt;15 May 2025 at 2:15 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ha Young Kim will present her work &amp;ldquo;&lt;em&gt;Deep learning enabled fast free-breathing stack-of-stars multiparameter mapping for fully quantitative analysis of prostate carcinoma&lt;/em&gt;&amp;rdquo; as a digital poster on Monday, &lt;strong&gt;12 May 2025 at 5 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

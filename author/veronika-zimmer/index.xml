@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronika Zimmer | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/veronika-zimmer/</link>
+      <atom:link href="https://compai-lab.io/author/veronika-zimmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronika Zimmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/veronika-zimmer/avatar_hu7d3339efd454f84887db003b20ae29f7_22328_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Veronika Zimmer</title>
+      <link>https://compai-lab.io/author/veronika-zimmer/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Smooth Surface and Normal Fields Reconstruction</title>
+      <link>https://compai-lab.io/vacancies/msc_surface_zimmer/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_surface_zimmer/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying the shape of surfaces have become an important tool in biology and medical imaging. The extraction of appropriate data representations, such as triangulated surfaces, is crucial for the subsequent analysis. These surfaces are for example obtained from binary segmentations or 3D point clouds. Using standard methods, such surfaces are often not very accurate and require several post-processing steps, such as smoothing and simplifications.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. we aim to develop a new set of automatic methods that can compute a triangulation and a normal field from a 3D dataset (binary image and/or 3D point cloud).
+The goal of this project is to understand the-state-of-the-art methods (e.g., [?]) and to propose solutions in the context of constructing a mesh from 3D images/point sets. We are interested in learn- ing from a dataset of smooth surfaces and their corresponding 3D datasets to make the triangulation or resampling accurate. The application will be the extraction of a smooth surfaces from μ-CT and CT data of the cochlea and inner ear, whose shapes can then be analyzed subsequently for population studies.
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify surfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AtrialJSQnet: A New framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information</title>
+      <link>https://compai-lab.io/publication/li-2022-atrialjsqnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/li-2022-atrialjsqnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topological loss function for deep-learning based image segmentation using persistent homology</title>
+      <link>https://compai-lab.io/fpublications/clough-2019-topological/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/clough-2019-topological/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
