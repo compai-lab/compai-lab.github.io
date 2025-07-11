@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Rueckert | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/daniel-rueckert/</link>
+      <atom:link href="https://compai-lab.io/author/daniel-rueckert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Rueckert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel Rueckert</title>
+      <link>https://compai-lab.io/author/daniel-rueckert/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review</title>
+      <link>https://compai-lab.io/publication/spiekereichhorn-2023-review/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/spiekereichhorn-2023-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do we learn? Debunking the Myth of Unsupervised Outlier Detection</title>
+      <link>https://compai-lab.io/publication/bercea-2022-we/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/bercea-2022-we/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
+      <link>https://compai-lab.io/fpublications/8867900/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/8867900/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic CNN-based detection of cardiac MR motion artefacts using k-space data augmentation and curriculum learning</title>
+      <link>https://compai-lab.io/fpublications/oksuz-2019136/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/oksuz-2019136/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic construction of 3-D statistical deformation models of the brain using nonrigid registration</title>
+      <link>https://compai-lab.io/fpublications/rueckert-2003-automatic/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/rueckert-2003-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic framework for non-rigid registration based on non-uniform multi-level free-form deformations</title>
+      <link>https://compai-lab.io/fpublications/schnabel-2001-generic/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/schnabel-2001-generic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

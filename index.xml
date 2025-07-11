@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/</link>
+      <atom:link href="https://compai-lab.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Imaging and AI in Medicine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Imaging and AI in Medicine</title>
+      <link>https://compai-lab.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://compai-lab.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From General to Clinical - Adapting Foundation Models for Medical Images (IN2107)</title>
+      <link>https://compai-lab.io/teaching/seminar_foundation_models_ws25/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/seminar_foundation_models_ws25/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950873177?$scrollTo=toc_overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Foundation Models in Deep Learning for Medical Imaging
+Deep learning models, from CNNs to Vision Transformers, have achieved impressive results for a variety of benchmarks and applications. However, real-world deployment, especially in medical imaging, remains challenging due to unseen variations in scanners, patient demographics, and pathological conditions.&lt;/p&gt;
+&lt;p&gt;To address this issue, recent work has focused on foundation models: large-scale models pretrained on diverse data using self- or weakly supervised learning. CLIP-based models learn general-purpose representations that transfer well to downstream tasks. For the context of medical imaging, specific fine-tuned models such as MedSAM and BiomedCLIP demonstrate strong potential.&lt;/p&gt;
+&lt;p&gt;However, adapting foundation models to new domains or tasks often remains challenging. Although domain generalization and adaptation approaches exist, they may overfit or require target data. A recent paradigm, test-time adaptation, mitigates this by adapting alongside inference to unseen data. The techniques include adapting dynamically through model updates or prompt modifications that support more flexible deployment.&lt;/p&gt;
+&lt;p&gt;This seminar will explore the foundations and capabilities of foundation models, with a focus on pretraining strategies, representational generalization, and efficient adaptation methods. We will examine state-of-the-art foundation models and discuss how they can be adapted to downstream tasks, especially in medical imaging, through techniques such as self-supervised learning, cross-domain transfer, and parameter-efficient tuning.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Self Supervised Learning and Foundation Models&lt;/li&gt;
+&lt;li&gt;Adaptation techniques to clinical applications&lt;/li&gt;
+&lt;li&gt;Examples of Foundation models in medical imaging&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
+&lt;li&gt;Interest in medical image analysis anf foundation models&lt;/li&gt;
+&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Additional information can be found &lt;a href=&#34;https://compai-lab.io/files/ws25-foundation-model-seminar-additional.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Intro slides: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/ws25-foundation-model-seminar.pdf&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/ws25-foundation-model-seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three papers accepted at MICCAI 2025 Main Conference</title>
+      <link>https://compai-lab.io/post/25_06_miccai/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_06_miccai/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Temporal Neural Cellular Automata: Application to modeling of contrast enhancement in breast MRI&lt;/strong&gt;&lt;br&gt;
+Daniel Lang, Richard Osuala, Veronika Spieker, Karim Lekadir,  Rickmer Braren, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2506.18720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2506.18720&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Influence of Classification Task and Distribution Shift Type on OOD Detection in Fetal Ultrasound&lt;/strong&gt;&lt;br&gt;
+Chun Kit Wong, Anders Christensen, Cosmin Bercea, Julia Schnabel, Martin Tolsgaard, Aasa Feragen &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lightweight Data-Free Denoising for Detail-Preserving Biomedical Image Restoration&lt;/strong&gt;&lt;br&gt;
+Tomáš Chobola, Julia Schnabel, Tingying Peng
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract accepted at the Helmholtz AI Conference 2025</title>
+      <link>https://compai-lab.io/post/25_06_anneliese_talk/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_06_anneliese_talk/</guid>
+      <description>&lt;p&gt;Anneliese Riess&amp;rsquo;s abstract has been accepted for presentation as a poster at the &lt;strong&gt;Helmholtz AI Conference 2025&lt;/strong&gt; in Karlsruhe. She presented her work, &lt;em&gt;&amp;ldquo;Bounding the Success of Real-World Data Reconstruction Attacks with Differential Privacy,&amp;rdquo;&lt;/em&gt; on Tuesday, June 3, 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zeyad Mahmoud presenting at Helmholtz Imaging Conference 2025</title>
+      <link>https://compai-lab.io/post/25_06_zeyad_conference_talk/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_06_zeyad_conference_talk/</guid>
+      <description>&lt;p&gt;Zeyad Mahmoud&amp;rsquo;s abstract has been selected for an oral presentation at the Helmholtz Imaging Conference 2025.
+Zeyad presented his Master&amp;rsquo;s thesis research, titled &amp;ldquo;Unsupervised Temporal Diffusion-Based Interpolation for 4D CT&amp;rdquo;.
+In this study, he investigated the ability of deep generative models, specifically diffusion models, for interpolating temporal 4D chest CT scans.
+His work demonstrates how diffusion models can enable faster image acquisition and reduced radiation doses, while maintaining high temporal resolution, and therefore allow for precise dose planning for lung cancer patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning from Many - Domain Generalization for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_ambekar_domain_shift_25/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_ambekar_domain_shift_25/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning achieves good performance when training and test data share similar distribution characteristics. However, for real-world scenarios—including medical imaging and natural scenes—significant domain shifts caused by diverse data characteristics and scanner settings often prevent models from generalizing to unseen domains. To address this at the model level, domain adaptation and domain generalization have emerged as potential solutions. Domain adaptation relies on access to target data to learn target representations, while domain generalization aims to learn invariant representations and obtain robust models using only source domains. Recently, a new paradigm called test-time adaptation further optimizes the model during online inference on the target domain to boost performance.&lt;/p&gt;
+&lt;p&gt;Despite these advancements, existing adaptation methods struggle with unique challenges in the target domain. These include class imbalance, category shifts within domains, reliance on unsupervised surrogate objectives, and non-i.i.d. assumptions that lead to error accumulation. Moreover, the scarcity of large annotated datasets limits the ability of models to learn meaningful representations for transfer. Recent studies also show that existing methods do not consistently improve performance in multi-source, real-world scenarios such as medical imaging.&lt;/p&gt;
+&lt;p&gt;This master’s thesis proposes new domain generalization and adaptation techniques to address these challenges. First, it will train models on multi-source data drawn from diverse distributions—different scanners, pathologies, and demographics. Next, it will explore existing domain generalization algorithms, analyzing the role of entropy minimization for optimizing model performance and the impact of feature alignment. Finally, it seeks to introduce novel contributions grounded in fundamental deep learning principles, with the goal of enhancing the adaptability and robustness of models across varied environments. The research outcomes are intended for publication in a relevant academic venue.&lt;/p&gt;
+&lt;p&gt;The start date ideally is June 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Sameer Ambekar and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:sameer.ambekar@tum.de&#34;&gt;sameer.ambekar@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Segmentation of Perfusion MRI</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_hannah/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_hannah/</guid>
+      <description>&lt;p&gt;Jointly supervised with Gabriel Hoffmann and Christine Preibisch (TUM Universitätsklinikum).&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This project aims to develop and validate deep learning models for the automatic segmentation of perfusion territories in super-selective arterial spin labeling (ss-ASL) data and for the segmentation of individual watershed areas from contrast-agent-based time-to-peak (TTP) maps. The project will leverage the nnUNET framework, which is known for its robustness and flexibility in medical image segmentation tasks. Currently, expert segmentations are highly time-consuming and labor-intensive. Automating these segmentations with a reliable deep learning model will significantly enhance research efficiency and accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Inverse Problems in Medical Imaging​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/inv_seminar/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/inv_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/InvPr_seminar.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
+This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to inverse problems in medical imaging&lt;/li&gt;
+&lt;li&gt;Deep learning approaches for solving inverse problems&lt;/li&gt;
+&lt;li&gt;Applications in various medical imaging modalities (e.g., MRI, CT, PET)&lt;/li&gt;
+&lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
+&lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/InvPr_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four abstracts accepted at 2025 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/ismrm25/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/ismrm25/</guid>
+      <description>&lt;p&gt;Four abstracts from our group have been accepted at the &lt;strong&gt;2025 ISMRM &amp;amp; ISMRT Annual Meeting&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;Leveraging Acquisition Knowledge to Enhance Robustness of Physics-Informed Motion Correction for T2* Quantification&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn will additionally present her work &amp;ldquo;&lt;em&gt;Assessing the Influence of Preprocessing on the Agreement of Image Quality Metrics with Radiological Evaluation in the Presence of Motion&lt;/em&gt;&amp;rdquo; as an oral power pitch on Monday, &lt;strong&gt;12 May 2025 at 4 pm HAST&lt;/strong&gt;. Hannah&amp;rsquo;s abstract received a MAGNA CUM LAUDE Merit Award.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Natascha Niessen will present her work &amp;ldquo;&lt;em&gt;Probing the sparsity of the MPnRAGE sequence through subspace compression&lt;/em&gt;&amp;rdquo; as a digital poster on Thursday, &lt;strong&gt;15 May 2025 at 2:15 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ha Young Kim will present her work &amp;ldquo;&lt;em&gt;Deep learning enabled fast free-breathing stack-of-stars multiparameter mapping for fully quantitative analysis of prostate carcinoma&lt;/em&gt;&amp;rdquo; as a digital poster on Monday, &lt;strong&gt;12 May 2025 at 5 pm HAST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning Strategies for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Self-Supervised Learning (SSL) overcomes the limitations of most learning methods, which require high-quality labelled data. Contrastive learning is a popular technique of SSL, where a model learns to distinguish between similar and dissimilar examples by bringing similar data points closer and dissimilar ones farther apart in the feature space. A key element of contrastive learning is defining the positive and negative pairs, as the model learns by comparing these pairs to adjust its representation. Proper pair selection is crucial for the effectiveness of the learned embeddings.&lt;/p&gt;
+&lt;p&gt;This project aims to compare different strategies for defining pairs in contrastive learning for medical applications. The first part of the project will involve identifying and comparing state-of-the-art strategies on medical tasks. The second part will focus on evaluating and proposing new strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diffusion-Based Correspondences between Multimodal Medical Images</title>
+      <link>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Lesion tracking and image registration (finding the deformation between two images) are fundamental tasks in clinical practice for the diagnosis and monitoring of diseases. For this, establishing correct point correspondences between multiple images is essential.
+Recent research in computer vision explores the use of diffusion model features for various image-based downstream tasks, including object detection, tracking, image editing, and classification, as well as the fusion of high-level semantic and low-level geometric features.
+This thesis aims to adapt diffusion model-based features to medical images. In particular, the student will (i) perform literature research on the topic, (ii) explore SOTA correspondence matching techniques in the context of medical images, and (iii) develop new techniques for specific tasks on multimodal images, e.g., MR and CT. The project can be adapted to the student’s interests.&lt;/p&gt;
+&lt;p&gt;The start date ideally is February/March 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Anna Reithmeir and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:anna.reithmeir@tum.de&#34;&gt;anna.reithmeir@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Location Context in Patch-based 3D Medical Image Segmentation</title>
+      <link>https://compai-lab.io/vacancies/msc_stefan/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_stefan/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning-based semantic segmentation is highly effective for detecting and segmenting tumors, anomalies, and organs-at-risk in medical imaging.
+Unlike general computer vision tasks, medical imaging involves unique challenges, such as large 3D volumes from CT and MRI scans that require substantial computational resources.
+To manage memory constraints, state-of-the-art models like nnUNet and SwinUNETR use patch-based methods, dividing 3D scans into smaller subvolumes.
+The choice of patch size is crucial—large enough to retain meaningful anatomical context but small enough to fit within hardware limitations.
+Networks must also infer the relative position of patches within the body to maintain spatial coherence in segmentation tasks.
+Additional location information can be incorporated using image coordinates, physical scanner coordinates, or body-part regression tools.
+This project aims to evaluate different methods for integrating location information into CNNs and Transformers for 3D medical image segmentation.
+Techniques under consideration include coordinate images as additional channels, CoordConv layers, attention mechanisms, and positional embeddings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning in Medical Imaging - Theory and Applications​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/ssl_seminar/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/ssl_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/ssl.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 12/02/2024 at 15h via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinyurl.com/SSLMEDIMG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/SSLMEDIMG&lt;/a&gt; , Meeting ID: 651 0606 0734 Passcode: 819595&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Self-supervised learning (SSL), described as &amp;ldquo;the dark matter of intelligence, overcomes the limitations of most learning methods, which require high-quality labelled data. This paradigm leverages large amounts of unlabeled data to learn meaningful representations through pretext tasks and enables models to generalise better and perform well on downstream tasks involving only a few labelled data. In medical imaging, image labels are usually very limited. Therefore, SSL is particularly valuable in this context. In a first step, the seminar will focus on the integration of state-of-the-art self-supervised learning techniques in computer vision. Next, those techniques will then be discussed in the context of medical problem settings featuring segmentation, detection, and classification. Selected material on methods and applications from the field of medical imaging will be covered. Basic problem formulations to recent advances will be discussed.&lt;/p&gt;
+&lt;p&gt;This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theory of Self-Supervised-Learning&lt;/li&gt;
+&lt;li&gt;Examples of SSL data in medical imaging&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:maxime.di-folco@tum.de&#34;&gt;maxime.di-folco@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/SSL_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview with doctoral researcher Anna Reithmeir by Munich Center for Machine Learning</title>
+      <link>https://compai-lab.io/post/reithmeir_mcml_interview/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_mcml_interview/</guid>
+      <description>&lt;p&gt;MCML Junior Member Anna Reithmeir is writing her doctoral thesis at the Chair of Computational Imaging and AI in Medicine at TUM. Her work addresses the complexity of aligning images from different times or modalities, enabling the comparison of anatomical changes such as tumor growth.&lt;/p&gt;
+&lt;p&gt;The interview with the Munich Center for Machine Learning about her work can be found at &lt;a href=&#34;https://mcml.ai/news/2024-11-12-reithmeir-interview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mcml.ai/news/2024-11-12-reithmeir-interview/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication at Nature Communications</title>
+      <link>https://compai-lab.io/post/bercea_nature_comms_24/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_nature_comms_24/</guid>
+      <description>&lt;p&gt;Evaluating Normative Representation Learning in Generative AI for Robust Anomaly Detection in Brain Imaging&amp;quot; by Cosmin I. Bercea et al. has been accepted for publication in Nature Communications.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/bercea_nat_comms.png&#34; alt=&#34;NatComms&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our latest study explores the potential of normative representation learning in medical imaging, focusing on understanding typical anatomical patterns and detecting anomalies without expert labeling. The research introduces new metrics to evaluate normative learning in generative AI models, including advanced diffusion frameworks, and tests them across a wide range of brain pathologies.&lt;/p&gt;
+&lt;p&gt;A large multi-reader study compares these metrics to expert evaluations, demonstrating the models’ ability to detect diverse, unseen medical conditions effectively. The findings aim to improve the assessment of generative models and contribute to more robust, clinically relevant AI systems.&lt;/p&gt;
+&lt;p&gt;The code is available here: &lt;a href=&#34;https://github.com/ci-ber/GenAI_UAD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ci-ber/GenAI_UAD&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check the &lt;a href=&#34;https://assets-eu.researchsquare.com/files/rs-3749187/v1_covered_2dcf60cd-8d02-4e9e-bd8a-90b201a3c470.pdf?c=1703166567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pre-print&lt;/a&gt; for more information.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AI for Vision-Language Models in Medical Imaging (IN2107)</title>
+      <link>https://compai-lab.io/teaching/vlm_seminar/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/vlm_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/vlm_teaser.gif&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Wednesday 14-16.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: - Garching (in-person): FMI, 5610.01.11 &lt;a href=&#34;https://nav.tum.de/room/5610.01.011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nav.tum.de/room/5610.01.011&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;some invited talks on Zoom: &lt;a href=&#34;https://tum-conf.zoom-x.de/my/cibercea?pwd=WlMvanU1NUcveUtjVTJrWHAzWFp1dz09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/my/cibercea?pwd=WlMvanU1NUcveUtjVTJrWHAzWFp1dz09&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vision-language models (VLMs) in medical imaging leverage the integration of visual data and textual information to enhance representation learning. These models can be pre-trained to improve representations, enabling a wide range of downstream applications. This seminar will explore foundational concepts, current methodologies, and recent advancements in applying vision-language models to diverse tasks in medical imaging, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Synthetic image synthesis&lt;/li&gt;
+&lt;li&gt;Anomaly detection&lt;/li&gt;
+&lt;li&gt;Clinical report generation&lt;/li&gt;
+&lt;li&gt;Visual-question answering&lt;/li&gt;
+&lt;li&gt;Classification&lt;/li&gt;
+&lt;li&gt;Segmentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:cosmin.bercea@tum.de&#34;&gt;cosmin.bercea@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/VLM_seminar.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/VLM_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Landmark Tracking on Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Even though various learning-based computer vision methods have been developed for pixel tracking, motion estimation in video data depicts a challenging task. Part of the problem arises from the 3D-to-2D projection process that can lead to out-of-plane motion, which impedes long-range pixel trajectory estimation. In the medical domain, video data, i.e. fast magnetic resonance imaging (MRI) sequences, can be used for guidance during treatment. Specifically, in radiation therapy, contouring algorithms are used for tracking of the target volume supposed to receive the main radiation dose during treatment. Delineation can, for example, be performed with a U-Net architecture. However, such an approach only allows for identification of larger structures, while irregular movement can be subtle and localized. Landmark detection models are able to identify such localized regions between different representations of the same object. Furthermore, they are faster than semantic segmentation models, and therefore, allow for computer aided intervention during treatment. In this thesis, different state-of-the-art landmark and pixel tracking algorithms will be tested and further enhanced to identify movement on temporal imaging data of the lungs, i.e. 4D CT. Furthermore, ability of such landmarks to identify movement differing from a normal state, i.e. allowing for identification of anomalies, will be studied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleven papers accepted at MICCAI Workshops 2024</title>
+      <link>https://compai-lab.io/post/miccai_workshops_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_workshops_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection [Best Paper Award]&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Julia Schnabel, and Cosmin I. Bercea. &lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2410.03306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2410.03306&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI&lt;/strong&gt;&lt;br&gt;
+Malek Ben Alaya, Daniel M. Lang, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15270&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Analysis of Alzheimer’s Disease Signatures using 3D Deformable Autoencoders&lt;/strong&gt;&lt;br&gt;
+Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.03863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.03863&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Deniz Daum; Richard Osuala; Anneliese Riess; Georgios Kaissis; Julia A. Schnabel; Maxime Di Folco&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.16405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.16405&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Graph Neural Networks: A suitable alternative to MLPs in latent 3D medical image classification?&lt;/strong&gt;&lt;br&gt;
+Johannes Kiechle, Daniel M. Lang, Stefan M. Fischer, Lina Felsner, Jan C. Peeken, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2407.17219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2407.17219&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Vision Encoder Features as Guidance in Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A Schnabel, Veronika A Zimmer&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.13311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.13311&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Language Models Meet Anomaly Detection for Better Interpretability and Generalizability&lt;/strong&gt;&lt;br&gt;
+Jun Li, Su Hwan Kim, Philip Müller, Lina Felsner, Daniel Rueckert, Benedikt Wiestler, Julia A.Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2404.07622v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2404.07622v2&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer&lt;/strong&gt;&lt;br&gt;
+Inês P. Machado, Anna Reithmeir, Fryderyk Kogl, Leonardo Rundo, Gabriel Funingana, Marika Reinius, Gift Mungmeeprued, Zeyu Gao, Cathal McCague, Eric Kerfoot, Ramona Woitek, Evis Sala, Yangming Ou, James Brenton, Julia Schnabel, Mireia Crispin&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.17114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.17114&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound&lt;/strong&gt;&lt;br&gt;
+Hanna Mykula, Lisa Gasser, Silvia Lobmaier, Julia A. Schnabel, Veronika Zimmer, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15119&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.12669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.12669&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complex-valued Federated Learning with Differential Privacy and MRI Applications&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Alexander Ziller, Stefan Kolek, Daniel Rueckert, Julia Schnabel, Georgios Kaissis &lt;br&gt;
+([link will be available soon])&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seven papers accepted at MICCAI 2024</title>
+      <link>https://compai-lab.io/post/miccai_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models with Implicit Guidance for Medical Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08464&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Physics-Informed Deep Learning for Motion-Corrected Reconstruction of Quantitative Brain MRI&lt;/strong&gt;&lt;br&gt;
+Hannah Eichhorn, Veronika Spieker, Kerstin Hammernik, Elisa Saks, Kilian Weiss, Christine Preibisch, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08298&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks&lt;/strong&gt;&lt;br&gt;
+Stefan M. Fischer, Lina Felsner, Daniel M. Lang, Richard Osuala, Johannes Kiechle, Jan C. Peeken, Julia A. Schnabel&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interpretable Representation Learning of Cardiac MRI via Attribute Regularization&lt;/strong&gt;&lt;br&gt;
+Maxime Di Folco, Cosmin I. Bercea, Emily Chan, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2406.08282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.08282&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, and Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.13890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.13890&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Anna Reithmeir, Lina Felsner, Rickmer Braren, Julia A. Schnabel, Veronika A. Zimmer&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation&lt;/strong&gt;&lt;br&gt;
+Veronika Spieker, Hannah Eichhorn, Jonathan K. Stelter, Wenqi Huang, Rickmer F. Braren, Daniel Rückert, Francisco Sahli Costabal, Kerstin Hammernik, Claudia Prieto, Dimitrios C. Karampinos, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2404.08350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2404.08350&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latent Diffusion Models For Cardiac Attribute Regularization</title>
+      <link>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Diffusion models have recently caught the attention of the medical imaging community by producing realistic synthetic images. Recent efforts have focused on improving model controllability of the generation process by allowing selective modifications of data attributes, such as altering the gender of a person in an image. Latent Diffusion Models (LDMs) can be used to generate realistic data of brain MRI controlled by attributes such as age, sex, and brain structure volumes.&lt;/p&gt;
+&lt;p&gt;This project aims to use latent diffusion models to generate realistic cardiac MRI and control the generation process by given attributes such as age, cardiac volumes, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted at MELBA Journal</title>
+      <link>https://compai-lab.io/post/fischer_melba_24/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/fischer_melba_24/</guid>
+      <description>&lt;p&gt;Stefan M. Fischer&amp;rsquo;s submission to the MICCAI2023 Lymph Node Quantification Challenge won the 3rd price.&lt;br&gt;
+Therefore, the challenge team was invited for a presentation at MICCAI 2023 and to a Special Issue Submission at the MELBA Journal.
+The journal submission &amp;ldquo;&lt;em&gt;Mask the Unknown: Assessing Different Strategies to Handle Weak Annotations in the MICCAI2023 Mediastinal Lymph Node Quantification Challenge&lt;/em&gt;&amp;rdquo; is now available at MELBA.&lt;br&gt;
+The paper is available &lt;a href=&#34;https://www.melba-journal.org/papers/2024:008.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hannah Eichhorn elected as ISMRM Study Group Trainee Representative</title>
+      <link>https://compai-lab.io/post/eichhorn_study_group_5_24/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/eichhorn_study_group_5_24/</guid>
+      <description>&lt;p&gt;Hannah Eichhorn has been elected as Trainee Representative of the ISMRM Motion Detection &amp;amp; Correction Study Group. She started her term at the ISMRM Annual Meeting in Singapore in the beginning of May.&lt;/p&gt;
+&lt;p&gt;The Study Group&amp;rsquo;s mission is to investigate how various forms of motion can affect MR data, how motion can be detected, how to deal best with motion-corrupted data, and what can be done to prevent MR data from getting corrupted by motion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>German Radiological Society Awards the Alfred Breit Prize to Prof. Julia Schnabel</title>
+      <link>https://compai-lab.io/post/schnabel_alfred_breit_preis_24/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/schnabel_alfred_breit_preis_24/</guid>
+      <description>&lt;p&gt;The Alfred Breit Prize 2024 of the Radiological Society was awarded to Prof. Julia Schnabel, Professor at the Technical University of Munich and Director at the Institute of Machine Learning in Biomedical Imaging at Helmholtz Munich. The prize honors outstanding work in the research of radio-oncology.&lt;/p&gt;
+&lt;p&gt;More information &lt;a href=&#34;https://www.drg.de/de-DE/10884/zweifache-ehrung-drg-verleiht-alfred-breit-preis-an-prof-dr-julia-schnabel-aus-muenchen-und-prof-dr-norbert-hosten-aus-greifswald/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.helmholtz-munich.de/newsroom/news/artikel/deutsche-roentgengesellschaft-verleiht-alfred-breit-preis-an-prof-julia-schnabel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at SPIE Medical Imaging 2024 and Finalist of Best Student Paper Award</title>
+      <link>https://compai-lab.io/post/reithmeir_spie_24/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_spie_24/</guid>
+      <description>&lt;p&gt;Anna Reithmeir&amp;rsquo;s paper &amp;lsquo;Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks&amp;rsquo; was accepted at SPIE Medical Imaging 2024 which was held 18-22 Feb. 2024 in San Diego, US.&lt;/p&gt;
+&lt;p&gt;The paper is among the finalists for the best student paper award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at ISBI 2024</title>
+      <link>https://compai-lab.io/post/kiechle_isbi_24/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/kiechle_isbi_24/</guid>
+      <description>&lt;p&gt;Johannes Kiechle&amp;rsquo;s paper has been accepted to be presented at International Symposium on Biomedical Imaging 2024 Annual Meeting in Athens.&lt;/p&gt;
+&lt;p&gt;Johannes Kiechle will present his work &amp;ldquo;&lt;em&gt;Unifying Local and Global Shape Descriptors to Grade Soft-Tissue Sarcomas using Graph Convolutional Networks&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning and Domain Adaptation in Medical Imaging (IN0014, IN2107)</title>
+      <link>https://compai-lab.io/teaching/domain_adaptation_seminar/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/domain_adaptation_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950769202?$scrollTo=toc_overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Transfer learning enables the effective utilization of knowledge gained from one task or domain to enhance performance in another, while domain adaptation focuses on adapting models trained on a particular domain to perform well in related but different domains.
+This seminar looks at the concepts of transfer learning and domain adaptation in general and with the application in medical imaging. Selected material of methods and applications from the field of medical imaging will be covered. Basic problem formulations to recent advances will be discussed.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to transfer learning and domain adaptation&lt;/li&gt;
+&lt;li&gt;Implications in the context of medical imaging&lt;/li&gt;
+&lt;li&gt;Examples of transfer learning and domain adaptation in medical imaging&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
+&lt;li&gt;Interest in medical image analysis&lt;/li&gt;
+&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/slides_domain_adaptation_seminar.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/slides_domain_adaptation_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract accepted at ESTRO 2024 (oral talk)</title>
+      <link>https://compai-lab.io/post/kiechle_estro_24/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/kiechle_estro_24/</guid>
+      <description>&lt;p&gt;Johannes Kiechle&amp;rsquo;s abstract has been accepted to be presented as an oral at The European SocieTy for Radiotherapy and Oncology (ESTRO) 2024 Annual Meeting in Glasgow.&lt;/p&gt;
+&lt;p&gt;Johannes Kiechle will present his work &amp;ldquo;&lt;em&gt;Investigating the role of morphology in deep learning-based liposarcoma grading&lt;/em&gt;&amp;rdquo; on Monday, 06 May 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two abstracts accepted at 2024 ISMRM &amp; ISMRT Annual Meeting (oral talks)</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm24/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as orals at the 2024 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work &amp;ldquo;&lt;em&gt;PHIMO: Physics-Informed Motion Correction of GRE MRI for T2&lt;/em&gt; Quantification*&amp;rdquo; on Tuesday, 07 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/PHIMO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work &amp;ldquo;&lt;em&gt;DE-NIK: Leveraging Dual-Echo Data for Respiratory-Resolved Abdominal MR Reconstructions Using Neural Implicit k-Space Representations&lt;/em&gt;&amp;rdquo; on Monday, 06 May 2024 at 8:15 am SGT. Check &lt;a href=&#34;https://github.com/vjspi/DE-NIK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review paper accepted at IEEE Transactions on Medical Imaging</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_tmi/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_tmi/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review&lt;/em&gt; by Veronika Spieker and Hannah Eichhorn et al. has been accepted for publication at IEEE Transactions on Medical Imaging.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img&#34; srcset=&#34;
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_e1ff7f723fc5ed308be173642a5f92f5.webp 400w,
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_59a22aa363f30bc9c49ab63c04f6c200.webp 760w,
+               /post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://compai-lab.io/post/spieker_eichhorn_tmi/img_hu97b0dcc97f3d04d523dba4b92347ab90_2209044_e1ff7f723fc5ed308be173642a5f92f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;713&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Motion remains a major challenge in MRI and various deep learning solutions have been proposed – but what are common challenges and potentials? Check out &lt;a href=&#34;https://ieeexplore.ieee.org/document/10285512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this review&lt;/a&gt;, which identifies differences and synergies of recent methods and bridges the gap between AI and MR physics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review</title>
+      <link>https://compai-lab.io/publication/spiekereichhorn-2023-review/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/spiekereichhorn-2023-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five papers accepted at MICCAI 2023 workshops</title>
+      <link>https://compai-lab.io/post/iml_miccai_workshops/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/iml_miccai_workshops/</guid>
+      <description>&lt;p&gt;Five papers have been accepted for publication at workshops associated with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;Interested to hear more about our work? Then join us at the following workshops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Veronika Spieker will be at the &lt;a href=&#34;https://dgm4miccai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DGM4&lt;/a&gt; workshop to talk about &lt;a href=&#34;https://arxiv.org/abs/2308.08830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Implicit Representations for Abdominal MR Reconstruction&lt;/a&gt; on October 8, at 10:25.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn presents her work on physics-aware motion simulation for T2*-weighted MRI at the &lt;a href=&#34;https://2023.sashimi-workshop.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI&lt;/a&gt; workshop on October 8, at 14:40. Check out the &lt;a href=&#34;https://arxiv.org/abs/2303.10987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; for more information!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxime Di Folco presents at the &lt;a href=&#34;https://stacom.github.io/stacom2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STACOM&lt;/a&gt; workshop on October 12, at 11:15 the work of Josh Stein on &amp;ldquo;Sparse annotation strategies for segmentation of short axis cardiac MRI&amp;rdquo;  (&lt;a href=&#34;https://arxiv.org/abs/2307.12619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cosmin Bercea will talk about &lt;a href=&#34;https://arxiv.org/pdf/2308.13861.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bias in Unsupervised Anomaly Detection&lt;/a&gt; at the &lt;a href=&#34;https://faimi-workshop.github.io/2023-miccai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIMI&lt;/a&gt; workshop on October 12, at 2:50 PDT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Lang will talk about &lt;a href=&#34;https://arxiv.org/abs/2303.05861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection in Non-Contrast Enhanced Breast MRI&lt;/a&gt; at the &lt;a href=&#34;https://caption-workshop.github.io/miccai2023/#Workshop%20sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaPTion&lt;/a&gt; workshop on October 12.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Süddeutsche Zeitung Interview with Prof. Julia Schnabel</title>
+      <link>https://compai-lab.io/post/schnabel_sueddeutsche_23/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/schnabel_sueddeutsche_23/</guid>
+      <description>&lt;p&gt;Interview with Prof. Julia Schnabel by Süddeutsche Zeitung about artificial intelligence in clinical practice. Available online &lt;a href=&#34;https://www.sueddeutsche.de/kultur/kuenstliche-intelligenz-medizin-gesundheitsversorgung-1.6074505?reduced=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning of and on manifolds in medical imaging (IN2107)</title>
+      <link>https://compai-lab.io/teaching/manifold_seminar/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/manifold_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wblv.wbShowLvDetail?pStpSpNr=950706204&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Considering the manifold of medical imaging data, i.e. the underlying topological space, facilitates the analysis, interpretation, and visualization of the data. This seminar focuses on machine and deep learning methods that either learn the manifold from high-dimensional data or use manifold-valued data as input. Selected material of methods and applications from the field of medical imaging will be covered. Basic problem formulations to recent advances will be discussed. This includes, but is not
+limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to manifolds&lt;/li&gt;
+&lt;li&gt;Difference between learning on and of a manifold&lt;/li&gt;
+&lt;li&gt;Examples of manifold-valued data in medical imaging&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods for manifold-valued data&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register to: &lt;a href=&#34;https://matching.in.tum.de/m/jz0zflh/q/6wi1lmq4yx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/m/jz0zflh/q/6wi1lmq4yx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Manifold_seminar.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/Manifold_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection in Medical Imaging</title>
+      <link>https://compai-lab.io/teaching/anomaly_seminar/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/anomaly_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/autoddpm_teaser.gif&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Anomaly detection aims to identify patterns that do not conform to the expected normal distribution. Despite its importance for clinical applications, the detection of outliers is still a very challenging task due to the rarity, unknownness, diversity, and heterogeneity of anomalies. Basic problem formulations to recent advances in the field will be discussed.&lt;/p&gt;
+&lt;p&gt;This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconstruction-based anomaly segmentation&lt;/li&gt;
+&lt;li&gt;Probabilistic models, i.e., anomaly likelihood estimation&lt;/li&gt;
+&lt;li&gt;Generative models&lt;/li&gt;
+&lt;li&gt;Self-supervised-, contrastive methods&lt;/li&gt;
+&lt;li&gt;Unsupervised methods&lt;/li&gt;
+&lt;li&gt;Clinical Applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/UAD_seminar.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/UAD_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Riemannian Manifolds for Medical Image Classification</title>
+      <link>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This Master’s project aims to explore the use of covariance descriptors for disease classification with medical&lt;/p&gt;
+&lt;p&gt;images. First, the MedMNIST toy dataset will be explored. Then, the student will work with an open-source&lt;/p&gt;
+&lt;p&gt;medical dataset, e.g. of 2D chest x-ray or 3D cardiac MR images&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmentation of sparse annotated data - application to cardiac imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_maxime/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In cardiac MR, segmenting the left ventricle, the right ventricle and the myocardium is a common task in clinical routine. Several state-of-the-art deep learning algorithms are able to achieve reliable and great performances for this task. Nevertheless, it is often performed in a supervised way, i.e. annotated data are needed. Because these annotations are time-consuming for the clinician to make, recent works focus on being able to limit the needs of annotation and still provide robust and reliable segmentation. Different strategies exist to overcome this limitation, such as transfer learning or self-supervised learning, which are learning prior knowledge on a similar annotated dataset or without any annotation.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to be able to provide robust and reliable segmentation of a sparse annotated cardiac MR dataset. The prospective student will develop a segmentation network based on recent strategies for sparsed annotated data and compare them to state-of-the-art deep-learning segmentation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted at MICCAI 2023</title>
+      <link>https://compai-lab.io/post/bercea_miccai/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_miccai/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;What Do AEs Learn? Challenging Common Assumptions in Unsupervised Anomaly Detection&lt;/em&gt; and &lt;em&gt;Reversing the Abnormal: Pseudo-Healthy Generative Networks for Anomaly Detection&lt;/em&gt; by Cosmin I. Bercea et al. have been accepted for publication at the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/morphaeus.gif&#34; alt=&#34;MorphAEus&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Curios what auto-encoders actually learn? Check out &lt;a href=&#34;https://ci.bercea.net/project/morphaeus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; project page to find out more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/phanes.gif&#34; alt=&#34;PHANES&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How can we reverse anomalies in medical images? Check out the project &lt;a href=&#34;https://ci.bercea.net/project/phanes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title> Paper accepted at ICML IMLH 2023</title>
+      <link>https://compai-lab.io/post/bercea_icml/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_icml/</guid>
+      <description>&lt;p&gt;We are delighted to announce that our research on developing automatic diffusion models for anomaly detection has been accepted and will be published in the proceedings of the 3rd workshop for Interpretable Machine Learning in Healthcare, held at the International Conference on Machine Learning 2023. Congratulations to our dedicated student Michael for his outstanding contribution to this achievement!&lt;/p&gt;
+&lt;p&gt;Curious about how to solve the noise paradox illustrated below? Check out our &lt;a href=&#34;https://ci.bercea.net/project/autoddpm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/noise_paradox.gif&#34; alt=&#34;AutoDDPM&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at MIDL 2023 (oral talk)</title>
+      <link>https://compai-lab.io/post/bercea_midl/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_midl/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;em&gt;Generalizing Unsupervised Anomaly Detection: Towards Unbiased Pathology Screening&lt;/em&gt;&amp;rdquo; by Cosmin I. Bercea et al. has been accepted for publication at Medical Imaging with Deep Learning, Nashville, 2023. Cosmin Bercea will present his work on Monday, 10 July 2023 at 9:15 pm CEST.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/ra.png&#34; alt=&#34;RA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Moving beyond hyperintensity thresholding: This paper analyzes the challenges and outlines opportunities for advancing the field of unsupervised anomaly detection. Our proposed method RA outperformed SOTA methods on T1w brain MRIs, detecting more global anomalies (AUROC increased from 73.1 to 89.4) and local pathologies (detection rate increased from 52.6% to 86.0%).&lt;/p&gt;
+&lt;p&gt;Want to know more? Check the &lt;a href=&#34;https://ci.bercea.net/project/ra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project site&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Abstracts accepted at 2023 ISMRM &amp; ISMRT Annual Meeting</title>
+      <link>https://compai-lab.io/post/spieker_eichhorn_ismrm/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_eichhorn_ismrm/</guid>
+      <description>&lt;p&gt;Veronika Spieker&amp;rsquo;s and Hannah Eichhorn&amp;rsquo;s abstracts have been accepted to be presented as digital posters at the 2023 ISMRM &amp;amp; ISMRT Annual Meeting.&lt;/p&gt;
+&lt;p&gt;Veronika Spieker will present her work on &amp;ldquo;&lt;em&gt;Patient-specific respiratory liver motion analysis for individual motion-resolved reconstruction&lt;/em&gt;&amp;rdquo; on Monday, 05 June 2023 at 1:45 pm EDT.&lt;/p&gt;
+&lt;p&gt;Hannah Eichhorn will present her work on &amp;ldquo;&lt;em&gt;Investigating the Impact of Motion and Associated B0 Changes on Oxygenation Sensitive MRI through Realistic Simulations&lt;/em&gt;&amp;rdquo; on Tuesday, 06 June 2023 at 4:45 pm EDT. Check &lt;a href=&#34;https://github.com/HannahEichhorn/T2starRealisticMotionSimulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this GitHub repository&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Smooth Surface and Normal Fields Reconstruction</title>
+      <link>https://compai-lab.io/vacancies/msc_surface_zimmer/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_surface_zimmer/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying the shape of surfaces have become an important tool in biology and medical imaging. The extraction of appropriate data representations, such as triangulated surfaces, is crucial for the subsequent analysis. These surfaces are for example obtained from binary segmentations or 3D point clouds. Using standard methods, such surfaces are often not very accurate and require several post-processing steps, such as smoothing and simplifications.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. we aim to develop a new set of automatic methods that can compute a triangulation and a normal field from a 3D dataset (binary image and/or 3D point cloud).
+The goal of this project is to understand the-state-of-the-art methods (e.g., [?]) and to propose solutions in the context of constructing a mesh from 3D images/point sets. We are interested in learn- ing from a dataset of smooth surfaces and their corresponding 3D datasets to make the triangulation or resampling accurate. The application will be the extraction of a smooth surfaces from μ-CT and CT data of the cochlea and inner ear, whose shapes can then be analyzed subsequently for population studies.
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify surfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication at Nature Machine Intelligence</title>
+      <link>https://compai-lab.io/post/bercea_nature/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/bercea_nature/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Federated disentangled representation learning for unsupervised brain anomaly detection&lt;/em&gt; by Cosmin I. Bercea et al. has been published at Nature Machine Intelligence.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/feddis.png&#34; alt=&#34;Feddis&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In this work, a federated algorithm was trained on more than 1,500 MR scans of healthy study participants from four institutions while maintaining data privacy with the goal to detect diseases such as multiple sclerosis, vascular disease, and various forms of brain tumors that the algorithm had never seen before.&lt;/p&gt;
+&lt;p&gt;Check the &lt;a href=&#34;https://ci.bercea.net/project/feddis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project site&lt;/a&gt; for more information.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What do we learn? Debunking the Myth of Unsupervised Outlier Detection</title>
+      <link>https://compai-lab.io/publication/bercea-2022-we/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/bercea-2022-we/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veronika Spieker wins the 1st place MedtecLIVE Talent Award 2022</title>
+      <link>https://compai-lab.io/post/spieker_award/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/spieker_award/</guid>
+      <description>&lt;p&gt;The MedtecLIVE Talent Award 2022 is given to bachelor&amp;rsquo;s and master&amp;rsquo;s theses that relate to an innovation, improvement, or new application in medical technology along with its entire value chain.&lt;/p&gt;
+&lt;p&gt;After a first screening of her thesis abstract, Veronika was invited to the live finale in Stuttgart to present her thesis in an 8-minute pitch. The extensiveness of her work, her drive to clinical translation as well as visual and interactive presentation convinced the jury to award her the first prize.&lt;/p&gt;
+&lt;p&gt;As part of her M.Sc. in Medical Technologies at TUM, Veronika conducted her master thesis at the Munich Institute of Robotics and Machine Intelligence (MIRMI) and published her results in Sensors (&lt;a href=&#34;https://www.mdpi.com/1424-8220/21/21/7404%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.mdpi.com/1424-8220/21/21/7404)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are happy, that she is now pursuing her PhD at our lab at Helmholtz Munich!&lt;/p&gt;
+&lt;p&gt;More information on the finale can be found here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medizin-und-technik.industrie.de/medizintechnik-studium/talent-award-zur-medtec-live-with-t4m-jetzt-ist-der-nachwuchs-dran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medizin-und-technik.industrie.de/medizintechnik-studium/talent-award-zur-medtec-live-with-t4m-jetzt-ist-der-nachwuchs-dran/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mirmi.tum.de/mirmi/news/article/veronika-spieker-is-honored-with-the-1st-place-medteclive-talent-award-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mirmi.tum.de/mirmi/news/article/veronika-spieker-is-honored-with-the-1st-place-medteclive-talent-award-2022/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning-based Integrated Framework for Quality-aware Undersampled Cine Cardiac MRI Reconstruction and Analysis</title>
+      <link>https://compai-lab.io/publication/machado-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/machado-2022-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AtrialJSQnet: A New framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information</title>
+      <link>https://compai-lab.io/publication/li-2022-atrialjsqnet/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/li-2022-atrialjsqnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved 3D tumour definition and quantification of uptake in simulated lung tumours using deep learning</title>
+      <link>https://compai-lab.io/publication/dal-2022-improved/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/dal-2022-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Image Registation I (IN2107)</title>
+      <link>https://compai-lab.io/teaching/master_seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/master_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950627128&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image registration is the process of aligning two or more images, and crucial for many image analysis pipelines. This seminar will cover selected material of image registration for medical imaging. Basic problem formulations to recent advances in the field will be discussed. This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning and non-learning based image registration&lt;/li&gt;
+&lt;li&gt;Optimization techniques&lt;/li&gt;
+&lt;li&gt;Image registration for multi-modal data&lt;/li&gt;
+&lt;li&gt;Multi-resolution and regularization strategies&lt;/li&gt;
+&lt;li&gt;Linear and non-linear deformations&lt;/li&gt;
+&lt;li&gt;Supervised and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Medicine (IN2403)</title>
+      <link>https://compai-lab.io/teaching/aim_lecture/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/aim_lecture/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950596772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ph.tum.de/academics/org/cc/mh/IN2403/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of the module students should be able to recall the important topics in the area of artificial intelligence in medicine, understand the relations between the topics, apply their knowledge to own deep learning projects, analyse and evaluate social and ethical implications and develop own strategies to apply the learned concepts to their own work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction: Clinical motivation, clinical data, clinical workflows&lt;/li&gt;
+&lt;li&gt;ML for medical imaging• Data curation for medical applications&lt;/li&gt;
+&lt;li&gt;Domain shift in medical applications: Adversarial learning and Transfer learning&lt;/li&gt;
+&lt;li&gt;Self-supervised learning and unsupervised learning&lt;/li&gt;
+&lt;li&gt;Learning from sparse and noisy data&lt;/li&gt;
+&lt;li&gt;ML for unstructured and multi-modal clinical data&lt;/li&gt;
+&lt;li&gt;NLP for clinical data• Bayesian approaches to deep learning and uncertainty&lt;/li&gt;
+&lt;li&gt;Interpretability and explainability&lt;/li&gt;
+&lt;li&gt;Federated learning, privacy-preserving ML and ethics&lt;/li&gt;
+&lt;li&gt;ML for time-to-event modeling, survival models&lt;/li&gt;
+&lt;li&gt;ML for differential diagnosis and stratification• Clinical applications in pathology/radiology/omics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Medicine II (IN2408)</title>
+      <link>https://compai-lab.io/teaching/aim_lecture_2/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/aim_lecture_2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950636169&amp;amp;pSpracheNr=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Details&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ph.tum.de/academics/org/cc/course/950636169/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Information&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Introduction and examples of advanced prediction and classification problems in medicine; ML for prognostic and diagnostic tasks; risk scores, time-to-event modeling, survival models, differential diagnosis &amp;amp; population stratification, geometric deep learning: point clouds &amp;amp; meshes, mesh-based segmentation, shape analysis, trustworthy AI in medicine: bias and fairness, generalizability, AI for affordable healthcare, clinical deployment and evaluation, data harmonization, causal inference, transformers, reinforcement learning in medicine, ML for neuro: structural neuroimaging, functional neuroimaging, diffusion imaging, ML for CVD: EEG analysis&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning Outcome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At the end of the module students should be able to recall advanced topics in the area of artificial intelligence in medicine, understand the relations between the topics, apply their knowledge to own AI projects, analyse and evaluate social and ethical implications and develop own strategies to apply the learned concepts to their own work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preconditions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IN2403 Artificial Intelligence in Medicine&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Detection and Correction of Cardiac MR Motion Artefacts During Reconstruction for High-Quality Segmentation</title>
+      <link>https://compai-lab.io/fpublications/pmid-32746141/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/pmid-32746141/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
+      <link>https://compai-lab.io/fpublications/8867900/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/8867900/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A topological loss function for deep-learning based image segmentation using persistent homology</title>
+      <link>https://compai-lab.io/fpublications/clough-2019-topological/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/clough-2019-topological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic CNN-based detection of cardiac MR motion artefacts using k-space data augmentation and curriculum learning</title>
+      <link>https://compai-lab.io/fpublications/oksuz-2019136/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/oksuz-2019136/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances and Challenges in Deformable Image Registration: From Image Fusion to Complex Motion Modelling</title>
+      <link>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/028-b-6-ad-81-dea-4-ce-39-a-182-f-7-df-77-f-2-ee-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIND: Modality independent neighbourhood descriptor for multi-modal deformable registration</title>
+      <link>https://compai-lab.io/fpublications/heinrich-2012-mind/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/heinrich-2012-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic construction of 3-D statistical deformation models of the brain using nonrigid registration</title>
+      <link>https://compai-lab.io/fpublications/rueckert-2003-automatic/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/rueckert-2003-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic framework for non-rigid registration based on non-uniform multi-level free-form deformations</title>
+      <link>https://compai-lab.io/fpublications/schnabel-2001-generic/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/fpublications/schnabel-2001-generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://compai-lab.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://compai-lab.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://compai-lab.io/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

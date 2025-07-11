@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ss25 | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/ss25/</link>
+      <atom:link href="https://compai-lab.io/tag/ss25/index.xml" rel="self" type="application/rss+xml" />
+    <description>ss25</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>ss25</title>
+      <link>https://compai-lab.io/tag/ss25/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Inverse Problems in Medical Imaging​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/inv_seminar/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/inv_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/InvPr_seminar.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
+This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to inverse problems in medical imaging&lt;/li&gt;
+&lt;li&gt;Deep learning approaches for solving inverse problems&lt;/li&gt;
+&lt;li&gt;Applications in various medical imaging modalities (e.g., MRI, CT, PET)&lt;/li&gt;
+&lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
+&lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/InvPr_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning in Medical Imaging - Theory and Applications​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/ssl_seminar/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/ssl_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/ssl.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 12/02/2024 at 15h via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinyurl.com/SSLMEDIMG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/SSLMEDIMG&lt;/a&gt; , Meeting ID: 651 0606 0734 Passcode: 819595&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Self-supervised learning (SSL), described as &amp;ldquo;the dark matter of intelligence, overcomes the limitations of most learning methods, which require high-quality labelled data. This paradigm leverages large amounts of unlabeled data to learn meaningful representations through pretext tasks and enables models to generalise better and perform well on downstream tasks involving only a few labelled data. In medical imaging, image labels are usually very limited. Therefore, SSL is particularly valuable in this context. In a first step, the seminar will focus on the integration of state-of-the-art self-supervised learning techniques in computer vision. Next, those techniques will then be discussed in the context of medical problem settings featuring segmentation, detection, and classification. Selected material on methods and applications from the field of medical imaging will be covered. Basic problem formulations to recent advances will be discussed.&lt;/p&gt;
+&lt;p&gt;This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theory of Self-Supervised-Learning&lt;/li&gt;
+&lt;li&gt;Examples of SSL data in medical imaging&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:maxime.di-folco@tum.de&#34;&gt;maxime.di-folco@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/SSL_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

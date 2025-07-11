@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>completed | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/completed/</link>
+      <atom:link href="https://compai-lab.io/tag/completed/index.xml" rel="self" type="application/rss+xml" />
+    <description>completed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>completed</title>
+      <link>https://compai-lab.io/tag/completed/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning-Based Segmentation of Perfusion MRI</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_hannah/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_hannah/</guid>
+      <description>&lt;p&gt;Jointly supervised with Gabriel Hoffmann and Christine Preibisch (TUM Universitätsklinikum).&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This project aims to develop and validate deep learning models for the automatic segmentation of perfusion territories in super-selective arterial spin labeling (ss-ASL) data and for the segmentation of individual watershed areas from contrast-agent-based time-to-peak (TTP) maps. The project will leverage the nnUNET framework, which is known for its robustness and flexibility in medical image segmentation tasks. Currently, expert segmentations are highly time-consuming and labor-intensive. Automating these segmentations with a reliable deep learning model will significantly enhance research efficiency and accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diffusion-Based Correspondences between Multimodal Medical Images</title>
+      <link>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Lesion tracking and image registration (finding the deformation between two images) are fundamental tasks in clinical practice for the diagnosis and monitoring of diseases. For this, establishing correct point correspondences between multiple images is essential.
+Recent research in computer vision explores the use of diffusion model features for various image-based downstream tasks, including object detection, tracking, image editing, and classification, as well as the fusion of high-level semantic and low-level geometric features.
+This thesis aims to adapt diffusion model-based features to medical images. In particular, the student will (i) perform literature research on the topic, (ii) explore SOTA correspondence matching techniques in the context of medical images, and (iii) develop new techniques for specific tasks on multimodal images, e.g., MR and CT. The project can be adapted to the student’s interests.&lt;/p&gt;
+&lt;p&gt;The start date ideally is February/March 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Anna Reithmeir and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:anna.reithmeir@tum.de&#34;&gt;anna.reithmeir@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Location Context in Patch-based 3D Medical Image Segmentation</title>
+      <link>https://compai-lab.io/vacancies/msc_stefan/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_stefan/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning-based semantic segmentation is highly effective for detecting and segmenting tumors, anomalies, and organs-at-risk in medical imaging.
+Unlike general computer vision tasks, medical imaging involves unique challenges, such as large 3D volumes from CT and MRI scans that require substantial computational resources.
+To manage memory constraints, state-of-the-art models like nnUNet and SwinUNETR use patch-based methods, dividing 3D scans into smaller subvolumes.
+The choice of patch size is crucial—large enough to retain meaningful anatomical context but small enough to fit within hardware limitations.
+Networks must also infer the relative position of patches within the body to maintain spatial coherence in segmentation tasks.
+Additional location information can be incorporated using image coordinates, physical scanner coordinates, or body-part regression tools.
+This project aims to evaluate different methods for integrating location information into CNNs and Transformers for 3D medical image segmentation.
+Techniques under consideration include coordinate images as additional channels, CoordConv layers, attention mechanisms, and positional embeddings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Landmark Tracking on Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Even though various learning-based computer vision methods have been developed for pixel tracking, motion estimation in video data depicts a challenging task. Part of the problem arises from the 3D-to-2D projection process that can lead to out-of-plane motion, which impedes long-range pixel trajectory estimation. In the medical domain, video data, i.e. fast magnetic resonance imaging (MRI) sequences, can be used for guidance during treatment. Specifically, in radiation therapy, contouring algorithms are used for tracking of the target volume supposed to receive the main radiation dose during treatment. Delineation can, for example, be performed with a U-Net architecture. However, such an approach only allows for identification of larger structures, while irregular movement can be subtle and localized. Landmark detection models are able to identify such localized regions between different representations of the same object. Furthermore, they are faster than semantic segmentation models, and therefore, allow for computer aided intervention during treatment. In this thesis, different state-of-the-art landmark and pixel tracking algorithms will be tested and further enhanced to identify movement on temporal imaging data of the lungs, i.e. 4D CT. Furthermore, ability of such landmarks to identify movement differing from a normal state, i.e. allowing for identification of anomalies, will be studied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latent Diffusion Models For Cardiac Attribute Regularization</title>
+      <link>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Diffusion models have recently caught the attention of the medical imaging community by producing realistic synthetic images. Recent efforts have focused on improving model controllability of the generation process by allowing selective modifications of data attributes, such as altering the gender of a person in an image. Latent Diffusion Models (LDMs) can be used to generate realistic data of brain MRI controlled by attributes such as age, sex, and brain structure volumes.&lt;/p&gt;
+&lt;p&gt;This project aims to use latent diffusion models to generate realistic cardiac MRI and control the generation process by given attributes such as age, cardiac volumes, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Riemannian Manifolds for Medical Image Classification</title>
+      <link>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This Master’s project aims to explore the use of covariance descriptors for disease classification with medical&lt;/p&gt;
+&lt;p&gt;images. First, the MedMNIST toy dataset will be explored. Then, the student will work with an open-source&lt;/p&gt;
+&lt;p&gt;medical dataset, e.g. of 2D chest x-ray or 3D cardiac MR images&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmentation of sparse annotated data - application to cardiac imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_maxime/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In cardiac MR, segmenting the left ventricle, the right ventricle and the myocardium is a common task in clinical routine. Several state-of-the-art deep learning algorithms are able to achieve reliable and great performances for this task. Nevertheless, it is often performed in a supervised way, i.e. annotated data are needed. Because these annotations are time-consuming for the clinician to make, recent works focus on being able to limit the needs of annotation and still provide robust and reliable segmentation. Different strategies exist to overcome this limitation, such as transfer learning or self-supervised learning, which are learning prior knowledge on a similar annotated dataset or without any annotation.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to be able to provide robust and reliable segmentation of a sparse annotated cardiac MR dataset. The prospective student will develop a segmentation network based on recent strategies for sparsed annotated data and compare them to state-of-the-art deep-learning segmentation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Smooth Surface and Normal Fields Reconstruction</title>
+      <link>https://compai-lab.io/vacancies/msc_surface_zimmer/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_surface_zimmer/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In recent years, unsupervised and semi-supervised learning from populations of surfaces and curves has received a lot of attention. Such data representations are analyzed according to their shapes which open a broad range of applications in machine learning, robotics, statistics and engineering. In particular, studying the shape of surfaces have become an important tool in biology and medical imaging. The extraction of appropriate data representations, such as triangulated surfaces, is crucial for the subsequent analysis. These surfaces are for example obtained from binary segmentations or 3D point clouds. Using standard methods, such surfaces are often not very accurate and require several post-processing steps, such as smoothing and simplifications.
+Deep learning based methods are of great interest in various fields such as medical imaging, com- puter vision, applied mathematics and are successfully used in the field of image segmentation. Gener- ally, a specific formulation requires a particular attention to representations, loss functions, probability models, optimization techniques, etc. This choice is very crucial due to the underlying geometry on the space of representations and constraints. we aim to develop a new set of automatic methods that can compute a triangulation and a normal field from a 3D dataset (binary image and/or 3D point cloud).
+The goal of this project is to understand the-state-of-the-art methods (e.g., [?]) and to propose solutions in the context of constructing a mesh from 3D images/point sets. We are interested in learn- ing from a dataset of smooth surfaces and their corresponding 3D datasets to make the triangulation or resampling accurate. The application will be the extraction of a smooth surfaces from μ-CT and CT data of the cochlea and inner ear, whose shapes can then be analyzed subsequently for population studies.
+To summarize, the key steps are : (i) Literature review and getting familiar with some state-of- the-art methods in the medical context; (ii) Implementing and testing the code before validation on real data; (iii) Optimizing the code and comparing with baseline methods. If successful, the method would be applied to analyze and classify surfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

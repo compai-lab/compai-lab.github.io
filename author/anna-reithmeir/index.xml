@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Reithmeir | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/anna-reithmeir/</link>
+      <atom:link href="https://compai-lab.io/author/anna-reithmeir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Reithmeir</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/anna-reithmeir/avatar_hua2d592eef98e1fa5362a62d72665a4f3_289115_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anna Reithmeir</title>
+      <link>https://compai-lab.io/author/anna-reithmeir/</link>
+    </image>
+    
+    <item>
+      <title>Zeyad Mahmoud presenting at Helmholtz Imaging Conference 2025</title>
+      <link>https://compai-lab.io/post/25_06_zeyad_conference_talk/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_06_zeyad_conference_talk/</guid>
+      <description>&lt;p&gt;Zeyad Mahmoud&amp;rsquo;s abstract has been selected for an oral presentation at the Helmholtz Imaging Conference 2025.
+Zeyad presented his Master&amp;rsquo;s thesis research, titled &amp;ldquo;Unsupervised Temporal Diffusion-Based Interpolation for 4D CT&amp;rdquo;.
+In this study, he investigated the ability of deep generative models, specifically diffusion models, for interpolating temporal 4D chest CT scans.
+His work demonstrates how diffusion models can enable faster image acquisition and reduced radiation doses, while maintaining high temporal resolution, and therefore allow for precise dose planning for lung cancer patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diffusion-Based Correspondences between Multimodal Medical Images</title>
+      <link>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Lesion tracking and image registration (finding the deformation between two images) are fundamental tasks in clinical practice for the diagnosis and monitoring of diseases. For this, establishing correct point correspondences between multiple images is essential.
+Recent research in computer vision explores the use of diffusion model features for various image-based downstream tasks, including object detection, tracking, image editing, and classification, as well as the fusion of high-level semantic and low-level geometric features.
+This thesis aims to adapt diffusion model-based features to medical images. In particular, the student will (i) perform literature research on the topic, (ii) explore SOTA correspondence matching techniques in the context of medical images, and (iii) develop new techniques for specific tasks on multimodal images, e.g., MR and CT. The project can be adapted to the student’s interests.&lt;/p&gt;
+&lt;p&gt;The start date ideally is February/March 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Anna Reithmeir and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:anna.reithmeir@tum.de&#34;&gt;anna.reithmeir@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interview with doctoral researcher Anna Reithmeir by Munich Center for Machine Learning</title>
+      <link>https://compai-lab.io/post/reithmeir_mcml_interview/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_mcml_interview/</guid>
+      <description>&lt;p&gt;MCML Junior Member Anna Reithmeir is writing her doctoral thesis at the Chair of Computational Imaging and AI in Medicine at TUM. Her work addresses the complexity of aligning images from different times or modalities, enabling the comparison of anatomical changes such as tumor growth.&lt;/p&gt;
+&lt;p&gt;The interview with the Munich Center for Machine Learning about her work can be found at &lt;a href=&#34;https://mcml.ai/news/2024-11-12-reithmeir-interview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mcml.ai/news/2024-11-12-reithmeir-interview/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Landmark Tracking on Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_tracking_lang_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Even though various learning-based computer vision methods have been developed for pixel tracking, motion estimation in video data depicts a challenging task. Part of the problem arises from the 3D-to-2D projection process that can lead to out-of-plane motion, which impedes long-range pixel trajectory estimation. In the medical domain, video data, i.e. fast magnetic resonance imaging (MRI) sequences, can be used for guidance during treatment. Specifically, in radiation therapy, contouring algorithms are used for tracking of the target volume supposed to receive the main radiation dose during treatment. Delineation can, for example, be performed with a U-Net architecture. However, such an approach only allows for identification of larger structures, while irregular movement can be subtle and localized. Landmark detection models are able to identify such localized regions between different representations of the same object. Furthermore, they are faster than semantic segmentation models, and therefore, allow for computer aided intervention during treatment. In this thesis, different state-of-the-art landmark and pixel tracking algorithms will be tested and further enhanced to identify movement on temporal imaging data of the lungs, i.e. 4D CT. Furthermore, ability of such landmarks to identify movement differing from a normal state, i.e. allowing for identification of anomalies, will be studied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleven papers accepted at MICCAI Workshops 2024</title>
+      <link>https://compai-lab.io/post/miccai_workshops_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_workshops_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection [Best Paper Award]&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Julia Schnabel, and Cosmin I. Bercea. &lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2410.03306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2410.03306&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI&lt;/strong&gt;&lt;br&gt;
+Malek Ben Alaya, Daniel M. Lang, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15270&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Analysis of Alzheimer’s Disease Signatures using 3D Deformable Autoencoders&lt;/strong&gt;&lt;br&gt;
+Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.03863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.03863&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Deniz Daum; Richard Osuala; Anneliese Riess; Georgios Kaissis; Julia A. Schnabel; Maxime Di Folco&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.16405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.16405&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Graph Neural Networks: A suitable alternative to MLPs in latent 3D medical image classification?&lt;/strong&gt;&lt;br&gt;
+Johannes Kiechle, Daniel M. Lang, Stefan M. Fischer, Lina Felsner, Jan C. Peeken, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2407.17219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2407.17219&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Vision Encoder Features as Guidance in Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A Schnabel, Veronika A Zimmer&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.13311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.13311&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Language Models Meet Anomaly Detection for Better Interpretability and Generalizability&lt;/strong&gt;&lt;br&gt;
+Jun Li, Su Hwan Kim, Philip Müller, Lina Felsner, Daniel Rueckert, Benedikt Wiestler, Julia A.Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2404.07622v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2404.07622v2&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer&lt;/strong&gt;&lt;br&gt;
+Inês P. Machado, Anna Reithmeir, Fryderyk Kogl, Leonardo Rundo, Gabriel Funingana, Marika Reinius, Gift Mungmeeprued, Zeyu Gao, Cathal McCague, Eric Kerfoot, Ramona Woitek, Evis Sala, Yangming Ou, James Brenton, Julia Schnabel, Mireia Crispin&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.17114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.17114&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound&lt;/strong&gt;&lt;br&gt;
+Hanna Mykula, Lisa Gasser, Silvia Lobmaier, Julia A. Schnabel, Veronika Zimmer, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15119&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.12669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.12669&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complex-valued Federated Learning with Differential Privacy and MRI Applications&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Alexander Ziller, Stefan Kolek, Daniel Rueckert, Julia Schnabel, Georgios Kaissis &lt;br&gt;
+([link will be available soon])&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seven papers accepted at MICCAI 2024</title>
+      <link>https://compai-lab.io/post/miccai_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models with Implicit Guidance for Medical Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08464&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Physics-Informed Deep Learning for Motion-Corrected Reconstruction of Quantitative Brain MRI&lt;/strong&gt;&lt;br&gt;
+Hannah Eichhorn, Veronika Spieker, Kerstin Hammernik, Elisa Saks, Kilian Weiss, Christine Preibisch, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08298&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks&lt;/strong&gt;&lt;br&gt;
+Stefan M. Fischer, Lina Felsner, Daniel M. Lang, Richard Osuala, Johannes Kiechle, Jan C. Peeken, Julia A. Schnabel&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interpretable Representation Learning of Cardiac MRI via Attribute Regularization&lt;/strong&gt;&lt;br&gt;
+Maxime Di Folco, Cosmin I. Bercea, Emily Chan, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2406.08282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.08282&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, and Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.13890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.13890&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Anna Reithmeir, Lina Felsner, Rickmer Braren, Julia A. Schnabel, Veronika A. Zimmer&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation&lt;/strong&gt;&lt;br&gt;
+Veronika Spieker, Hannah Eichhorn, Jonathan K. Stelter, Wenqi Huang, Rickmer F. Braren, Daniel Rückert, Francisco Sahli Costabal, Kerstin Hammernik, Claudia Prieto, Dimitrios C. Karampinos, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2404.08350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2404.08350&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted at SPIE Medical Imaging 2024 and Finalist of Best Student Paper Award</title>
+      <link>https://compai-lab.io/post/reithmeir_spie_24/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/reithmeir_spie_24/</guid>
+      <description>&lt;p&gt;Anna Reithmeir&amp;rsquo;s paper &amp;lsquo;Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks&amp;rsquo; was accepted at SPIE Medical Imaging 2024 which was held 18-22 Feb. 2024 in San Diego, US.&lt;/p&gt;
+&lt;p&gt;The paper is among the finalists for the best student paper award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Riemannian Manifolds for Medical Image Classification</title>
+      <link>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This Master’s project aims to explore the use of covariance descriptors for disease classification with medical&lt;/p&gt;
+&lt;p&gt;images. First, the MedMNIST toy dataset will be explored. Then, the student will work with an open-source&lt;/p&gt;
+&lt;p&gt;medical dataset, e.g. of 2D chest x-ray or 3D cardiac MR images&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

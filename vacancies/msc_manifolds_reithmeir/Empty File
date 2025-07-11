@@ -1,0 +1,27 @@
+
+---
+
+title: Exploring Riemannian Manifolds for Medical Image Classification 
+summary: Master Thesis. 
+
+tags:
+  - completed
+
+authors:
+  - reithmeir
+  - difolco
+
+date: 2023-07-08 
+
+external_link: files/MSc_manifold_anna.pdf
+---
+
+Abstract:
+
+This Master’s project aims to explore the use of covariance descriptors for disease classification with medical
+
+
+images. First, the MedMNIST toy dataset will be explored. Then, the student will work with an open-source
+
+
+medical dataset, e.g. of 2D chest x-ray or 3D cardiac MR images

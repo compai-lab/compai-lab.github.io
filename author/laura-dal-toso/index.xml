@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Dal Toso | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/laura-dal-toso/</link>
+      <atom:link href="https://compai-lab.io/author/laura-dal-toso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Dal Toso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>Laura Dal Toso</title>
+      <link>https://compai-lab.io/author/laura-dal-toso/</link>
+    </image>
+    
+    <item>
+      <title>Improved 3D tumour definition and quantification of uptake in simulated lung tumours using deep learning</title>
+      <link>https://compai-lab.io/publication/dal-2022-improved/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/publication/dal-2022-improved/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

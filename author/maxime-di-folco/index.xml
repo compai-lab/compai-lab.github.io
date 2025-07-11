@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Di Folco | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/maxime-di-folco/</link>
+      <atom:link href="https://compai-lab.io/author/maxime-di-folco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxime Di Folco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/maxime-di-folco/avatar_hub43e7a5903b40f0a40369ad9f2cf0390_106345_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maxime Di Folco</title>
+      <link>https://compai-lab.io/author/maxime-di-folco/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive Learning Strategies for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Self-Supervised Learning (SSL) overcomes the limitations of most learning methods, which require high-quality labelled data. Contrastive learning is a popular technique of SSL, where a model learns to distinguish between similar and dissimilar examples by bringing similar data points closer and dissimilar ones farther apart in the feature space. A key element of contrastive learning is defining the positive and negative pairs, as the model learns by comparing these pairs to adjust its representation. Proper pair selection is crucial for the effectiveness of the learned embeddings.&lt;/p&gt;
+&lt;p&gt;This project aims to compare different strategies for defining pairs in contrastive learning for medical applications. The first part of the project will involve identifying and comparing state-of-the-art strategies on medical tasks. The second part will focus on evaluating and proposing new strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning in Medical Imaging - Theory and Applications​ (IN2107)</title>
+      <link>https://compai-lab.io/teaching/ssl_seminar/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/ssl_seminar/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/ssl.jpg&#34; alt=&#34;Teaser&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;More information will be provided during an introduction meeting scheduled at 12/02/2024 at 15h via Zoom:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinyurl.com/SSLMEDIMG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tinyurl.com/SSLMEDIMG&lt;/a&gt; , Meeting ID: 651 0606 0734 Passcode: 819595&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Self-supervised learning (SSL), described as &amp;ldquo;the dark matter of intelligence, overcomes the limitations of most learning methods, which require high-quality labelled data. This paradigm leverages large amounts of unlabeled data to learn meaningful representations through pretext tasks and enables models to generalise better and perform well on downstream tasks involving only a few labelled data. In medical imaging, image labels are usually very limited. Therefore, SSL is particularly valuable in this context. In a first step, the seminar will focus on the integration of state-of-the-art self-supervised learning techniques in computer vision. Next, those techniques will then be discussed in the context of medical problem settings featuring segmentation, detection, and classification. Selected material on methods and applications from the field of medical imaging will be covered. Basic problem formulations to recent advances will be discussed.&lt;/p&gt;
+&lt;p&gt;This includes, but is not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theory of Self-Supervised-Learning&lt;/li&gt;
+&lt;li&gt;Examples of SSL data in medical imaging&lt;/li&gt;
+&lt;li&gt;Clinical applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:maxime.di-folco@tum.de&#34;&gt;maxime.di-folco@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
+&lt;object data=&#34;/files/SSL_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleven papers accepted at MICCAI Workshops 2024</title>
+      <link>https://compai-lab.io/post/miccai_workshops_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_workshops_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Selective Test-Time Adaptation using Neural Implicit Representations for Unsupervised Anomaly Detection [Best Paper Award]&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Julia Schnabel, and Cosmin I. Bercea. &lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2410.03306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2410.03306&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI&lt;/strong&gt;&lt;br&gt;
+Malek Ben Alaya, Daniel M. Lang, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15270&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Analysis of Alzheimer’s Disease Signatures using 3D Deformable Autoencoders&lt;/strong&gt;&lt;br&gt;
+Mehmet Yigit Avci, Emily Chan, Veronika Zimmer, Daniel Rueckert, Benedikt Wiestler, Julia A. Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.03863&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.03863&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Deniz Daum; Richard Osuala; Anneliese Riess; Georgios Kaissis; Julia A. Schnabel; Maxime Di Folco&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.16405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.16405&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Graph Neural Networks: A suitable alternative to MLPs in latent 3D medical image classification?&lt;/strong&gt;&lt;br&gt;
+Johannes Kiechle, Daniel M. Lang, Stefan M. Fischer, Lina Felsner, Jan C. Peeken, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2407.17219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2407.17219&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;General Vision Encoder Features as Guidance in Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A Schnabel, Veronika A Zimmer&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.13311&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.13311&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Language Models Meet Anomaly Detection for Better Interpretability and Generalizability&lt;/strong&gt;&lt;br&gt;
+Jun Li, Su Hwan Kim, Philip Müller, Lina Felsner, Daniel Rueckert, Benedikt Wiestler, Julia A.Schnabel, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2404.07622v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2404.07622v2&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Self-Supervised Image Registration Approach for Measuring Local Response Patterns in Metastatic Ovarian Cancer&lt;/strong&gt;&lt;br&gt;
+Inês P. Machado, Anna Reithmeir, Fryderyk Kogl, Leonardo Rundo, Gabriel Funingana, Marika Reinius, Gift Mungmeeprued, Zeyu Gao, Cathal McCague, Eric Kerfoot, Ramona Woitek, Evis Sala, Yangming Ou, James Brenton, Julia Schnabel, Mireia Crispin&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.17114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.17114&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound&lt;/strong&gt;&lt;br&gt;
+Hanna Mykula, Lisa Gasser, Silvia Lobmaier, Julia A. Schnabel, Veronika Zimmer, and Cosmin I. Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2407.15119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2407.15119&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Anneliese Riess, Georgios Kaissis, Zuzanna Szafranowska, Grzegorz Skorupko, Oliver Diaz, Julia A. Schnabel, Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2407.12669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2407.12669&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complex-valued Federated Learning with Differential Privacy and MRI Applications&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Alexander Ziller, Stefan Kolek, Daniel Rueckert, Julia Schnabel, Georgios Kaissis &lt;br&gt;
+([link will be available soon])&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seven papers accepted at MICCAI 2024</title>
+      <link>https://compai-lab.io/post/miccai_24/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/miccai_24/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Diffusion Models with Implicit Guidance for Medical Anomaly Detection&lt;/strong&gt;&lt;br&gt;
+Cosmin I. Bercea, Benedikt Wiestler, Daniel Rueckert, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08464&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08464&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Physics-Informed Deep Learning for Motion-Corrected Reconstruction of Quantitative Brain MRI&lt;/strong&gt;&lt;br&gt;
+Hannah Eichhorn, Veronika Spieker, Kerstin Hammernik, Elisa Saks, Kilian Weiss, Christine Preibisch, and Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.08298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.08298&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks&lt;/strong&gt;&lt;br&gt;
+Stefan M. Fischer, Lina Felsner, Daniel M. Lang, Richard Osuala, Johannes Kiechle, Jan C. Peeken, Julia A. Schnabel&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interpretable Representation Learning of Cardiac MRI via Attribute Regularization&lt;/strong&gt;&lt;br&gt;
+Maxime Di Folco, Cosmin I. Bercea, Emily Chan, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2406.08282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2406.08282&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models&lt;/strong&gt;&lt;br&gt;
+Richard Osuala, Daniel M. Lang, Preeti Verma, Smriti Joshi, Apostolia Tsirikoglou, Grzegorz Skorupko, Kaisar Kushibar, Lidia Garrucho, Walter H. L. Pinaya, Oliver Diaz, Julia Schnabel, and Karim Lekadir&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2403.13890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2403.13890&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data-Driven Tissue- and Subject-Specific Elastic Regularization for Medical Image Registration&lt;/strong&gt;&lt;br&gt;
+Anna Reithmeir, Lina Felsner, Rickmer Braren, Julia A. Schnabel, Veronika A. Zimmer&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Self-Supervised k-Space Regularization for Motion-Resolved Abdominal MRI Using Neural Implicit k-Space Representation&lt;/strong&gt;&lt;br&gt;
+Veronika Spieker, Hannah Eichhorn, Jonathan K. Stelter, Wenqi Huang, Rickmer F. Braren, Daniel Rückert, Francisco Sahli Costabal, Kerstin Hammernik, Claudia Prieto, Dimitrios C. Karampinos, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2404.08350&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2404.08350&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latent Diffusion Models For Cardiac Attribute Regularization</title>
+      <link>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_latent_diffusion_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Diffusion models have recently caught the attention of the medical imaging community by producing realistic synthetic images. Recent efforts have focused on improving model controllability of the generation process by allowing selective modifications of data attributes, such as altering the gender of a person in an image. Latent Diffusion Models (LDMs) can be used to generate realistic data of brain MRI controlled by attributes such as age, sex, and brain structure volumes.&lt;/p&gt;
+&lt;p&gt;This project aims to use latent diffusion models to generate realistic cardiac MRI and control the generation process by given attributes such as age, cardiac volumes, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Five papers accepted at MICCAI 2023 workshops</title>
+      <link>https://compai-lab.io/post/iml_miccai_workshops/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/iml_miccai_workshops/</guid>
+      <description>&lt;p&gt;Five papers have been accepted for publication at workshops associated with the 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023, which will be held from October 8th to 12th 2023 in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;Interested to hear more about our work? Then join us at the following workshops:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Veronika Spieker will be at the &lt;a href=&#34;https://dgm4miccai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DGM4&lt;/a&gt; workshop to talk about &lt;a href=&#34;https://arxiv.org/abs/2308.08830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Implicit Representations for Abdominal MR Reconstruction&lt;/a&gt; on October 8, at 10:25.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hannah Eichhorn presents her work on physics-aware motion simulation for T2*-weighted MRI at the &lt;a href=&#34;https://2023.sashimi-workshop.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI&lt;/a&gt; workshop on October 8, at 14:40. Check out the &lt;a href=&#34;https://arxiv.org/abs/2303.10987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; for more information!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxime Di Folco presents at the &lt;a href=&#34;https://stacom.github.io/stacom2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STACOM&lt;/a&gt; workshop on October 12, at 11:15 the work of Josh Stein on &amp;ldquo;Sparse annotation strategies for segmentation of short axis cardiac MRI&amp;rdquo;  (&lt;a href=&#34;https://arxiv.org/abs/2307.12619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cosmin Bercea will talk about &lt;a href=&#34;https://arxiv.org/pdf/2308.13861.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bias in Unsupervised Anomaly Detection&lt;/a&gt; at the &lt;a href=&#34;https://faimi-workshop.github.io/2023-miccai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIMI&lt;/a&gt; workshop on October 12, at 2:50 PDT.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Daniel Lang will talk about &lt;a href=&#34;https://arxiv.org/abs/2303.05861&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anomaly Detection in Non-Contrast Enhanced Breast MRI&lt;/a&gt; at the &lt;a href=&#34;https://caption-workshop.github.io/miccai2023/#Workshop%20sessions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaPTion&lt;/a&gt; workshop on October 12.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exploring Riemannian Manifolds for Medical Image Classification</title>
+      <link>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_manifolds_reithmeir/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;This Master’s project aims to explore the use of covariance descriptors for disease classification with medical&lt;/p&gt;
+&lt;p&gt;images. First, the MedMNIST toy dataset will be explored. Then, the student will work with an open-source&lt;/p&gt;
+&lt;p&gt;medical dataset, e.g. of 2D chest x-ray or 3D cardiac MR images&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmentation of sparse annotated data - application to cardiac imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_segmentation_maxime/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_segmentation_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;In cardiac MR, segmenting the left ventricle, the right ventricle and the myocardium is a common task in clinical routine. Several state-of-the-art deep learning algorithms are able to achieve reliable and great performances for this task. Nevertheless, it is often performed in a supervised way, i.e. annotated data are needed. Because these annotations are time-consuming for the clinician to make, recent works focus on being able to limit the needs of annotation and still provide robust and reliable segmentation. Different strategies exist to overcome this limitation, such as transfer learning or self-supervised learning, which are learning prior knowledge on a similar annotated dataset or without any annotation.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to be able to provide robust and reliable segmentation of a sparse annotated cardiac MR dataset. The prospective student will develop a segmentation network based on recent strategies for sparsed annotated data and compare them to state-of-the-art deep-learning segmentation methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

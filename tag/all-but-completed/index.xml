@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>all-but-completed | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/tag/all-but-completed/</link>
+      <atom:link href="https://compai-lab.io/tag/all-but-completed/index.xml" rel="self" type="application/rss+xml" />
+    <description>all-but-completed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
+      <title>all-but-completed</title>
+      <link>https://compai-lab.io/tag/all-but-completed/</link>
+    </image>
+    
+    <item>
+      <title>Learning from Many - Domain Generalization for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_ambekar_domain_shift_25/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_ambekar_domain_shift_25/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning achieves good performance when training and test data share similar distribution characteristics. However, for real-world scenarios—including medical imaging and natural scenes—significant domain shifts caused by diverse data characteristics and scanner settings often prevent models from generalizing to unseen domains. To address this at the model level, domain adaptation and domain generalization have emerged as potential solutions. Domain adaptation relies on access to target data to learn target representations, while domain generalization aims to learn invariant representations and obtain robust models using only source domains. Recently, a new paradigm called test-time adaptation further optimizes the model during online inference on the target domain to boost performance.&lt;/p&gt;
+&lt;p&gt;Despite these advancements, existing adaptation methods struggle with unique challenges in the target domain. These include class imbalance, category shifts within domains, reliance on unsupervised surrogate objectives, and non-i.i.d. assumptions that lead to error accumulation. Moreover, the scarcity of large annotated datasets limits the ability of models to learn meaningful representations for transfer. Recent studies also show that existing methods do not consistently improve performance in multi-source, real-world scenarios such as medical imaging.&lt;/p&gt;
+&lt;p&gt;This master’s thesis proposes new domain generalization and adaptation techniques to address these challenges. First, it will train models on multi-source data drawn from diverse distributions—different scanners, pathologies, and demographics. Next, it will explore existing domain generalization algorithms, analyzing the role of entropy minimization for optimizing model performance and the impact of feature alignment. Finally, it seeks to introduce novel contributions grounded in fundamental deep learning principles, with the goal of enhancing the adaptability and robustness of models across varied environments. The research outcomes are intended for publication in a relevant academic venue.&lt;/p&gt;
+&lt;p&gt;The start date ideally is June 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Sameer Ambekar and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:sameer.ambekar@tum.de&#34;&gt;sameer.ambekar@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning Strategies for Medical Imaging</title>
+      <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Self-Supervised Learning (SSL) overcomes the limitations of most learning methods, which require high-quality labelled data. Contrastive learning is a popular technique of SSL, where a model learns to distinguish between similar and dissimilar examples by bringing similar data points closer and dissimilar ones farther apart in the feature space. A key element of contrastive learning is defining the positive and negative pairs, as the model learns by comparing these pairs to adjust its representation. Proper pair selection is crucial for the effectiveness of the learned embeddings.&lt;/p&gt;
+&lt;p&gt;This project aims to compare different strategies for defining pairs in contrastive learning for medical applications. The first part of the project will involve identifying and comparing state-of-the-art strategies on medical tasks. The second part will focus on evaluating and proposing new strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

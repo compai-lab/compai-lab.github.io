@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Kiechle | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/johannes-kiechle/</link>
+      <atom:link href="https://compai-lab.io/author/johannes-kiechle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Kiechle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://compai-lab.io/author/johannes-kiechle/avatar_hu5f4a8e9025c21d01db9dde6e2d671dad_32286_270x270_fill_lanczos_center_3.png</url>
+      <title>Johannes Kiechle</title>
+      <link>https://compai-lab.io/author/johannes-kiechle/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted at MELBA Journal</title>
+      <link>https://compai-lab.io/post/fischer_melba_24/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/fischer_melba_24/</guid>
+      <description>&lt;p&gt;Stefan M. Fischer&amp;rsquo;s submission to the MICCAI2023 Lymph Node Quantification Challenge won the 3rd price.&lt;br&gt;
+Therefore, the challenge team was invited for a presentation at MICCAI 2023 and to a Special Issue Submission at the MELBA Journal.
+The journal submission &amp;ldquo;&lt;em&gt;Mask the Unknown: Assessing Different Strategies to Handle Weak Annotations in the MICCAI2023 Mediastinal Lymph Node Quantification Challenge&lt;/em&gt;&amp;rdquo; is now available at MELBA.&lt;br&gt;
+The paper is available &lt;a href=&#34;https://www.melba-journal.org/papers/2024:008.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
