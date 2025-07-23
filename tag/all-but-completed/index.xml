@@ -27,6 +27,31 @@
     </item>
     
     <item>
+      <title>Multi-object and multi-modal image segmentation in dental MR using limited data</title>
+      <link>https://compai-lab.io/vacancies/msc_lina_dental/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_lina_dental/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Deep learning methods have revolutionized the field of medical imaging, in particular image segmentation. Supervised methods, often based on the popular U-Net architecture, show state-of-the-art results in many medical applications. But a large annotated database for training is not always available. The objective of this project is to explore and develop methods for learning segmentations using limited data, e.g., using transfer [1], self-supervised [2,3] or meta learning [4–6]. This project is a collaboration between the Department of Diagnostic and Interventional Neuroradiology (TUM), the Department of Periodontology (LMU) and the Chair of the Artificial Intelligence in Medicine (TUM).&lt;/p&gt;
+&lt;p&gt;The clinical application is the identification of periodontal lesions in magnetic resonance (MR) and computed tomography (CT) images. The study aims at detecting intraosseous pathologies automatically. Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam CT. Recent studies report the successful use of MR imaging in the application of periodontitis diagnosis [7]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of the bone and periodontal lesion are of utmost importance. A prior collaborative effort between the previously mentioned departments has already resulted in the development of an AI algorithm capable of differentiating between bone and nerve tissue in the mandibular bone. The subsequent objective is to automatically detect periodontal lesions within the bone. [8]&lt;/p&gt;
+&lt;p&gt;The prospective student will explore existing deep-learning-based segmentation methods for training with limited data, to segment periodontal lesions in MR sequences.&lt;/p&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;p&gt;• Prior experience and good understanding in machine learning and statistics.
+• Very good programming skills in Python (and PyTorch).
+• Interest in medical imaging.&lt;/p&gt;
+&lt;p&gt;References
+[1]  Cheplygina, V. ”Cats or CAT scans: Transfer learning from natural or medical image source data sets?.” Current Opinion in Biomedical Engineering 9: 21-27, 2019.
+[2]  Chen, L., et al. Self-supervised learning for medical image analysis using image context restoration. Medical image analysis, 58, 101539, 2019.
+[3]  Taleb, A., et al. ”Multimodal self-supervised learning for medical image analysis.” International Conference on Information Processing in Medical Imaging. Springer, Cham, 2021.
+[4]  Li, X., et al. ”A concise review of recent few-shot meta-learning methods.” Neuro- computing 456: 463-468, 2021.
+[5]  Yang, B., et al. ”Prototype mixture models for few-shot semantic segmentation.” European Conference on Computer Vision. Springer, Cham, 2020.
+[6]  Tian, P., et al. ”Differentiable meta-learning model for few-shot semantic segmen- tation.” Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 07. 2020.
+[7]  Probst, M., et al. ”Magnetic resonance imaging as a diagnostic tool for periodontal disease: A prospective study with correlation to standard clinical findings - Is there added value?” Journal of Clinical Periodontology, 2021.
+[8] Xingyu, Z., (2024) “Multi-object and Multi-modal Image Segmentation in Dental MRI”. School of Computation, Information and Technology, Technical University of Munich, Munich.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contrastive Learning Strategies for Medical Imaging</title>
       <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
