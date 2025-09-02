@@ -5,12 +5,26 @@
     <link>https://compai-lab.io/author/daniel-m.-lang/</link>
       <atom:link href="https://compai-lab.io/author/daniel-m.-lang/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel M. Lang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/daniel-m.-lang/avatar_hu30628bf96a1bbbf825de70e7e388d37a_614916_270x270_fill_lanczos_center_3.png</url>
       <title>Daniel M. Lang</title>
       <link>https://compai-lab.io/author/daniel-m.-lang/</link>
     </image>
+    
+    <item>
+      <title>Med-VLM - Prompt Adaptation of Vision-Language Models to Medical Domains</title>
+      <link>https://compai-lab.io/vacancies/msc_med-vlm_sameer/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_med-vlm_sameer/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Medical imaging faces persistent domain shifts across scanners, protocols, pathologies, and populations. Recent vision-language models, such as CLIP (Contrastive Language-Image Pre-training), learns joint representations from image-text pairs, enabling zero-shot transfer to new visual concepts through natural language descriptions. Although the recent works demonstrate that CLIP based models offer strong zero-shot transfer, their performance degrades on unseen medical data.&lt;/p&gt;
+&lt;p&gt;Recent adaptation techniques aim to mitigate this by proposing prompt-based, parameter-efficient, and feature-level strategies. Complementing this, text-only prompt learning optimizes prompts in the text space using LLM-derived biomedical descriptions or ontology-based prototypes, improving transfer to unseen data. This Master&amp;rsquo;s thesis proposes adapting CLIP-based models to unseen medical data through techniques including prompt learning and CLIP&amp;rsquo;s consistent contrastive alignment, emphasizing practical clinical feasibility.&lt;/p&gt;
+&lt;p&gt;This Master thesis aims to analyze and propose: (i) an adaptation framework that leverages medical concepts into prompts to improve robustness on unseen data, (ii) prompt-based adaptation procedures for non-independent and identically distributed (non-i.i.d) shifts through lightweight mechanisms, (iii) a comprehensive evaluation on multi-source medical benchmarks. Expected outcomes include, but are not limited to: a vision and language-guided framework for medical imaging that improves generalization across multiple scanners and diverse population data, a lightweight test-time adaptation method with biomedical prompts, and analysis on medical benchmarks with ablations under realistic scenarios. This Master&amp;rsquo;s thesis aspires to publish results in a relevant academic venue.&lt;/p&gt;
+&lt;p&gt;The start date ideally is Sept/Oct 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Sameer Ambekar and Dr. Daniel Lang. If interested, please email your transcripts and a short motivation to &lt;a href=&#34;mailto:sameer.ambekar@tum.de&#34;&gt;sameer.ambekar@tum.de&lt;/a&gt; and
+&lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Three papers accepted at MICCAI 2025 Main Conference</title>
