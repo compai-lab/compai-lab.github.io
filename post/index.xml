@@ -26,6 +26,49 @@
     </item>
     
     <item>
+      <title>New publication at Magnetic Resonance in Medicine</title>
+      <link>https://compai-lab.io/post/eichhorn_mrm_25/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/eichhorn_mrm_25/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Motion-robust T2* quantification from low-resolution gradient echo brain MRI with physics-informed deep learning&amp;rdquo; by Hannah Eichhorn et al. has been accepted for publication in &lt;em&gt;Magnetic Resonance in Medicine&lt;/em&gt;. Check the paper here:  &lt;a href=&#34;https://doi.org/10.1002/mrm.70050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/mrm.70050&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PHIMO&amp;#43;&#34; srcset=&#34;
+               /post/eichhorn_mrm_25/eichhorn_mrm_hu4ace43cf3adce3608638fb6f02905384_19350928_982390c5bfe1b69702405f32e64f72eb.webp 400w,
+               /post/eichhorn_mrm_25/eichhorn_mrm_hu4ace43cf3adce3608638fb6f02905384_19350928_d19b14374ba050fae2d3339e812685fa.webp 760w,
+               /post/eichhorn_mrm_25/eichhorn_mrm_hu4ace43cf3adce3608638fb6f02905384_19350928_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://compai-lab.io/post/eichhorn_mrm_25/eichhorn_mrm_hu4ace43cf3adce3608638fb6f02905384_19350928_982390c5bfe1b69702405f32e64f72eb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;319&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;T2* quantification from gradient echo magnetic resonance imaging is particularly affected by subject motion due to its high sensitivity to magnetic field inhomogeneities, which are influenced by motion and might cause signal loss. Thus, motion correction is crucial to obtain high-quality T2*
+maps.&lt;/p&gt;
+&lt;p&gt;We extend PHIMO, our previously introduced learning-based physics-informed motion correction method for low-resolution
+T2* mapping. Our extended version, PHIMO+, utilizes acquisition knowledge to enhance the reconstruction performance for challenging motion patterns and increase PHIMO&amp;rsquo;s robustness to varying strengths of magnetic field inhomogeneities across the brain. PHIMO+&amp;rsquo;s competitive motion correction performance, combined with a reduction in acquisition time by over 40% compared to the state-of-the-art method, makes it a promising solution for motion-robust T2* quantification in research settings and clinical routine.&lt;/p&gt;
+&lt;h4 id=&#34;open-research&#34;&gt;Open Research&lt;/h4&gt;
+&lt;p&gt;The code is available at &lt;a href=&#34;https://github.com/compai-lab/2025-mrm-eichhorn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/compai-lab/2025-mrm-eichhorn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An anonymized version of the dataset is publicly available at &lt;a href=&#34;https://doi.org/10.15134/2kek-3553&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15134/2kek-3553&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>TUM Joins €3M AI Initiative to Tackle Endometriosis</title>
       <link>https://compai-lab.io/post/2025_07_endoki/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
