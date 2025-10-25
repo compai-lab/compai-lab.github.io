@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Maccarone | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/francesca-maccarone/</link>
+      <atom:link href="https://compai-lab.io/author/francesca-maccarone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesca Maccarone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/francesca-maccarone/avatar_hu1eac9b7bd75ac729a9f87936e0518b62_269217_270x270_fill_lanczos_center_3.png</url>
+      <title>Francesca Maccarone</title>
+      <link>https://compai-lab.io/author/francesca-maccarone/</link>
+    </image>
+    
+  </channel>
+</rss>
