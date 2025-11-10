@@ -5,12 +5,29 @@
     <link>https://compai-lab.io/author/lina-felsner/</link>
       <atom:link href="https://compai-lab.io/author/lina-felsner/index.xml" rel="self" type="application/rss+xml" />
     <description>Lina Felsner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/lina-felsner/avatar_hu60e932604a75cc0995bfb2f4902df59a_1322838_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lina Felsner</title>
       <link>https://compai-lab.io/author/lina-felsner/</link>
     </image>
+    
+    <item>
+      <title>Multiparametric (TI-TE) MRI sequence adaptation and implicit neural representation (INR)-based reconstruction</title>
+      <link>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</guid>
+      <description>&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Multiparametric MRI sequences allow for the acquisition of images with varying tissue contrast within a single scan. The resulting multiparametric images can be used to extract quantitative information on tissue microstructure. To make such multiparametric sequences feasible for clinical routine, the usually very long scan times need to be shortened e.g. through undersampling in k-space. However, this comes with challenges for the reconstruction. In general, advanced reconstruction techniques such as compressed sensing or deep learning based approaches (1) can enable the acquisition of high-quality images despite the acceleration. For multiparametric MRI sequences very high accelerations can be achieved by leveraging redundant anatomical information e.g. through joint reconstruction with an implicit neural representation (INR) network (2).&lt;/p&gt;
+&lt;p&gt;This project aims to extend an MPnRAGE (3) (multiple inversion times, TI) acquisition and reconstruction framework by adding an echo time (TE) dimension. The first part of the project will involve modifying the existing MPnRAGE sequence, including iterative improvements on the scanner. The second part of the project will focus on adapting the INR-based reconstruction for the multiparametric (TI-TE) data.&lt;/p&gt;
+&lt;p&gt;The student will benefit from:
+• Guidance from both MRI and AI experts in a collaborative, interdisciplinary research
+setting.
+• Hands on experience with the MRI scanner and coding.
+• Opportunity to contribute to ongoing research and potential publication in medical
+imaging journals or conferences.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-object and multi-modal image segmentation in dental MR using limited data</title>
@@ -81,23 +98,6 @@ This seminar explores the concepts of deep learning for inverse problems, focusi
 &lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;object data=&#34;/files/InvPr_seminar.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multiparametric (TI-TE) MRI sequence adaptation and implicit neural representation (INR)-based reconstruction</title>
-      <link>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</guid>
-      <description>&lt;p&gt;Abstract:&lt;/p&gt;
-&lt;p&gt;Multiparametric MRI sequences allow for the acquisition of images with varying tissue contrast within a single scan. The resulting multiparametric images can be used to extract quantitative information on tissue microstructure. To make such multiparametric sequences feasible for clinical routine, the usually very long scan times need to be shortened e.g. through undersampling in k-space. However, this comes with challenges for the reconstruction. In general, advanced reconstruction techniques such as compressed sensing or deep learning based approaches (1) can enable the acquisition of high-quality images despite the acceleration. For multiparametric MRI sequences very high accelerations can be achieved by leveraging redundant anatomical information e.g. through joint reconstruction with an implicit neural representation (INR) network (2).&lt;/p&gt;
-&lt;p&gt;This project aims to extend an MPnRAGE (3) (multiple inversion times, TI) acquisition and reconstruction framework by adding an echo time (TE) dimension. The first part of the project will involve modifying the existing MPnRAGE sequence, including iterative improvements on the scanner. The second part of the project will focus on adapting the INR-based reconstruction for the multiparametric (TI-TE) data.&lt;/p&gt;
-&lt;p&gt;The student will benefit from:
-• Guidance from both MRI and AI experts in a collaborative, interdisciplinary research
-setting.
-• Hands on experience with the MRI scanner and coding.
-• Opportunity to contribute to ongoing research and potential publication in medical
-imaging journals or conferences.&lt;/p&gt;
 </description>
     </item>
     
