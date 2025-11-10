@@ -5,7 +5,7 @@
     <link>https://compai-lab.io/author/natascha-niessen/</link>
       <atom:link href="https://compai-lab.io/author/natascha-niessen/index.xml" rel="self" type="application/rss+xml" />
     <description>Natascha Niessen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/natascha-niessen/avatar_hu9af5966520882a14db9b53f5642a7350_123885_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Natascha Niessen</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Multiparametric (TI-TE) MRI sequence adaptation and implicit neural representation (INR)-based reconstruction</title>
       <link>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</guid>
       <description>&lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;Multiparametric MRI sequences allow for the acquisition of images with varying tissue contrast within a single scan. The resulting multiparametric images can be used to extract quantitative information on tissue microstructure. To make such multiparametric sequences feasible for clinical routine, the usually very long scan times need to be shortened e.g. through undersampling in k-space. However, this comes with challenges for the reconstruction. In general, advanced reconstruction techniques such as compressed sensing or deep learning based approaches (1) can enable the acquisition of high-quality images despite the acceleration. For multiparametric MRI sequences very high accelerations can be achieved by leveraging redundant anatomical information e.g. through joint reconstruction with an implicit neural representation (INR) network (2).&lt;/p&gt;
@@ -27,6 +27,35 @@ setting.
 • Opportunity to contribute to ongoing research and potential publication in medical
 imaging journals or conferences.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Best presentation award at MICCAI-RIME Workshop 2025</title>
+      <link>https://compai-lab.io/post/25_09_niessen_award/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_09_niessen_award/</guid>
+      <description>&lt;p&gt;1st place in the Best Presentation Award at the MICCAI-RIME Workshop 2025 goes to Natascha Niessen for her work titled “INR Meets Multi-Contrast MRI Reconstruction.” The paper presents a method to significantly accelerate multi-contrast brain MRI scans without compromising image quality, contributing to the PREDICTOM - IHI project (&lt;a href=&#34;https://www.predictom.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.predictom.eu/&lt;/a&gt;) focused on early Alzheimer’s detection.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/images/MICCAI2025-overview.png&#34; alt=&#34;Overview&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
