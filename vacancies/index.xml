@@ -124,17 +124,6 @@ Hurley SA, Dean DC, Field A, Alexander AL. Magn Reson Med. 2016 Mar;75(3):1040-5
     </item>
     
     <item>
-      <title>Contrastive Learning Strategies for Medical Imaging</title>
-      <link>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/vacancies/msc_contrastive_learning_maxime/</guid>
-      <description>&lt;p&gt;Abstract:&lt;/p&gt;
-&lt;p&gt;Self-Supervised Learning (SSL) overcomes the limitations of most learning methods, which require high-quality labelled data. Contrastive learning is a popular technique of SSL, where a model learns to distinguish between similar and dissimilar examples by bringing similar data points closer and dissimilar ones farther apart in the feature space. A key element of contrastive learning is defining the positive and negative pairs, as the model learns by comparing these pairs to adjust its representation. Proper pair selection is crucial for the effectiveness of the learned embeddings.&lt;/p&gt;
-&lt;p&gt;This project aims to compare different strategies for defining pairs in contrastive learning for medical applications. The first part of the project will involve identifying and comparing state-of-the-art strategies on medical tasks. The second part will focus on evaluating and proposing new strategies.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Diffusion-Based Correspondences between Multimodal Medical Images</title>
       <link>https://compai-lab.io/vacancies/msc_diffusion_features_anna/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
