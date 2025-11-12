@@ -5,12 +5,40 @@
     <link>https://compai-lab.io/author/marta-hasny/</link>
       <atom:link href="https://compai-lab.io/author/marta-hasny/index.xml" rel="self" type="application/rss+xml" />
     <description>Marta Hasny</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/marta-hasny/avatar_hu2df0a6597d356c4bfb79b06a76edc68f_455157_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Marta Hasny</title>
       <link>https://compai-lab.io/author/marta-hasny/</link>
     </image>
+    
+    <item>
+      <title>Three papers accepted at WACV 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/25_11_wacv_papers/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_11_wacv_papers/</guid>
+      <description>&lt;h2 id=&#34;applications-track&#34;&gt;Applications Track:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding&lt;/strong&gt;&lt;br&gt;
+Jun Li, Che Liu, Wenjia Bai, Mingxuan Liu, Rossella Arcucci, Cosmin Bercea, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2508.04572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2508.04572&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tables Guide Vision: Learning to See the Heart through Tabular Data&lt;/strong&gt;&lt;br&gt;
+Marta Hasny, Maxime Di Folco, Keno Bressem, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2503.14998&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2503.14998&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;algorithms-track&#34;&gt;Algorithms Track:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical Adaptive networks with Task vectors for Test-Time Adaptation&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Marta Hasny, Laura Daza, Daniel Lang, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://www.arxiv.org/abs/2508.09223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.arxiv.org/abs/2508.09223&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
