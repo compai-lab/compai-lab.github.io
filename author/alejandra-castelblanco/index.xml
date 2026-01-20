@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandra Castelblanco | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/alejandra-castelblanco/</link>
+      <atom:link href="https://compai-lab.io/author/alejandra-castelblanco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandra Castelblanco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/alejandra-castelblanco/avatar_hu4e2a06ede22a2040b0e72389cbaa26bf_926261_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alejandra Castelblanco</title>
+      <link>https://compai-lab.io/author/alejandra-castelblanco/</link>
+    </image>
+    
+  </channel>
+</rss>
