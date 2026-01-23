@@ -5,12 +5,76 @@
     <link>https://compai-lab.io/author/julia-a.-schnabel/</link>
       <atom:link href="https://compai-lab.io/author/julia-a.-schnabel/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia A. Schnabel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/julia-a.-schnabel/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_816920_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Julia A. Schnabel</title>
       <link>https://compai-lab.io/author/julia-a.-schnabel/</link>
     </image>
+    
+    <item>
+      <title>Five papers accepted at ISBI 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_01_isbi_papers/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_01_isbi_papers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Covariance Descriptors Meet General Vision Encoders: Riemannian Deep Learning for Medical Image Classification&lt;/strong&gt;&lt;br&gt;
+Josef Mayr, Anna Reithmeir, Maxime Di Folco, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2511.04190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2511.04190&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LocBAM: Advancing 3D Patch-Based Image Segmentation by Integrating Location Context&lt;/strong&gt;&lt;br&gt;
+Donnate Hooft, Stefan Fischer, Cosmin Bercea, Jan Peeken, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2601.14802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2601.14802&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learning to Reason About Rare Diseases Through Retrieval-Augmented Agents&lt;/strong&gt;&lt;br&gt;
+Ha Young Kim, Jun Li, Ana Beatriz Solana, Carolin Pirkl, Benedikt Wiestler, Julia Schnabel, Cosmin Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2511.04720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2511.04720&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies&lt;/strong&gt;&lt;br&gt;
+Ben Schaper1, Maxime Di Folco, Bernhard Kainz, Julia Schnabel, Cosmin Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2601.14827&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2601.14827&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uncertainty-guided Generation of Dark-field Radiographs&lt;/strong&gt;&lt;br&gt;
+Lina Felsner, Henriette Bast, Tina Dorosti, Florian Schaff, Franz Pfeiffer, Daniela Pfeiffer, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2601.15859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2601.15859&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three papers accepted at WACV 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/25_11_wacv_papers/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/25_11_wacv_papers/</guid>
+      <description>&lt;h2 id=&#34;applications-track&#34;&gt;Applications Track:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding&lt;/strong&gt;&lt;br&gt;
+Jun Li, Che Liu, Wenjia Bai, Mingxuan Liu, Rossella Arcucci, Cosmin Bercea, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2508.04572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2508.04572&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tables Guide Vision: Learning to See the Heart through Tabular Data&lt;/strong&gt;&lt;br&gt;
+Marta Hasny, Maxime Di Folco, Keno Bressem, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2503.14998&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2503.14998&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;algorithms-track&#34;&gt;Algorithms Track:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchical Adaptive networks with Task vectors for Test-Time Adaptation&lt;/strong&gt;&lt;br&gt;
+Sameer Ambekar, Marta Hasny, Laura Daza, Daniel Lang, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://www.arxiv.org/abs/2508.09223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.arxiv.org/abs/2508.09223&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>TUM Joins €3M AI Initiative to Tackle Endometriosis</title>
