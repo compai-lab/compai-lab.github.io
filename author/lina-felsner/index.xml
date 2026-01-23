@@ -5,12 +5,50 @@
     <link>https://compai-lab.io/author/lina-felsner/</link>
       <atom:link href="https://compai-lab.io/author/lina-felsner/index.xml" rel="self" type="application/rss+xml" />
     <description>Lina Felsner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/lina-felsner/avatar_hu60e932604a75cc0995bfb2f4902df59a_1322838_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lina Felsner</title>
       <link>https://compai-lab.io/author/lina-felsner/</link>
     </image>
+    
+    <item>
+      <title>Five papers accepted at ISBI 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_01_isbi_papers/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_01_isbi_papers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Covariance Descriptors Meet General Vision Encoders: Riemannian Deep Learning for Medical Image Classification&lt;/strong&gt;&lt;br&gt;
+Josef Mayr, Anna Reithmeir, Maxime Di Folco, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2511.04190&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2511.04190&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LocBAM: Advancing 3D Patch-Based Image Segmentation by Integrating Location Context&lt;/strong&gt;&lt;br&gt;
+Donnate Hooft, Stefan Fischer, Cosmin Bercea, Jan Peeken, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2601.14802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2601.14802&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learning to Reason About Rare Diseases Through Retrieval-Augmented Agents&lt;/strong&gt;&lt;br&gt;
+Ha Young Kim, Jun Li, Ana Beatriz Solana, Carolin Pirkl, Benedikt Wiestler, Julia Schnabel, Cosmin Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2511.04720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2511.04720&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies&lt;/strong&gt;&lt;br&gt;
+Ben Schaper1, Maxime Di Folco, Bernhard Kainz, Julia Schnabel, Cosmin Bercea&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/abs/2601.14827&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2601.14827&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uncertainty-guided Generation of Dark-field Radiographs&lt;/strong&gt;&lt;br&gt;
+Lina Felsner, Henriette Bast, Tina Dorosti, Florian Schaff, Franz Pfeiffer, Daniela Pfeiffer, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;http://arxiv.org/abs/2601.15859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2601.15859&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Multiparametric (TI-TE) MRI sequence adaptation and implicit neural representation (INR)-based reconstruction</title>
