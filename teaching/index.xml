@@ -5,12 +5,63 @@
     <link>https://compai-lab.io/teaching/</link>
       <atom:link href="https://compai-lab.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Positions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>Open Positions</title>
       <link>https://compai-lab.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>From General to Clinical Adapting Foundation Models for Medical Images</title>
+      <link>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wblv.wbShowLvDetail?pStpSpNr=950935301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Foundation Models in Deep Learning for Medical Imaging
+Following a successful first iteration, this seminar extends the study of foundation models, with updated perspectives on adaptation strategies and applications in medical imaging. However, real-world deployment, especially in medical imaging, remains challenging due to unseen variations in scanners, patient demographics, and pathological conditions.&lt;/p&gt;
+&lt;p&gt;To address this issue, recent work has focused on foundation models: large-scale models pretrained on diverse data using self- or weakly supervised learning. CLIP-based models learn general-purpose representations that transfer well to downstream tasks. For the context of medical imaging, specific fine-tuned models such as MedSAM and BiomedCLIP demonstrate strong potential.&lt;/p&gt;
+&lt;p&gt;However, adapting foundation models to new domains or tasks often remains challenging. Although domain generalization and adaptation approaches exist, they may overfit or require target data. A recent paradigm, test-time adaptation, mitigates this by adapting alongside inference to unseen data. The techniques include adapting dynamically through model updates or prompt modifications that support more flexible deployment.&lt;/p&gt;
+&lt;p&gt;This seminar will explore the foundations and capabilities of foundation models, with a focus on pretraining strategies, representational generalization, and efficient adaptation methods. We will examine state-of-the-art foundation models and discuss how they can be adapted to downstream tasks, especially in medical imaging, through techniques such as self-supervised learning, cross-domain transfer, and parameter-efficient tuning.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Self Supervised Learning and Foundation Models&lt;/li&gt;
+&lt;li&gt;Adaptation techniques to clinical applications&lt;/li&gt;
+&lt;li&gt;Examples of Foundation models in medical imaging&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
+&lt;li&gt;Interest in medical image analysis anf foundation models&lt;/li&gt;
+&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Adapting_FM_Sameer_Laura.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/Seminar_Laura_Sameer_Lab_Website.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;
+</description>
+    </item>
     
     <item>
       <title>From General to Clinical - Adapting Foundation Models for Medical Images (IN2107)</title>

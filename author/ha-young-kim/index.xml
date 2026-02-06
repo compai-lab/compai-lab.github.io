@@ -5,12 +5,33 @@
     <link>https://compai-lab.io/author/ha-young-kim/</link>
       <atom:link href="https://compai-lab.io/author/ha-young-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Ha Young Kim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/ha-young-kim/avatar_hua4908c8ba1099c3e02bfd30a974e904d_1444372_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ha Young Kim</title>
       <link>https://compai-lab.io/author/ha-young-kim/</link>
     </image>
+    
+    <item>
+      <title>Three abstracts accepted at 2026 ISMRM &amp; ISMRT Annual Meeting.</title>
+      <link>https://compai-lab.io/post/26_02_ismrm_abstracts/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_02_ismrm_abstracts/</guid>
+      <description>&lt;p&gt;Three abstracts from our group have been accepted at the 2026 ISMRM &amp;amp; ISMRT Annual Meeting in Cape Town, South Africa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ha Young Kim will present her work “Radiomics and Biomarker-Based Analysis of Arterial Spin Labelling MRI in Alzheimer’s Disease and non-AD Dementia” in a presentation on Monday, May 11 at 8.20 am SAST.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Natascha Niessen will present her work &amp;ldquo;Highly accelerated 3D MPnRAGE meets implicit neural representation (INR) reconstruction&amp;rdquo; as a digital poster on Thursday, May 14 at 2.40 pm SAST.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vincent Wohlfahrt will present his work &amp;ldquo;Automated Segmentation of Individual Cerebral Perfusion Territories from Vessel-Selective MRI by Deep Learning&amp;rdquo; as a digital poster on Tuesday, May 12 at 5 pm SAST.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Five papers accepted at ISBI 2026 Main Conference</title>
@@ -42,27 +63,6 @@ Ben Schaper1, Maxime Di Folco, Bernhard Kainz, Julia Schnabel, Cosmin Bercea&lt;
 &lt;p&gt;&lt;strong&gt;Uncertainty-guided Generation of Dark-field Radiographs&lt;/strong&gt;&lt;br&gt;
 Lina Felsner, Henriette Bast, Tina Dorosti, Florian Schaff, Franz Pfeiffer, Daniela Pfeiffer, Julia Schnabel&lt;br&gt;
 (&lt;a href=&#34;http://arxiv.org/abs/2601.15859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2601.15859&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three abstracts accepted at 2026 ISMRM &amp; ISMRT Annual Meeting.</title>
-      <link>https://compai-lab.io/post/26_02_ismrm_abstracts/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/post/26_02_ismrm_abstracts/</guid>
-      <description>&lt;p&gt;Three abstracts from our group have been accepted at the 2026 ISMRM &amp;amp; ISMRT Annual Meeting in Cape Town, South Africa:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Ha Young Kim will present her work “Radiomics and Biomarker-Based Analysis of Arterial Spin Labelling MRI in Alzheimer’s Disease and non-AD Dementia” in a presentation on Monday, May 11 at 8.20 am SAST.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Natascha Niessen will present her work &amp;ldquo;Highly accelerated 3D MPnRAGE meets implicit neural representation (INR) reconstruction&amp;rdquo; as a digital poster on Thursday, May 14 at 2.40 pm SAST.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Vincent Wohlfahrt will present his work &amp;ldquo;Automated Segmentation of Individual Cerebral Perfusion Territories from Vessel-Selective MRI by Deep Learning&amp;rdquo; as a digital poster on Tuesday, May 12 at 5 pm SAST.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
