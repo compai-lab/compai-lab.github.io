@@ -5,12 +5,56 @@
     <link>https://compai-lab.io/tag/all-but-completed/</link>
       <atom:link href="https://compai-lab.io/tag/all-but-completed/index.xml" rel="self" type="application/rss+xml" />
     <description>all-but-completed</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>all-but-completed</title>
       <link>https://compai-lab.io/tag/all-but-completed/</link>
     </image>
+    
+    <item>
+      <title>INR architecture design for Multi-contrast MRI reconstruction</title>
+      <link>https://compai-lab.io/vacancies/msc_niessen_inr_26/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_niessen_inr_26/</guid>
+      <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem statement&lt;/h3&gt;
+&lt;p&gt;Multiparametric MRI acquires multiple tissue contrasts within a single scan, enabling quantitative assessment of tissue microstructure. However, these protocols typically require long acquisition times, limiting their clinical applicability. Acceleration techniques such as k-space undersampling can reduce scan time but make image reconstruction an ill-posed problem.
+Advanced reconstruction methods, including compressed sensing and deep learning–based approaches [1] enable the acquisition of high-quality images despite the incomplete data. A recent deep learning–based strategy relies on implicit neural representations (INRs), which model images as continuous functions parameterized by neural networks. By exploiting anatomical redundancy across contrasts, INRs can achieve high acceleration factors while maintaining reconstruction quality [2].&lt;/p&gt;
+&lt;h3 id=&#34;goals&#34;&gt;Goals&lt;/h3&gt;
+&lt;p&gt;This project aims to further explore INR networks for multiparametric MRI sequences and how the anatomical redundancy of the multiple contrasts within one scan can ideally be incorporated into the INR framework.  The project consists of three parts: (1) Analysis of existing INR architecture, (2) Development and implementation of multi-contrast INR architectures and (3) Evaluation and Comparison of the proposed methods.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The student will benefit from:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Guidance from both MRI and AI  experts in a collaborative, interdisciplinary research setting.&lt;/li&gt;
+&lt;li&gt;Access to private and public datasets with MRI data from highly innovative MRI sequences.&lt;/li&gt;
+&lt;li&gt;Opportunity to contribute to ongoing research and potential publication in medical imaging journals or conferences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;6 months master thesis.&lt;/li&gt;
+&lt;li&gt;Very good programming skills in Python (PyTorch).&lt;/li&gt;
+&lt;li&gt;Good understanding of mathematical foundations of AI.&lt;/li&gt;
+&lt;li&gt;Background in MRI physics and/or signal processing would be a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Intended starting date:&lt;/strong&gt; March 15th 2026 (or later)&lt;/p&gt;
+&lt;h3 id=&#34;application&#34;&gt;Application&lt;/h3&gt;
+&lt;p&gt;Please send an email, involving a CV, a current transcript of records, and a brief statement on
+why you are interested in the project, to &lt;a href=&#34;mailto:natascha.niessen@tum.de&#34;&gt;natascha.niessen@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;affiliation&#34;&gt;Affiliation&lt;/h3&gt;
+&lt;p&gt;Prof. Dr. Julia Schnabel
+Informatik 32 - Lehrstuhl fur Computational Imaging and AI in Medicine
+Supervision: Natascha Niessen, Dr.-Ing. Lina Felsner&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Deep learning for accelerated and robust MRI reconstruction. Heckel R, Jacob M, Chaudhari
+A, Perlman O, Shimron E. s.l. : MAGMA. 2024;37(3):335-368.&lt;/li&gt;
+&lt;li&gt;INR Meets Multi-contrast MRI Reconstruction. Niessen N, Pirkl CM, Solana AB, Eichhorn H,
+Spieker V, Huang W, Sprenger T, Menzel MI, Schnabel JA. s.l. : Reconstruction and Imaging
+Motion Estimation, and Graphs in Biomedical Image Analysis: First International Workshop,
+RIME 2025, and 7th International Workshop, GRAIL 2025, pp. 23-33, Springer-Verlag, Berlin,
+Heidelberg, 2025, 2025.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Multiparametric (TI-TE) MRI sequence adaptation and implicit neural representation (INR)-based reconstruction</title>
