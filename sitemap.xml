@@ -14,23 +14,11 @@
   <url>
     <loc>https://compai-lab.io/author/emily-chan/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://compai-lab.io/author/georgios-kaissis/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://compai-lab.io/author/sandra-mayer/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/author/simona-bottani/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/author/lina-felsner/</loc><lastmod>2026-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://compai-lab.io/author/maxime-di-folco/</loc><lastmod>2026-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/author/veronika-zimmer/</loc><lastmod>2022-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/author/sabine-franke/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://compai-lab.io/author/daniel-m.-lang/</loc><lastmod>2025-11-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/author/hannah-eichhorn/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/author/cristina-gonzalez/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -48,13 +36,9 @@
   <url>
     <loc>https://compai-lab.io/author/natascha-niessen/</loc><lastmod>2026-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://compai-lab.io/author/richard-osuala/</loc><lastmod>2025-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://compai-lab.io/author/francesca-maccarone/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/author/anna-reithmeir/</loc><lastmod>2026-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/author/chun-kit-wong/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/author/anneliese-riess/</loc><lastmod>2025-06-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -94,11 +78,15 @@
   <url>
     <loc>https://compai-lab.io/post/26_01_isbi_papers/</loc><lastmod>2026-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://compai-lab.io/author/maxime-di-folco/</loc><lastmod>2026-01-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://compai-lab.io/post/25_11_wacv_papers/</loc><lastmod>2025-11-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/vacancies/msc_niessen_reconstruction_26/</loc><lastmod>2025-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/25_09_niessen_award/</loc><lastmod>2025-09-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/hannah-eichhorn/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/eichorn_magma_25/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -111,6 +99,8 @@
     <loc>https://compai-lab.io/post/2025_07_endoki/</loc><lastmod>2025-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/2025_06_chc_awards/</loc><lastmod>2025-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/richard-osuala/</loc><lastmod>2025-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/25_06_miccai/</loc><lastmod>2025-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -223,6 +213,8 @@
     <loc>https://compai-lab.io/post/spieker_eichhorn_ismrm/</loc><lastmod>2023-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/vacancies/msc_surface_zimmer/</loc><lastmod>2022-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/veronika-zimmer/</loc><lastmod>2022-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/bercea_nature/</loc><lastmod>2022-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -385,5 +377,13 @@
     <loc>https://compai-lab.io/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/chun-kit-wong/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/georgios-kaissis/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/sabine-franke/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/author/simona-bottani/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/tour/</loc><changefreq>weekly</changefreq></url></urlset>
