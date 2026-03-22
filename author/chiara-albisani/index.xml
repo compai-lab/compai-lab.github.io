@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiara Albisani | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/chiara-albisani/</link>
+      <atom:link href="https://compai-lab.io/author/chiara-albisani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chiara Albisani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/chiara-albisani/avatar_hu82591bf558d5f28a33b73246ddf2dd5d_2306797_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chiara Albisani</title>
+      <link>https://compai-lab.io/author/chiara-albisani/</link>
+    </image>
+    
+  </channel>
+</rss>
