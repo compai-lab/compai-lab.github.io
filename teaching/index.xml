@@ -64,6 +64,55 @@ Following a successful first iteration, this seminar extends the study of founda
     </item>
     
     <item>
+      <title>Multimodal Learning for Medicine &amp; Healthcare The Challenges and Opportunities for Medical Images</title>
+      <link>https://compai-lab.io/teaching/ss26_multimodal_seminar/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/ss26_multimodal_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950935285&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Doctors typically make clinical decisions using several modalities, such as images, language, or tabular data. Deep learning models offer a powerful framework for integrating these heterogeneous modalities to support automated and data-driven decision making. However, effective multimodal learning remains non-trivial, facing challenges such as under-optimization across modalities [1] or the presence of missing data [2]. These challenges are particularly pronounced in real-world clinical settings, where data availability, quality, and alignment across modalities vary substantially. In this seminar, we will discuss recent advances in multimodal learning, covering key paradigms such as fusion and alignment mechanisms, self-supervised and contrastive pretraining across modalities, and the emergence of multimodal foundation models for medical AI. We will also examine strategies that address real-world challenges, including handling missing or noisy modalities, improving cross-modal generalization, and enhancing data efficiency and robustness for clinical applications.&lt;/p&gt;
+&lt;p&gt;References
+[1] Shicai Wei, Chunbo Luo, and Yang Luo. Boosting multimodal learning via disentangled gradient learning. arXiv preprint arXiv:2507.10213, 2025.
+[2] Sijie Li, Chen Chen, and Jungong Han. Simmlm: A simple framework for multi-modal learning with missing modality. arXiv preprint arXiv:2507.19264, 2025. [3] Wu, Zhenbang, et al. &amp;ldquo;Multimodal patient representation learning with missing modalities and labels.&amp;rdquo; The Twelfth International Conference on Learning Representations. 2024. [4] Yun, Sukwon, et al. &amp;ldquo;Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts.&amp;rdquo; Advances in Neural Information Processing Systems 37 (2024): 98782-98805. [5] Zhang, Kai, et al. &amp;ldquo;A generalist vision–language foundation model for diverse biomedical tasks.&amp;rdquo; Nature Medicine 30.11 (2024): 3129-3141. [6] Radford, Alec, et al. &amp;ldquo;Learning transferable visual models from natural language supervision.&amp;rdquo; International conference on machine learning. PmLR, 2021. [7] Ma, Jun, et al. &amp;ldquo;Segment anything in medical images.&amp;rdquo; Nature Communications 15.1 (2024): 654. [8] Li, Songtao, and Hao Tang. &amp;ldquo;Multimodal alignment and fusion: A survey.&amp;rdquo; arXiv preprint arXiv:2411.17040 (2024).&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to multimodal learning in medicine&lt;/li&gt;
+&lt;li&gt;Challenges of multimodal learning in clinical applications, including missing and noisy data&lt;/li&gt;
+&lt;li&gt;Multimodal pretraining for medicine&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
+&lt;li&gt;Interest in medical multimodal learning&lt;/li&gt;
+&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Multimodal_Marta_Laura.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;object data=&#34;/files/Multimodal_Marta_Laura.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;</description>
+    </item>
+    
+    <item>
       <title>From General to Clinical - Adapting Foundation Models for Medical Images (IN2107)</title>
       <link>https://compai-lab.io/teaching/seminar_foundation_models_ws25/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
