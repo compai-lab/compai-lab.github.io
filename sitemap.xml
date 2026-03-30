@@ -56,9 +56,9 @@
   <url>
     <loc>https://compai-lab.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://compai-lab.io/tag/all-but-completed/</loc><lastmod>2026-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://compai-lab.io/authors/</loc><lastmod>2026-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://compai-lab.io/tag/completed/</loc><lastmod>2026-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/vacancies/msc_niessen_inr_26/</loc><lastmod>2026-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -94,7 +94,7 @@
   <url>
     <loc>https://compai-lab.io/post/25_09_niessen_award/</loc><lastmod>2025-09-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://compai-lab.io/author/hannah-s-eichhorn/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://compai-lab.io/author/hannah-s.-eichhorn/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/eichorn_magma_25/</loc><lastmod>2025-09-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -115,8 +115,6 @@
     <loc>https://compai-lab.io/post/25_06_anneliese_talk/</loc><lastmod>2025-06-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/post/25_06_zeyad_conference_talk/</loc><lastmod>2025-06-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://compai-lab.io/tag/completed/</loc><lastmod>2025-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://compai-lab.io/vacancies/msc_ambekar_domain_shift_25/</loc><lastmod>2025-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
