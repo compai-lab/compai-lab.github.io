@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeineb Ben Chaaben | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/zeineb-ben-chaaben/</link>
+      <atom:link href="https://compai-lab.io/author/zeineb-ben-chaaben/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeineb Ben Chaaben</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/zeineb-ben-chaaben/avatar_hub4cf4687239bc880ff7890790eec5e92_923422_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zeineb Ben Chaaben</title>
+      <link>https://compai-lab.io/author/zeineb-ben-chaaben/</link>
+    </image>
+    
+  </channel>
+</rss>
