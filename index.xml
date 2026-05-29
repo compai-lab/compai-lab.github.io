@@ -28,6 +28,33 @@
     </item>
     
     <item>
+      <title>Three papers accepted at ICML 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_05_icml_papers/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_05_icml_papers/</guid>
+      <description>&lt;p&gt;Our lab will be presenting three papers at the International Conference on Machine Learning (ICML) 2026:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases&lt;/strong&gt;&lt;br&gt;
+Jun Li, Mingxuan Liu, Jiazhen Pan, Che Liu, Wenjia Bai, Cosmin I. Bercea, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2604.24972&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2604.24972&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No Data? No Problem: Robust Vision-Tabular Learning with Missing Values&lt;/strong&gt;&lt;br&gt;
+Marta Hasny, Luara Daza, Keno Bressem, Maxime Di Folco, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2512.19602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2512.19602&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimal Conversion from Renyi Differential Privacy to f-Differential Privacy&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Juan Felipe Gomez, Flavio du Pin Calmon, Julia A. Schnabel, Georgios Kaissis&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2602.04562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2602.04562&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Abstract accepted at Theory and Practice of Differential Privacy Workshop 2026.</title>
       <link>https://compai-lab.io/post/26_05_tpdp_abstract/</link>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
@@ -644,33 +671,6 @@ His work demonstrates how diffusion models can enable faster image acquisition a
 &lt;p&gt;This master’s thesis proposes new domain generalization and adaptation techniques to address these challenges. First, it will train models on multi-source data drawn from diverse distributions—different scanners, pathologies, and demographics. Next, it will explore existing domain generalization algorithms, analyzing the role of entropy minimization for optimizing model performance and the impact of feature alignment. Finally, it seeks to introduce novel contributions grounded in fundamental deep learning principles, with the goal of enhancing the adaptability and robustness of models across varied environments. The research outcomes are intended for publication in a relevant academic venue.&lt;/p&gt;
 &lt;p&gt;The start date ideally is June 2025. The thesis is offered by the Chair for Computational Imaging and AI in Medicine (Prof. Dr. Julia Schnabel) and supervised by Sameer Ambekar and Dr. Daniel Lang. If interested, please send your transcripts and a short motivation to &lt;a href=&#34;mailto:sameer.ambekar@tum.de&#34;&gt;sameer.ambekar@tum.de&lt;/a&gt; and
 &lt;a href=&#34;mailto:lang@helmholtz-munich.de&#34;&gt;lang@helmholtz-munich.de&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three papers accepted at ICML 2026 Main Conference</title>
-      <link>https://compai-lab.io/post/26_05_icml_papers/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/post/26_05_icml_papers/</guid>
-      <description>&lt;p&gt;Our lab will be presenting three papers at the International Conference on Machine Learning (ICML) 2026:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases&lt;/strong&gt;&lt;br&gt;
-Jun Li, Mingxuan Liu, Jiazhen Pan, Che Liu, Wenjia Bai, Cosmin I. Bercea, Julia A. Schnabel&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2604.24972&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2604.24972&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;No Data? No Problem: Robust Vision-Tabular Learning with Missing Values&lt;/strong&gt;&lt;br&gt;
-Marta Hasny, Luara Daza, Keno Bressem, Maxime Di Folco, Julia Schnabel&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2512.19602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2512.19602&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Optimal Conversion from Renyi Differential Privacy to f-Differential Privacy&lt;/strong&gt;&lt;br&gt;
-Anneliese Riess, Juan Felipe Gomez, Flavio du Pin Calmon, Julia A. Schnabel, Georgios Kaissis&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2602.04562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2602.04562&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

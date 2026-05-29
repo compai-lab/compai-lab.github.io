@@ -5,12 +5,39 @@
     <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
       <atom:link href="https://compai-lab.io/author/cosmin-i.-bercea/index.xml" rel="self" type="application/rss+xml" />
     <description>Cosmin I. Bercea</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/cosmin-i.-bercea/avatar_huc30509e39f40f5e42a3e593aaa26fe4e_5750588_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cosmin I. Bercea</title>
       <link>https://compai-lab.io/author/cosmin-i.-bercea/</link>
     </image>
+    
+    <item>
+      <title>Three papers accepted at ICML 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_05_icml_papers/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_05_icml_papers/</guid>
+      <description>&lt;p&gt;Our lab will be presenting three papers at the International Conference on Machine Learning (ICML) 2026:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases&lt;/strong&gt;&lt;br&gt;
+Jun Li, Mingxuan Liu, Jiazhen Pan, Che Liu, Wenjia Bai, Cosmin I. Bercea, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2604.24972&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2604.24972&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No Data? No Problem: Robust Vision-Tabular Learning with Missing Values&lt;/strong&gt;&lt;br&gt;
+Marta Hasny, Luara Daza, Keno Bressem, Maxime Di Folco, Julia Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2512.19602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2512.19602&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Optimal Conversion from Renyi Differential Privacy to f-Differential Privacy&lt;/strong&gt;&lt;br&gt;
+Anneliese Riess, Juan Felipe Gomez, Flavio du Pin Calmon, Julia A. Schnabel, Georgios Kaissis&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2602.04562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2602.04562&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Five papers accepted at ISBI 2026 Main Conference</title>
@@ -138,33 +165,6 @@ Chun Kit Wong, Anders Christensen, Cosmin Bercea, Julia Schnabel, Martin Tolsgaa
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Lightweight Data-Free Denoising for Detail-Preserving Biomedical Image Restoration&lt;/strong&gt;&lt;br&gt;
 Tomáš Chobola, Julia Schnabel, Tingying Peng
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three papers accepted at ICML 2026 Main Conference</title>
-      <link>https://compai-lab.io/post/26_05_icml_papers/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/post/26_05_icml_papers/</guid>
-      <description>&lt;p&gt;Our lab will be presenting three papers at the International Conference on Machine Learning (ICML) 2026:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases&lt;/strong&gt;&lt;br&gt;
-Jun Li, Mingxuan Liu, Jiazhen Pan, Che Liu, Wenjia Bai, Cosmin I. Bercea, Julia A. Schnabel&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2604.24972&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2604.24972&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;No Data? No Problem: Robust Vision-Tabular Learning with Missing Values&lt;/strong&gt;&lt;br&gt;
-Marta Hasny, Luara Daza, Keno Bressem, Maxime Di Folco, Julia Schnabel&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2512.19602&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2512.19602&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Optimal Conversion from Renyi Differential Privacy to f-Differential Privacy&lt;/strong&gt;&lt;br&gt;
-Anneliese Riess, Juan Felipe Gomez, Flavio du Pin Calmon, Julia A. Schnabel, Georgios Kaissis&lt;br&gt;
-(&lt;a href=&#34;https://arxiv.org/pdf/2602.04562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2602.04562&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
