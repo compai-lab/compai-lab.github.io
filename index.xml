@@ -37,9 +37,9 @@
 &lt;p&gt;Despite these advances, the clinical implementation of AI-based tools continues to face several challenges, including the standardization of workflows for image analysis, achieving model generalizability and fairness across patient populations and clinical sites [3], the fusion of multimodal information by combining different imaging modalities and clinical text, and the adoption of innovative visualization frameworks like augmented and mixed reality.&lt;/p&gt;
 &lt;p&gt;In this seminar, we will discuss recent advancements in medical image processing and their role in developing AI-assisted tools for clinical decision support and intervention. In particular, we will cover state-of-the-art techniques for biomedical image registration in space and time, fully automated and promptable segmentation models, and the use of virtual and augmented reality technologies to bring medical imaging data to life for surgical planning, medical training, and image-guided interventions. Furthermore, we will examine practical challenges associated with deploying these technologies in clinical settings and discuss their current and potential impact on modern healthcare practice.&lt;/p&gt;
 &lt;p&gt;References
-[1]	R. Najjar, “Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging,” Diagnostics, vol. 13, no. 17, p. 2760, Aug. 2023.
-[2]	A. Hosny, C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. W. L. Aerts, “Artificial intelligence in radiology,” Nature Reviews Cancer, vol. 18, no. 8, pp. 500–510, May 2018.
-[3]	Y. Yang, H. Zhang, J. W. Gichoya, D. Katabi, and M. Ghassemi, “The limits of fair medical imaging AI in real-world generalization,” Nature Medicine, vol. 30, no. 10, pp. 2838–2848, Jun. 2024.&lt;/p&gt;
+[1]	R. Najjar, “Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging,” Diagnostics, vol. 13, no. 17, p. 2760, Aug. 2023.&lt;/p&gt;
+&lt;p&gt;[2]	A. Hosny, C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. W. L. Aerts, “Artificial intelligence in radiology,” Nature Reviews Cancer, vol. 18, no. 8, pp. 500–510, May 2018.&lt;/p&gt;
+&lt;p&gt;[3]	Y. Yang, H. Zhang, J. W. Gichoya, D. Katabi, and M. Ghassemi, “The limits of fair medical imaging AI in real-world generalization,” Nature Medicine, vol. 30, no. 10, pp. 2838–2848, Jun. 2024.&lt;/p&gt;
 &lt;p&gt;Key topics to be covered include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Traditional medical image visualization and navigation in the clinic&lt;/li&gt;
@@ -55,7 +55,7 @@
 &lt;li&gt;Interest in research&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check the intro slides here: ![Slides](/files/AI tools seminar kick-off presentation.pdf)&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;object data=&#34;/files/AI tools seminar kick-off presentation.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;</description>
     </item>
@@ -217,27 +217,7 @@ Following a successful first iteration, this seminar extends the study of founda
 &lt;li&gt;Interest in research&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check the intro slides here: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Kick-off_Slides_Adapting_FM_W26-27.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;object data=&#34;/files/Kick-off_Slides_Adapting_FM_W26-27.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;
 </description>
@@ -251,8 +231,14 @@ Following a successful first iteration, this seminar extends the study of founda
       <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Doctors typically make clinical decisions using several modalities, such as images, language, or tabular data. Deep learning models offer a powerful framework for integrating these heterogeneous modalities to support automated and data-driven decision making. However, effective multimodal learning remains non-trivial, facing challenges such as under-optimization across modalities [1] or the presence of missing data [2]. These challenges are particularly pronounced in real-world clinical settings, where data availability, quality, and alignment across modalities vary substantially. In this seminar, we will discuss recent advances in multimodal learning, covering key paradigms such as fusion and alignment mechanisms, self-supervised and contrastive pretraining across modalities, and the emergence of multimodal foundation models for medical AI. We will also examine strategies that address real-world challenges, including handling missing or noisy modalities, improving cross-modal generalization, and enhancing data efficiency and robustness for clinical applications.&lt;/p&gt;
 &lt;p&gt;References
-[1] Shicai Wei, Chunbo Luo, and Yang Luo. Boosting multimodal learning via disentangled gradient learning. arXiv preprint arXiv:2507.10213, 2025.
-[2] Sijie Li, Chen Chen, and Jungong Han. Simmlm: A simple framework for multi-modal learning with missing modality. arXiv preprint arXiv:2507.19264, 2025. [3] Wu, Zhenbang, et al. &amp;ldquo;Multimodal patient representation learning with missing modalities and labels.&amp;rdquo; The Twelfth International Conference on Learning Representations. 2024. [4] Yun, Sukwon, et al. &amp;ldquo;Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts.&amp;rdquo; Advances in Neural Information Processing Systems 37 (2024): 98782-98805. [5] Zhang, Kai, et al. &amp;ldquo;A generalist vision–language foundation model for diverse biomedical tasks.&amp;rdquo; Nature Medicine 30.11 (2024): 3129-3141. [6] Radford, Alec, et al. &amp;ldquo;Learning transferable visual models from natural language supervision.&amp;rdquo; International conference on machine learning. PmLR, 2021. [7] Ma, Jun, et al. &amp;ldquo;Segment anything in medical images.&amp;rdquo; Nature Communications 15.1 (2024): 654. [8] Li, Songtao, and Hao Tang. &amp;ldquo;Multimodal alignment and fusion: A survey.&amp;rdquo; arXiv preprint arXiv:2411.17040 (2024).&lt;/p&gt;
+[1] Shicai Wei, Chunbo Luo, and Yang Luo. Boosting multimodal learning via disentangled gradient learning. arXiv preprint arXiv:2507.10213, 2025.&lt;/p&gt;
+&lt;p&gt;[2] Sijie Li, Chen Chen, and Jungong Han. Simmlm: A simple framework for multi-modal learning with missing modality. arXiv preprint arXiv:2507.19264, 2025.&lt;/p&gt;
+&lt;p&gt;[3] Wu, Zhenbang, et al. &amp;ldquo;Multimodal patient representation learning with missing modalities and labels.&amp;rdquo; The Twelfth International Conference on Learning Representations. 2024.&lt;/p&gt;
+&lt;p&gt;[4] Yun, Sukwon, et al. &amp;ldquo;Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts.&amp;rdquo; Advances in Neural Information Processing Systems 37 (2024): 98782-98805.&lt;/p&gt;
+&lt;p&gt;[5] Zhang, Kai, et al. &amp;ldquo;A generalist vision–language foundation model for diverse biomedical tasks.&amp;rdquo; Nature Medicine 30.11 (2024): 3129-3141.&lt;/p&gt;
+&lt;p&gt;[6] Radford, Alec, et al. &amp;ldquo;Learning transferable visual models from natural language supervision.&amp;rdquo; International conference on machine learning. PmLR, 2021.&lt;/p&gt;
+&lt;p&gt;[7] Ma, Jun, et al. &amp;ldquo;Segment anything in medical images.&amp;rdquo; Nature Communications 15.1 (2024): 654.&lt;/p&gt;
+&lt;p&gt;[8] Li, Songtao, and Hao Tang. &amp;ldquo;Multimodal alignment and fusion: A survey.&amp;rdquo; arXiv preprint arXiv:2411.17040 (2024).&lt;/p&gt;
 &lt;p&gt;Key topics to be covered include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction to multimodal learning in medicine&lt;/li&gt;
@@ -267,27 +253,7 @@ Following a successful first iteration, this seminar extends the study of founda
 &lt;li&gt;Interest in research&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check the intro slides here: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Multimodal_Marta_Laura_Jun.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;object data=&#34;/files/Multimodal_Marta_Laura_Jun.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;</description>
     </item>
