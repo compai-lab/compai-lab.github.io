@@ -5,7 +5,7 @@
     <link>https://compai-lab.io/tag/ws26/</link>
       <atom:link href="https://compai-lab.io/tag/ws26/index.xml" rel="self" type="application/rss+xml" />
     <description>ws26</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>ws26</title>
@@ -13,11 +13,44 @@
     </image>
     
     <item>
+      <title>AI-driven tools for Medical Imaging and Visualization (IN2107)</title>
+      <link>https://compai-lab.io/teaching/visualization_seminar/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/visualization_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Modern healthcare is undergoing a digital transformation driven by the convergence of Artificial Intelligence (AI), medical imaging, and advanced visualization techniques. In particular, deep learning has demonstrated remarkable progress in medical image analysis, enabling improvements in image reconstruction and preprocessing, automated segmentation of anatomical and pathological structures, feature representation learning, and image visualization. These AI-driven imaging tools can have a profound impact on clinical workflows by enhancing diagnostic accuracy, facilitating image acquisition, enabling diagnostic standardization, and advancing medical training [1] [2].&lt;/p&gt;
+&lt;p&gt;Despite these advances, the clinical implementation of AI-based tools continues to face several challenges, including the standardization of workflows for image analysis, achieving model generalizability and fairness across patient populations and clinical sites [3], the fusion of multimodal information by combining different imaging modalities and clinical text, and the adoption of innovative visualization frameworks like augmented and mixed reality.&lt;/p&gt;
+&lt;p&gt;In this seminar, we will discuss recent advancements in medical image processing and their role in developing AI-assisted tools for clinical decision support and intervention. In particular, we will cover state-of-the-art techniques for biomedical image registration in space and time, fully automated and promptable segmentation models, and the use of virtual and augmented reality technologies to bring medical imaging data to life for surgical planning, medical training, and image-guided interventions. Furthermore, we will examine practical challenges associated with deploying these technologies in clinical settings and discuss their current and potential impact on modern healthcare practice.&lt;/p&gt;
+&lt;p&gt;References
+[1]	R. Najjar, “Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging,” Diagnostics, vol. 13, no. 17, p. 2760, Aug. 2023.
+[2]	A. Hosny, C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. W. L. Aerts, “Artificial intelligence in radiology,” Nature Reviews Cancer, vol. 18, no. 8, pp. 500–510, May 2018.
+[3]	Y. Yang, H. Zhang, J. W. Gichoya, D. Katabi, and M. Ghassemi, “The limits of fair medical imaging AI in real-world generalization,” Nature Medicine, vol. 30, no. 10, pp. 2838–2848, Jun. 2024.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Traditional medical image visualization and navigation in the clinic&lt;/li&gt;
+&lt;li&gt;Image registration across modalities and time&lt;/li&gt;
+&lt;li&gt;Fully automated and promptable segmentation in medical imaging&lt;/li&gt;
+&lt;li&gt;3D rendering and virtual or augmented reality in medical imaging&lt;/li&gt;
+&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
+&lt;li&gt;Interest in AI-tools for medical imaging&lt;/li&gt;
+&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check the intro slides here: ![Slides](/files/AI tools seminar kick-off presentation.pdf)&lt;/p&gt;
+&lt;object data=&#34;/files/AI tools seminar kick-off presentation.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;/object&gt;</description>
+    </item>
+    
+    <item>
       <title>From General to Clinical Adapting Foundation Models for Medical Images (IN2107)</title>
       <link>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wblv.wbShowLvDetail?pStpSpNr=950935301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wblv.wbShowLvDetail?pStpSpNr=950946105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Foundation Models in Deep Learning for Medical Imaging
 Following a successful first iteration, this seminar extends the study of foundation models, with updated perspectives on adaptation strategies and applications in medical imaging. However, real-world deployment, especially in medical imaging, remains challenging due to unseen variations in scanners, patient demographics, and pathological conditions.&lt;/p&gt;
 &lt;p&gt;To address this issue, recent work has focused on foundation models: large-scale models pretrained on diverse data using self- or weakly supervised learning. CLIP-based models learn general-purpose representations that transfer well to downstream tasks. For the context of medical imaging, specific fine-tuned models such as MedSAM and BiomedCLIP demonstrate strong potential.&lt;/p&gt;
@@ -33,7 +66,7 @@ Following a successful first iteration, this seminar extends the study of founda
 &lt;p&gt;Requirements:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
-&lt;li&gt;Interest in medical image analysis anf foundation models&lt;/li&gt;
+&lt;li&gt;Interest in medical image analysis and foundation models&lt;/li&gt;
 &lt;li&gt;Interest in research&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
@@ -55,10 +88,10 @@ Following a successful first iteration, this seminar extends the study of founda
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Adapting_FM_Sameer_Laura.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Kick-off_Slides_Adapting_FM_W26-27.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;object data=&#34;/files/Adapting_FM_Sameer_Laura.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;object data=&#34;/files/Kick-off_Slides_Adapting_FM_W26-27.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;
 </description>
     </item>
@@ -68,7 +101,7 @@ Following a successful first iteration, this seminar extends the study of founda
       <link>https://compai-lab.io/teaching/ss26_multimodal_seminar/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://compai-lab.io/teaching/ss26_multimodal_seminar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950935285&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Doctors typically make clinical decisions using several modalities, such as images, language, or tabular data. Deep learning models offer a powerful framework for integrating these heterogeneous modalities to support automated and data-driven decision making. However, effective multimodal learning remains non-trivial, facing challenges such as under-optimization across modalities [1] or the presence of missing data [2]. These challenges are particularly pronounced in real-world clinical settings, where data availability, quality, and alignment across modalities vary substantially. In this seminar, we will discuss recent advances in multimodal learning, covering key paradigms such as fusion and alignment mechanisms, self-supervised and contrastive pretraining across modalities, and the emergence of multimodal foundation models for medical AI. We will also examine strategies that address real-world challenges, including handling missing or noisy modalities, improving cross-modal generalization, and enhancing data efficiency and robustness for clinical applications.&lt;/p&gt;
 &lt;p&gt;References
 [1] Shicai Wei, Chunbo Luo, and Yang Luo. Boosting multimodal learning via disentangled gradient learning. arXiv preprint arXiv:2507.10213, 2025.
@@ -105,10 +138,10 @@ Following a successful first iteration, this seminar extends the study of founda
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Multimodal_Marta_Laura.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://compai-lab.io/files/Multimodal_Marta_Laura_Jun.pdf&#34; alt=&#34;Slides&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;object data=&#34;/files/Multimodal_Marta_Laura.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
+&lt;object data=&#34;/files/Multimodal_Marta_Laura_Jun.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
 &lt;/object&gt;</description>
     </item>
     
