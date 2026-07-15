@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Drole | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/luca-drole/</link>
+      <atom:link href="https://compai-lab.io/author/luca-drole/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Drole</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/luca-drole/avatar_hu730d9bcb8db9b2885ef96ba3fe6bbe09_54657_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Luca Drole</title>
+      <link>https://compai-lab.io/author/luca-drole/</link>
+    </image>
+    
+  </channel>
+</rss>
