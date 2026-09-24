@@ -5,7 +5,7 @@
     <link>https://compai-lab.io/tag/ws26/</link>
       <atom:link href="https://compai-lab.io/tag/ws26/index.xml" rel="self" type="application/rss+xml" />
     <description>ws26</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>ws26</title>
@@ -13,66 +13,44 @@
     </image>
     
     <item>
-      <title>AI-driven tools for Medical Imaging and Visualization (IN2107)</title>
-      <link>https://compai-lab.io/teaching/visualization_seminar/</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/teaching/visualization_seminar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Modern healthcare is undergoing a digital transformation driven by the convergence of Artificial Intelligence (AI), medical imaging, and advanced visualization techniques. In particular, deep learning has demonstrated remarkable progress in medical image analysis, enabling improvements in image reconstruction and preprocessing, automated segmentation of anatomical and pathological structures, feature representation learning, and image visualization. These AI-driven imaging tools can have a profound impact on clinical workflows by enhancing diagnostic accuracy, facilitating image acquisition, enabling diagnostic standardization, and advancing medical training [1] [2].&lt;/p&gt;
-&lt;p&gt;Despite these advances, the clinical implementation of AI-based tools continues to face several challenges, including the standardization of workflows for image analysis, achieving model generalizability and fairness across patient populations and clinical sites [3], the fusion of multimodal information by combining different imaging modalities and clinical text, and the adoption of innovative visualization frameworks like augmented and mixed reality.&lt;/p&gt;
-&lt;p&gt;In this seminar, we will discuss recent advancements in medical image processing and their role in developing AI-assisted tools for clinical decision support and intervention. In particular, we will cover state-of-the-art techniques for biomedical image registration in space and time, fully automated and promptable segmentation models, and the use of virtual and augmented reality technologies to bring medical imaging data to life for surgical planning, medical training, and image-guided interventions. Furthermore, we will examine practical challenges associated with deploying these technologies in clinical settings and discuss their current and potential impact on modern healthcare practice.&lt;/p&gt;
-&lt;p&gt;References&lt;/p&gt;
-&lt;p&gt;[1]	R. Najjar, “Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging,” Diagnostics, vol. 13, no. 17, p. 2760, Aug. 2023.&lt;/p&gt;
-&lt;p&gt;[2]	A. Hosny, C. Parmar, J. Quackenbush, L. H. Schwartz, and H. J. W. L. Aerts, “Artificial intelligence in radiology,” Nature Reviews Cancer, vol. 18, no. 8, pp. 500–510, May 2018.&lt;/p&gt;
-&lt;p&gt;[3]	Y. Yang, H. Zhang, J. W. Gichoya, D. Katabi, and M. Ghassemi, “The limits of fair medical imaging AI in real-world generalization,” Nature Medicine, vol. 30, no. 10, pp. 2838–2848, Jun. 2024.&lt;/p&gt;
+      <title>AI in Medicine: Learning from Incomplete Patient Data (IN2107)</title>
+      <link>https://compai-lab.io/teaching/incomplete_data_seminar/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/incomplete_data_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974605&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clinical decisions rarely rely on a single source of information. A patient may be described by medical images, radiology reports, laboratory values, genomics, and clinical history. In practice, however, these modalities are heterogeneous, noisy, and frequently incomplete. This seminar explores how machine learning can build useful multimodal patient representations under these conditions.&lt;/p&gt;
+&lt;p&gt;We study principal fusion strategies, including early, intermediate, and late fusion, joint embeddings, and cross-attention architectures. Particular attention is given to vision-language models and to methods that remain robust when modalities are missing during training or inference. Each project is anchored to a concrete clinical endpoint, such as diagnosis, prognosis, or treatment-response prediction.&lt;/p&gt;
 &lt;p&gt;Key topics to be covered include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Traditional medical image visualization and navigation in the clinic&lt;/li&gt;
-&lt;li&gt;Image registration across modalities and time&lt;/li&gt;
-&lt;li&gt;Fully automated and promptable segmentation in medical imaging&lt;/li&gt;
-&lt;li&gt;3D rendering and virtual or augmented reality in medical imaging&lt;/li&gt;
-&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;li&gt;Multimodal patient representation learning from heterogeneous, noisy, and incomplete clinical data&lt;/li&gt;
+&lt;li&gt;Early, intermediate, and late fusion&lt;/li&gt;
+&lt;li&gt;Joint embeddings and cross-attention architectures&lt;/li&gt;
+&lt;li&gt;Vision-language models for medicine&lt;/li&gt;
+&lt;li&gt;Learning with missing modalities at training and inference time&lt;/li&gt;
+&lt;li&gt;Evaluation for clinical endpoints such as diagnosis, prognosis, and treatment-response prediction&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Requirements:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
-&lt;li&gt;Interest in AI-tools for medical imaging&lt;/li&gt;
-&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;li&gt;Prior experience and a good understanding of machine learning and statistics&lt;/li&gt;
+&lt;li&gt;Very good programming skills in Python and PyTorch&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging and multimodal data&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check the intro slides here:&lt;/p&gt;
-&lt;object data=&#34;/files/AI tools seminar kick-off presentation.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
-&lt;/object&gt;</description>
-    </item>
-    
-    <item>
-      <title>From General to Clinical Adapting Foundation Models for Medical Images (IN2107)</title>
-      <link>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</link>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://compai-lab.io/teaching/ss26_foundation_models_seminar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wblv.wbShowLvDetail?pStpSpNr=950946105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Foundation Models in Deep Learning for Medical Imaging
-Following a successful first iteration, this seminar extends the study of foundation models, with updated perspectives on adaptation strategies and applications in medical imaging. However, real-world deployment, especially in medical imaging, remains challenging due to unseen variations in scanners, patient demographics, and pathological conditions.&lt;/p&gt;
-&lt;p&gt;To address this issue, recent work has focused on foundation models: large-scale models pretrained on diverse data using self- or weakly supervised learning. CLIP-based models learn general-purpose representations that transfer well to downstream tasks. For the context of medical imaging, specific fine-tuned models such as MedSAM and BiomedCLIP demonstrate strong potential.&lt;/p&gt;
-&lt;p&gt;However, adapting foundation models to new domains or tasks often remains challenging. Although domain generalization and adaptation approaches exist, they may overfit or require target data. A recent paradigm, test-time adaptation, mitigates this by adapting alongside inference to unseen data. The techniques include adapting dynamically through model updates or prompt modifications that support more flexible deployment.&lt;/p&gt;
-&lt;p&gt;This seminar will explore the foundations and capabilities of foundation models, with a focus on pretraining strategies, representational generalization, and efficient adaptation methods. We will examine state-of-the-art foundation models and discuss how they can be adapted to downstream tasks, especially in medical imaging, through techniques such as self-supervised learning, cross-domain transfer, and parameter-efficient tuning.&lt;/p&gt;
-&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;p&gt;Learning and project format:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Introduction to Self Supervised Learning and Foundation Models&lt;/li&gt;
-&lt;li&gt;Adaptation techniques to clinical applications&lt;/li&gt;
-&lt;li&gt;Examples of Foundation models in medical imaging&lt;/li&gt;
-&lt;li&gt;State-of-the-art methods&lt;/li&gt;
+&lt;li&gt;The seminar centers on a hands-on implementation project using a curated dataset and a provided PyTorch framework.&lt;/li&gt;
+&lt;li&gt;Students work in teams of two. Each team selects a research paper, with suggestions provided by the lecturers, and implements, trains, evaluates, and analyzes a method on the provided data.&lt;/li&gt;
+&lt;li&gt;An introductory session covers multimodal learning, fusion strategies, critical reading of research papers, and preparation of a scientific poster.&lt;/li&gt;
+&lt;li&gt;Invited talks by clinical collaborators and academic experts provide perspectives on clinical motivation, medical imaging, and current research developments.&lt;/li&gt;
+&lt;li&gt;Each team gives an intermediate oral presentation.&lt;/li&gt;
+&lt;li&gt;The seminar concludes with a conference-style poster session in which teams present their implementations and results.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;p&gt;Lecturers:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Background in image processing and machine learning/deep learning&lt;/li&gt;
-&lt;li&gt;Interest in medical image analysis and foundation models&lt;/li&gt;
-&lt;li&gt;Interest in research&lt;/li&gt;
+&lt;li&gt;Cosmin Bercea&lt;/li&gt;
+&lt;li&gt;Keno Bressem&lt;/li&gt;
+&lt;li&gt;Ha Young Kim&lt;/li&gt;
+&lt;li&gt;Julia Schnabel&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please register via the TUM matching system: &lt;a href=&#34;https://matching.in.tum.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check the intro slides here:&lt;/p&gt;
-&lt;object data=&#34;/files/Kick-off_Slides_Adapting_FM_W26-27.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;400&#34;&gt; 
-&lt;/object&gt;
 </description>
     </item>
     

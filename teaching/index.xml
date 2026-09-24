@@ -5,12 +5,54 @@
     <link>https://compai-lab.io/teaching/</link>
       <atom:link href="https://compai-lab.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Positions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>Open Positions</title>
       <link>https://compai-lab.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>AI in Medicine: Learning from Incomplete Patient Data (IN2107)</title>
+      <link>https://compai-lab.io/teaching/incomplete_data_seminar/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/teaching/incomplete_data_seminar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950974605&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course details&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clinical decisions rarely rely on a single source of information. A patient may be described by medical images, radiology reports, laboratory values, genomics, and clinical history. In practice, however, these modalities are heterogeneous, noisy, and frequently incomplete. This seminar explores how machine learning can build useful multimodal patient representations under these conditions.&lt;/p&gt;
+&lt;p&gt;We study principal fusion strategies, including early, intermediate, and late fusion, joint embeddings, and cross-attention architectures. Particular attention is given to vision-language models and to methods that remain robust when modalities are missing during training or inference. Each project is anchored to a concrete clinical endpoint, such as diagnosis, prognosis, or treatment-response prediction.&lt;/p&gt;
+&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multimodal patient representation learning from heterogeneous, noisy, and incomplete clinical data&lt;/li&gt;
+&lt;li&gt;Early, intermediate, and late fusion&lt;/li&gt;
+&lt;li&gt;Joint embeddings and cross-attention architectures&lt;/li&gt;
+&lt;li&gt;Vision-language models for medicine&lt;/li&gt;
+&lt;li&gt;Learning with missing modalities at training and inference time&lt;/li&gt;
+&lt;li&gt;Evaluation for clinical endpoints such as diagnosis, prognosis, and treatment-response prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prior experience and a good understanding of machine learning and statistics&lt;/li&gt;
+&lt;li&gt;Very good programming skills in Python and PyTorch&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging and multimodal data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learning and project format:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The seminar centers on a hands-on implementation project using a curated dataset and a provided PyTorch framework.&lt;/li&gt;
+&lt;li&gt;Students work in teams of two. Each team selects a research paper, with suggestions provided by the lecturers, and implements, trains, evaluates, and analyzes a method on the provided data.&lt;/li&gt;
+&lt;li&gt;An introductory session covers multimodal learning, fusion strategies, critical reading of research papers, and preparation of a scientific poster.&lt;/li&gt;
+&lt;li&gt;Invited talks by clinical collaborators and academic experts provide perspectives on clinical motivation, medical imaging, and current research developments.&lt;/li&gt;
+&lt;li&gt;Each team gives an intermediate oral presentation.&lt;/li&gt;
+&lt;li&gt;The seminar concludes with a conference-style poster session in which teams present their implementations and results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lecturers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cosmin Bercea&lt;/li&gt;
+&lt;li&gt;Keno Bressem&lt;/li&gt;
+&lt;li&gt;Ha Young Kim&lt;/li&gt;
+&lt;li&gt;Julia Schnabel&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>AI-driven tools for Medical Imaging and Visualization (IN2107)</title>
