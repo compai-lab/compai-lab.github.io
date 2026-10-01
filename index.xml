@@ -28,6 +28,22 @@
     </item>
     
     <item>
+      <title>One paper accepted at NeurIPS 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_10_neurips_paper/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_10_neurips_paper/</guid>
+      <description>&lt;p&gt;Our lab will be presenting one paper at the The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026 as a Spotlight:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entropy Minimization without Model Collapse: Mitigating Prediction Bias for Medical Imaging&lt;/strong&gt;&lt;br&gt;
+Tim Nielen, Sameer Ambekar, Johannes Kiechle, Daniel M. Lang, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2606.02339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2606.02339&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TL;DR: We identify the root cause of model collapse: Entropy Minimization, which amplifies prediction bias and ultimately drives models into collapse. Building on this insight, we propose Distribution Shift Bias Reduction (DSBR), a method that effectively mitigates model collapse across both natural vision and medical imaging settings.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AI in Medicine: Learning from Incomplete Patient Data (IN2107)</title>
       <link>https://compai-lab.io/teaching/incomplete_data_seminar/</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>

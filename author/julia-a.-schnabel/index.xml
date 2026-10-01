@@ -5,12 +5,28 @@
     <link>https://compai-lab.io/author/julia-a.-schnabel/</link>
       <atom:link href="https://compai-lab.io/author/julia-a.-schnabel/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia A. Schnabel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/author/julia-a.-schnabel/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_816920_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Julia A. Schnabel</title>
       <link>https://compai-lab.io/author/julia-a.-schnabel/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted at NeurIPS 2026 Main Conference</title>
+      <link>https://compai-lab.io/post/26_10_neurips_paper/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/post/26_10_neurips_paper/</guid>
+      <description>&lt;p&gt;Our lab will be presenting one paper at the The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026 as a Spotlight:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entropy Minimization without Model Collapse: Mitigating Prediction Bias for Medical Imaging&lt;/strong&gt;&lt;br&gt;
+Tim Nielen, Sameer Ambekar, Johannes Kiechle, Daniel M. Lang, Julia A. Schnabel&lt;br&gt;
+(&lt;a href=&#34;https://arxiv.org/pdf/2606.02339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2606.02339&lt;/a&gt;)&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TL;DR: We identify the root cause of model collapse: Entropy Minimization, which amplifies prediction bias and ultimately drives models into collapse. Building on this insight, we propose Distribution Shift Bias Reduction (DSBR), a method that effectively mitigates model collapse across both natural vision and medical imaging settings.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Three papers accepted at ICML 2026 Main Conference</title>
