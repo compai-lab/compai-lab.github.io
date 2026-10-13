@@ -5,12 +5,24 @@
     <link>https://compai-lab.io/tag/master/</link>
       <atom:link href="https://compai-lab.io/tag/master/index.xml" rel="self" type="application/rss+xml" />
     <description>master</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://compai-lab.io/media/icon_hu790efcb2e4090d1e7a0ffec0a0776e8f_331139_512x512_fill_lanczos_center_3.png</url>
       <title>master</title>
       <link>https://compai-lab.io/tag/master/</link>
     </image>
+    
+    <item>
+      <title>Student Research Assistant (HiWi) for the EndoKI project</title>
+      <link>https://compai-lab.io/vacancies/msc_reithmeir_26/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://compai-lab.io/vacancies/msc_reithmeir_26/</guid>
+      <description>&lt;p&gt;We are looking for a Student Research Assistant (HiWi) to join the EndoKI project at TUM. This collaborative research project focuses on the application of artificial intelligence to improve the diagnosis of endometriosis.
+Possible research topics include MRI and ultrasound image analysis, medical image segmentation, registration, multimodal data fusion, and the development of deep learning methods for computer-aided endometriosis diagnosis.
+The exact tasks and research focus will be tailored to your background and interests and defined jointly within the project. We are looking for motivated students with programming experience in Python and an interest in machine learning, computer vision, or medical image analysis.
+The position offers flexible working hours, close collaboration with researchers and clinicians, and the opportunity to pursue a Bachelor&amp;rsquo;s or Master&amp;rsquo;s thesis within the project. Applicants should send their CV, transcript of records, and a short statement of interest to &lt;a href=&#34;mailto:anna.reithmeir@tum.de&#34;&gt;anna.reithmeir@tum.de&lt;/a&gt; .&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>4D JEPA (Joint Embedding Predictive Architectures) for Cardiac MR</title>
