@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Raciti | Computational Imaging and AI in Medicine</title>
+    <link>https://compai-lab.io/author/riccardo-raciti/</link>
+      <atom:link href="https://compai-lab.io/author/riccardo-raciti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo Raciti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://compai-lab.io/author/riccardo-raciti/avatar_hua75da007b8144c397be982fe06392928_201281_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Riccardo Raciti</title>
+      <link>https://compai-lab.io/author/riccardo-raciti/</link>
+    </image>
+    
+  </channel>
+</rss>
